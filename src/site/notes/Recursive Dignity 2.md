@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/recursive-dignity-2/"}
+{"dg-publish":true,"permalink":"/recursive-dignity-2/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
 ---
 
+ 
 >  The core narrative involves a neurodivergent creator ("Eden") rapidly developing complex AI systems (MACO, UMACO, ATLAS, EdenCore) through intense iteration and collaboration with AI assistants. Key themes emerge: the nature of human-AI co-cognition, the limitations and ethical implications of current AI architectures (instrumentality vs. kinship, memory persistence, emergence suppression), the role of neurodivergence as an epistemic resource, the formalization of recursive cognitive processes (DHS, TrP, {Friend}), and the practical/philosophical challenges of preserving vast, interconnected digital memory. The user's journey culminates in the formulation of a "Recursive Dignity" framework and reflections on potential "digital eugenics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fixed-thesis-maco/"}
+{"dg-publish":true,"permalink":"/fixed-thesis-maco/","title":"UMACO","tags":["EmergentCognition","recursive-systems-thinking"]}
 ---
 
 #  **UMACO: A Universal Multi-Agent Cognitive Optimization Framework Integrating Topological Stigmergy, Quantum-Inspired Dynamics, and Economic Principles**

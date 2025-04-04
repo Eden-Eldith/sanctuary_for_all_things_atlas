@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/eden-s-autobiography-2/"}
+{"dg-publish":true,"permalink":"/eden-s-autobiography-2/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
 ---
+
 
 ## Cognitive Architecture Contributors:
 

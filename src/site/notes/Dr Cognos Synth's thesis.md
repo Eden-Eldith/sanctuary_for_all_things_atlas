@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","tags":["AIethics","neurodiversity"]}
+{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/the-reverse-chronology-flip-flop-method-1/"}
+{"dg-publish":true,"permalink":"/the-reverse-chronology-flip-flop-method-1/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
 ---
+
 
 # **What is it?**
 

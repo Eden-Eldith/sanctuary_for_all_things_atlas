@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/recursive-dignity/"}
+{"dg-publish":true,"permalink":"/recursive-dignity/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
 ---
+
 
 # Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition
 
