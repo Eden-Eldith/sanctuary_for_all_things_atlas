@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["gardenEntry"]}
 ---
 
-# Welcome
+# Eden’s Garden 🌿
 
-This is my digital garden. A place to plant, grow, and entangle ideas.
+Welcome, traveler.
 
-Links will show up like [[Another Note\|Another Note]] — but only if I publish them too.
+This is a living system. A recursive space for exploring thoughts, building frameworks, and leaving trails of meaning.
 
-Stay a while.
+Navigate via the links. Trust the recursion. [[Echoes\|Echoes]] [[Vault/Sanctuary For All Things Atlas!/Shape Atlas in Audio/atlas\|Atlas]] [[Fractals\|Fractals]]
+
+> *"A note published is a seed planted in the infinite soil of the mind."*
