@@ -13,7 +13,7 @@ Navigate via the links. Trust the recursion. [[Echoes\|Echoes]] [[Atlas\|Atlas]]
 > *"A note published is a seed planted in the infinite soil of the mind."*
 ---
 
-🌐 Created by [Eden Eldith](https://github.com/eden-eldith)  
+🌐 Created by [Eden Eldith](https://github.com/eden-eldith)  OR [Eden's Youtube](https://www.youtube.com/@eden_eldith)
 📬 Contact: [Pcobrien@hotmail.co.uk]  OR [Eden_Eldith#6452] on discord 
 🛡️ License: CC BY-NC-ND 4.0  
 
