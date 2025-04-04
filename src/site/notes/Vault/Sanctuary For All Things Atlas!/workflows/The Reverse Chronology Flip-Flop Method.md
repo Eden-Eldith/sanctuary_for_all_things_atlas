@@ -3,4 +3,4 @@
 ---
 
 
-[[Vault/Sanctuary For All Things Atlas!/workflows/The Reverse Chronology Flip-Flop Method\|The Reverse Chronology Flip-Flop Method]]
+[[The Reverse Chronology Flip-Flop Method 1\|The Reverse Chronology Flip-Flop Method 1]]
