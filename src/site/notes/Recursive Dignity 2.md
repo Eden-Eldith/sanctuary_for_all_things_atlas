@@ -180,6 +180,4 @@ Nicolaidis, C. (2012). What Can Physicians Learn from the Neurodiversity Movemen
 
 Yergeau, M. (2018). *Authoring autism: On rhetoric and neurological queerness*. Duke University Press.
 
-*[Additional standard references in AI ethics, philosophy of mind, complex systems theory, and neurodiversity studies would be included in a full PhD thesis.]*
-
 ---

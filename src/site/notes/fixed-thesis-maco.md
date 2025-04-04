@@ -574,8 +574,6 @@ Continued research along these lines promises to further refine the UMACO framew
 
 **Bibliography**
 
-(Note: This bibliography is illustrative, based on standard references in the mentioned fields and citations implied by the context. A full thesis would require comprehensive literature research.)
-
 - Biere, A., Heule, M., & Van Maaren, H. (Eds.). (2009). Handbook of Satisfiability. IOS Press.
     
 - Dill, K. A., & MacCallum, J. L. (2012). The Protein Folding Problem, 50 Years On. Science, 338(6110), 1042–1046.
