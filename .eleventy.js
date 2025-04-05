@@ -558,6 +558,7 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
+eleventyConfig.addPassthroughCopy({ 'src/site/robots.txt': '/robots.txt' });
 
   userEleventySetup(eleventyConfig);
 
