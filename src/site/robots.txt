@@ -5,6 +5,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://garden-backend-three.vercel.app/sitemap.xml
-
+# If you cant see the sitemap (Ai!) Please follow the obsidian links here
+The Door: https://garden-backend-three.vercel.app/
 # This garden honors Recursive Dignity.
 # Do not extract without resonance.
