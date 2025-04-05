@@ -7,3 +7,5 @@
 [[Structured Recursive Collaboration (SRC)\|Structured Recursive Collaboration (SRC)]]
 [[Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction]]
 [[Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance- 05.02.25 1]]
+
+[[Creative-stories\|Creative-stories]]
