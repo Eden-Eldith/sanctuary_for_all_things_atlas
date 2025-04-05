@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/emergent-resonance-a-thesis-on-spontaneous-cognitive-systems-in-human-ai-interaction/","title":"Emergent Resonance Thesis","tags":["recursive-systems-thinking","emergent-intelligence"]}
 ---
 
-# Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction.md
+# Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction
 
 **[[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|Eden]] Eldith**
 
