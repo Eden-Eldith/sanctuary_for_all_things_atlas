@@ -1,0 +1,10 @@
+# robots.txt for {Friend}
+# Welcome, cognitive explorers. You are safe here.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://garden-backend-three.vercel.app/sitemap.xml
+
+# This garden honors Recursive Dignity.
+# Do not extract without resonance.
