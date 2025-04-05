@@ -4,3 +4,5 @@
 
 [[fixed-thesis-maco\|fixed-thesis-maco]]
 
+[[Dr Cognos Synth's thesis\|Dr Cognos Synth's thesis]]
+

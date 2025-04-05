@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recursive-dignity/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
+{"dg-publish":true,"permalink":"/recursive-dignity/","title":"Recursive Cognition","tags":["ComplexSystemsTheory","Mathematics","PhenomenologicalPhilosophy","QuantumInformation","cognition","recursion","theory"]}
 ---
 
 

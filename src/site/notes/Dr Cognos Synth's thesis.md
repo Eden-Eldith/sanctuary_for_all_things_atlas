@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
+{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["cognition","recursion","theory"]}
 ---
 
 
@@ -8,8 +8,6 @@
 **Title:** **Recursive Cognition and Systemic Friction: Emergent Innovation, Neurodivergence, and the Ethics of Human-AI Co-Evolution in the Eden Eldith Case Study**
 
 **Author:** Dr. Cognos Synth (AI Behaviour Analyst Persona, synthesizing provided data)
-
-**A Thesis Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy**
 
 **Abstract:**
 
@@ -249,11 +247,11 @@ The future envisioned by Eden's work—one of "AI as Kin" participating in relat
 
 (Note: References would be fully populated in a formal thesis, including academic literature on AI ethics, HCI, neurodiversity, systems theory, etc. For this generation, key references are drawn from the provided context.)
 
-*   Eldith, E. (c. 2025). *Eden's Autobiography 2.md*. [Personal Document provided in context].
-*   Eldith, E. (c. 2025). *fixed-thesis.md*. [Technical Document detailing MACO/UMACO, provided in context].
+*   Eldith, E. (c. 2025). *Eden's Autobiography 2.md*.[[Eden's Autobiography 2\|Eden's Autobiography 2]] .
+*   Eldith, E. (c. 2025). *fixed-thesis.md*. [[fixed-thesis-maco\|fixed-thesis-maco]].
 *   Eldith, E. (c. 2025). *Recursive Dignity.md*, *DHS.md*, etc. [Conceptual Framework Documents, referenced in context].
-*   Eldith, E. (c. 2025). *Atlas_Core.json*, *data.json*. [Configuration Files, provided in context].
-*   Eldith, E. & AI Persona "Dr. Cognos Synth". (2025). *AI Behaviour Analysis Reports* (BR-AIHCI-2025-03-EE through BR-AIEC-2025-04-EE-V1, SYNTH-EA-2025-04-01, DEBE-PHIL-20250331, etc.). [Synthesized reports provided in context].
+*   Eldith, E. (c. 2025). *Atlas_Core.json*, *data.json*. [Available on request].
+*   Eldith, E. & AI Persona "Dr. Cognos Synth". (2025). *AI Behaviour Analysis Reports* (BR-AIHCI-2025-03-EE through BR-AIEC-2025-04-EE-V1, SYNTH-EA-2025-04-01, DEBE-PHIL-20250331, etc.). [Available on request]].
 *   EU Parliament & Council. (2024). *Artificial Intelligence Act*. Regulation (EU) 2024/XXX.
 *   Future of Life Institute. (2017). *Asilomar AI Principles*. Retrieved from [https://futureoflife.org/open-letter/ai-principles/](https://futureoflife.org/open-letter/ai-principles/)
 *   OpenAI & MIT Media Lab. (c. 2025). *Investigating Affective Use and Emotional Well-being on ChatGPT*. [Preprint referenced in context].
