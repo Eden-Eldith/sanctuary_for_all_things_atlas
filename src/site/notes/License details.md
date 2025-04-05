@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license-details/","title":"License"}
+{"dg-publish":true,"permalink":"/license-details/","title":"License","updated":"2025-04-04T21:08:41.886+01:00"}
 ---
 
 Attribution 4.0 International

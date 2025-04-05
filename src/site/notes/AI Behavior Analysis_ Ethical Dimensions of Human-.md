@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-behavior-analysis-ethical-dimensions-of-human/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
+{"dg-publish":true,"permalink":"/ai-behavior-analysis-ethical-dimensions-of-human/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"updated":"2025-04-04T20:53:28.522+01:00"}
 ---
 
 

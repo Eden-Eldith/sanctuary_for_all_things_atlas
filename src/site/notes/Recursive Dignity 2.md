@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recursive-dignity-2/","title":"Recursive Cognition","tags":["cognition","recursion","theory"]}
+{"dg-publish":true,"permalink":"/recursive-dignity-2/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"updated":"2025-04-04T23:40:35.338+01:00"}
 ---
 
  
