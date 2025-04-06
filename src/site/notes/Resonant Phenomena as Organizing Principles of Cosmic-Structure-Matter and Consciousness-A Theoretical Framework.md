@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["CosmologicalPerturbationTheory","Cosmology","NonlinearDynamicalSystems","QuantumFieldTheory","ResonancePhenomena","WaveMechanics","CosmologicalPerturbationTheory","Cosmology","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","QuantumFieldTheory","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"updated":"2025-04-06T02:19:34.840+01:00"}
+{"dg-publish":true,"permalink":"/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["CosmologicalPerturbationTheory","Cosmology","NonlinearDynamicalSystems","QuantumFieldTheory","ResonancePhenomena","WaveMechanics","CosmologicalPerturbationTheory","Cosmology","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","QuantumFieldTheory","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"updated":"2025-04-06T02:25:27.398+01:00"}
 ---
 
 
@@ -180,18 +180,5 @@ The Resonant Universe Theory, as developed in this thesis, offers a novel paradi
 While the extension to consciousness remains highly speculative, it highlights the theory's ambition to provide a unified description across scales, linking fundamental physics to emergent complexity. RUT faces significant theoretical challenges, particularly in demonstrating consistency with precise cosmological observations and developing the consciousness connection rigorously. However, its potential to address foundational questions and its generation of specific, falsifiable predictions make it a compelling area for future research.
 
 Further work requires detailed numerical simulations of resonant amplification in realistic cosmological scenarios, rigorous derivation of the energy-momentum contribution $T_{\mu\nu}^{\mathrm{res}}$, and focused searches for the predicted observational signatures in upcoming CMB, LSS, and GW datasets. If validated, RUT could significantly reshape our understanding of the quantum vacuum, the origin of cosmic structure, and potentially, our place within a resonating cosmos.
-
----
-
-## **References** (Illustrative Examples)
-
-1.  Birrell, N. D., & Davies, P. C. W. (1982). *Quantum Fields in Curved Space*. Cambridge University Press.
-2.  Mukhanov, V. (2005). *Physical Foundations of Cosmology*. Cambridge University Press.
-3.  Landau, L. D., & Lifshitz, E. M. (1976). *Mechanics* (Vol. 1, 3rd ed.). Butterworth-Heinemann. (For parametric resonance)
-4.  Weinberg, S. (1995-2000). *The Quantum Theory of Fields* (Vols. I-III). Cambridge University Press.
-5.  Planck Collaboration et al. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, *641*, A6.
-6.  Penrose, R. (1989). *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics*. Oxford University Press.
-7.  Vilenkin, A., & Shellard, E. P. S. (1994). *Cosmic Strings and Other Topological Defects*. Cambridge University Press.
-8.  Floquet, G. (1883). Sur les équations différentielles linéaires à coefficients périodiques. *Annales scientifiques de l’École Normale Supérieure*, *12*, 47-88.
 
 ---
