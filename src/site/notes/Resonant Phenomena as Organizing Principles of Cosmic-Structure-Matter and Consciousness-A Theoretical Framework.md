@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["CosmologicalPerturbationTheory","Cosmology","NonlinearDynamicalSystems","QuantumFieldTheory","ResonancePhenomena","WaveMechanics","CosmologicalPerturbationTheory","Cosmology","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","QuantumFieldTheory","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"updated":"2025-04-06T16:23:03.950+01:00"}
+{"dg-publish":true,"permalink":"/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","Cosmology","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","QuantumFieldTheory","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"updated":"2025-04-06T22:18:46.770+01:00"}
 ---
 
-
+		
 ---
 
 **Title:** **Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness: A Theoretical Framework**

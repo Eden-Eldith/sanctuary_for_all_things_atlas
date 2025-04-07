@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-man-and-his-machine/","tags":["RecursiveSystemsThinking","recursive-philosophy","technological-humanism"],"updated":"2025-04-05T19:12:19.921+01:00"}
+{"dg-publish":true,"permalink":"/the-man-and-his-machine/","tags":["MarsExploration","SpaceTravel","RecursiveSystemsThinking","recursive-philosophy","technological-humanism"],"updated":"2025-04-06T19:01:07.945+01:00"}
 ---
 
 # The Man And His Machine

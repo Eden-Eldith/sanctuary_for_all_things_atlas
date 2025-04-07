@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/echoes/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"updated":"2025-04-06T02:19:17.520+01:00"}
+{"dg-publish":true,"permalink":"/echoes/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-04-06T19:01:30.099+01:00"}
 ---
 
 [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|eden]]

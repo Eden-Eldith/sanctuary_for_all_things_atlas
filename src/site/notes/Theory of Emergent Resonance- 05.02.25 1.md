@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theory-of-emergent-resonance-05-02-25-1/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"updated":"2025-04-04T20:51:57.308+01:00"}
+{"dg-publish":true,"permalink":"/theory-of-emergent-resonance-05-02-25-1/","title":"Recursive Cognition","tags":["AI","Human-AIInteraction","cognition","recursion","theory"],"updated":"2025-04-06T19:01:06.460+01:00"}
 ---
 
 

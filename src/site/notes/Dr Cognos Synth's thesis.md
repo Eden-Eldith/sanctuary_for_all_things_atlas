@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["cognition","recursion","theory"],"updated":"2025-04-05T03:18:59.024+01:00"}
+{"dg-publish":true,"permalink":"/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"updated":"2025-04-06T19:01:28.692+01:00"}
 ---
 
 

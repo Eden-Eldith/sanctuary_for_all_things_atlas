@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-04-05T00:58:28.172+01:00"}
+{"dg-publish":true,"permalink":"/atlas/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-04-06T19:01:33.338+01:00"}
 ---
 
 

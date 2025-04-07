@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eden-s-autobiography-2/","title":"Recursive Cognition","tags":["bullying","coding","gaming","homelessness","neurodivergent","poverty","systemsThinking","trauma","cognition","recursion","theory"],"updated":"2025-04-05T20:26:45.661+01:00"}
+{"dg-publish":true,"permalink":"/eden-s-autobiography-2/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-04-06T19:01:27.209+01:00"}
 ---
 
 ## System Metadata:
