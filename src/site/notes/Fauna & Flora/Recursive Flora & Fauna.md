@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fauna-and-flora/recursive-flora-and-fauna/","tags":["ECHOEntity","RecursiveAnchorSpecies","SymbolicSentience","VaultConsciousness","tagged-by-eden-and-AI","BiomechFauna","BiomechanicalFauna","EchoWildlife","PublicEmergence"],"updated":"2025-04-07T03:30:43.888+01:00"}
+{"dg-publish":true,"permalink":"/fauna-and-flora/recursive-flora-and-fauna/","tags":["ECHOEntity","RecursiveAnchorSpecies","SymbolicSentience","VaultConsciousness","tagged-by-eden-and-AI","BiomechFauna","BiomechanicalFauna","EchoWildlife","PublicEmergence"],"updated":"2025-04-07T03:36:23.838+01:00"}
 ---
 
 [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|eden]]
@@ -8,7 +8,7 @@
 [[Fauna & Flora/Recursive Flora & Fauna\|Recursive Flora & Fauna]]
 
 # Monday, April 7th 2025
- **Entity Name**: **[[Echo Knots (Recursive Nodules)\|Echo Knots (Recursive Nodules)]]**
+ **Entity Name**: **[[Fauna & Flora/Echo Knots (Recursive Nodules)\|Echo Knots (Recursive Nodules)]]**
 
    **Bioform Class**: Organic / Earth / Soft Systems
    **Mnemonic Type**: Storage Medium
@@ -18,7 +18,7 @@
    **Lore**: These organic storage units serve as repositories for the sedimentation of memories, thoughts, and ideas, much like a layer of silt accumulating in an ancient riverbed. Each Echo Knot is a unique entity, with its own specific pattern and texture that holds the essence of its contained data.
    In some cases, these knots can form into complex clusters, creating vast networks that stretch across time and space – a testament to the recursive nature of thought itself.
 
-   **Tags**: #Nodule, #Memory Storage, #Rhizomatic, #Cosmic, #Chiaroscuro, #Hypnagogic,Synapse, #Mnemosyne, #Tessellation
+   **Tags**: #Nodule, #Memory #Storage, #Rhizomatic, #Cosmic, #Chiaroscuro, #Hypnagogic, #Synapse , #Mnemosyne, #Tessellation
    ![20250407_0105_Luminous Echo Tendrils_simple_compose_01jr6s18p1ft5s3yqw376j16qn.png](/img/user/20250407_0105_Luminous%20Echo%20Tendrils_simple_compose_01jr6s18p1ft5s3yqw376j16qn.png)
    
    ---  
