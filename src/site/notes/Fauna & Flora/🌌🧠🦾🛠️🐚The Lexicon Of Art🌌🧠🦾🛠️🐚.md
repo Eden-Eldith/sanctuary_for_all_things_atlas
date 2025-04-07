@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/fauna-and-flora/the-lexicon-of-art/","updated":"2025-04-07T03:27:59.924+01:00"}
+{"dg-publish":true,"permalink":"/fauna-and-flora/the-lexicon-of-art/","updated":"2025-04-07T10:33:30.395+01:00"}
 ---
 
-[[Fauna & Flora/Recursive Flora & Fauna\|Recursive Flora & Fauna]]
+[[Fauna & Flora/UMACO colony/Recursive Flora & Fauna\|Recursive Flora & Fauna]]
 # For Ai assisted art generation:
 ---
 
@@ -171,7 +171,7 @@
 
 ---
 
- [[Fauna & Flora/Recursive Flora & Fauna\|Recursive Flora & Fauna]]. 
+ [[Fauna & Flora/UMACO colony/Recursive Flora & Fauna\|Fauna & Flora/UMACO colony/Recursive Flora & Fauna]]. 
 
 
-[[Fauna & Flora/Recursive Lexicon Engine\|Recursive Lexicon Engine]]
+[[Fauna & Flora/UMACO colony/Recursive Lexicon Engine\|Fauna & Flora/UMACO colony/Recursive Lexicon Engine]]
