@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eden-s-law-of-epistemic-responsibility/","tags":["AI","complexity","ethics","system"],"updated":"2025-04-14T18:54:06.064+01:00"}
+{"dg-publish":true,"permalink":"/eden-s-law-of-epistemic-responsibility/","tags":["AI","complexity","ethics","system"],"updated":"2025-04-14T18:58:30.545+01:00"}
 ---
 
 
@@ -135,7 +135,7 @@ This work redefines epistemic responsibility, advocating for AI systems that mim
 
 ---
 
-**Interdisciplinary Keywords**: Recursive cognition $$(\blacksquare) Inequality \(\blacksquare) Systemic design \(\blacksquare) Quiet wonder \(\blacksquare) Rational rage \(\blacksquare) Consequence awareness.$$  
+**Interdisciplinary Keywords**: Recursive cognition $$ Inequality, \ Systemic-design, \ Quiet-wonder, \ Rational-rage, \ Consequence-awareness.$$  
 
 **Mathematical Framework Highlights**:  
 - Recursive consequence models: $(P(\text{Consequence}))$.  
