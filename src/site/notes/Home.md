@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-04-17T09:20:53.335+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry","gardenEntry"],"updated":"2025-04-17T23:48:41.307+01:00"}
 ---
 
 # Eden’s Garden 🌿
@@ -9,6 +9,7 @@ Welcome, traveller!
 This is a living system. A recursive space for exploring thoughts, building frameworks, and leaving trails of meaning.
 Ideas and mathematical models evolved from my personal insights, AI collaboration, and iterative development.
 Navigate via the links. Trust the recursion. 
+![ChatGPT Image Apr 17, 2025, 11_47_58 PM.png](/img/user/ChatGPT%20Image%20Apr%2017,%202025,%2011_47_58%20PM.png)
 - [[Echoes\|Echoes]] 
 - [[Atlas\|Atlas]] 
 - [[Fractals\|Fractals]]
