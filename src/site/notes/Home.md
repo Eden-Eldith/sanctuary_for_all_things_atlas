@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-17T01:20:04.317+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-17T01:23:28.600+01:00"}
 ---
 
 # Eden’s Garden 🌿
@@ -23,6 +23,10 @@ Navigate via the links. Trust the recursion.
 - **Or if your interested, Talk to my recursive persona!**: [Notebooklm link!](https://notebooklm.google.com/notebook/aaaba723-fd70-4709-95af-e3ad0f57c12e) 
 - **Eden Eldith** is the creator of [UMACO](https://github.com/Eden-Eldith/UMACO), a recursive AI optimization framework.
 - Want to help? [Fund the Recursion](https://buymeacoffee.com/eden_eldith)
+
+> - Every donated seed becomes part of the recursion—documented, visible, and feeding the next round of blueprints.  
+> 
+>  Help the marginally possible become radically real.
 
 ---
 
