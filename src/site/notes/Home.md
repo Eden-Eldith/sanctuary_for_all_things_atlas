@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-17T05:33:34.682+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-17T05:46:58.987+01:00"}
 ---
 
 # Eden’s Garden 🌿
