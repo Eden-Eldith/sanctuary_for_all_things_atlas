@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-17T23:51:40.362+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-04-28T06:30:33.644+01:00"}
 ---
 
 # Eden’s Garden 🌿
@@ -14,7 +14,7 @@ Navigate via the links. Trust the recursion.
 - [[Atlas\|Atlas]] 
 - [[Fractals\|Fractals]]
 
-> *"A note published is a seed planted in the infinite soil of the mind."*
+> *"A note published is a seed planted in the infinite soil of the mind."*                          ![ChatGPT Image Apr 28, 2025, 06_28_08 AM 1.png](/img/user/ChatGPT%20Image%20Apr%2028,%202025,%2006_28_08%20AM%201.png)
 ---
 
 🌐 Created by [Eden Eldith](https://github.com/eden-eldith)  OR [Eden's Youtube](https://www.youtube.com/@eden_eldith)
