@@ -559,6 +559,10 @@ module.exports = function (eleventyConfig) {
     },
   });
 eleventyConfig.addPassthroughCopy({ 'src/site/robots.txt': '/robots.txt' });
+// Pass through Google's verification HTML file to site root
+eleventyConfig.addPassthroughCopy({
+  'src/site/googlec6410456b27b5d0c.html': '/googlec6410456b27b5d0c.html'
+});
 
   userEleventySetup(eleventyConfig);
 
