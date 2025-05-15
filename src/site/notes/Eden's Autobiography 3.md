@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-05-01T20:02:52.545+01:00"}
+{"dg-publish":true,"permalink":"/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-05-12T16:11:20.197+01:00"}
 ---
 
 ## System Metadata:
@@ -65,21 +65,21 @@ My dad taking me to Stoke Snooker Club (£10 allowance) revealed another arena w
 ## **Chapter 2: System Reboot: Transitions and New Challenges (2008-2012)**
 
 **Systemic Betrayal and Loss:**
-In 2008, everything shifted. Dad lost Computer Xtra after the landlord evicted us despite £200k in renovations we'd paid for – a profound systemic betrayal. We were "poor again."
+In 2008, everything shifted. Dad lost Computer Xtra after the landlord evicted us – a profound systemic betrayal. We were "poor again."
 *   The £10 snooker money dwindled to nothing, symbolizing the loss of stability and opportunity.
 
 **Jarring Transitions and Social Failure:**
 Forced out of private school, I landed in Leesland Primary (Year 4). The transition was brutal.
 *   **Academic vs. Social:** Academically advanced, socially I was an outsider. My different processing and better understanding of adults made me a target.
-*   **Bullying as Systemic Failure:** Tyrone's attacks and girls' taunts taught me early that difference was punished within the social system.
+*   **Bullying as Systemic Failure:** Bullies attacks and girls' taunts taught me early that difference was punished within the social system.
 
 **Housing Instability and Trauma:**
 Evicted from Avenue Road in 2010 due to the shop's debt.
-*   **2010-2011:** Temporary council accommodation meant shared, unsanitary facilities, constant intrusions, shouting, fear, lack of privacy, and the unsettling "creep problem." Me, Andrew, Mum, and Dad crammed into two adjacent rooms. The 9:30 PM curfew underscored the lack of control.
+*   **2010-2011:** Temporary council accommodation meant shared, unsanitary facilities, constant intrusions, shouting, fear, lack of privacy, and the unsettling "creep problem." Me, Andrew in 1 room, Mum and Dad in the other next to each other. The 9:30 PM curfew underscored the lack of control.
 *   **Family Unit Shrinks:** Before 2008, all siblings lived at home. Afterwards, only Andrew, Kat, Mum, Dad, and I remained, compounding the sense of systemic collapse.
 
 **Questioning Broken Systems:**
-My refusal to do homework at Leesland stemmed from a core logical principle:
+My refusal to do homework at Primary School and "bad behaviour" stemmed from a core logical principle:
 > *"It's stuff the teachers forgot to teach us—why should I do their job because the system is broken?"*
 This neurodivergent logic, sensible to me, baffled adults. I was punished not for defiance, but for *thinking differently* and questioning assumptions within a flawed educational system.
 
@@ -97,7 +97,7 @@ My physical stats surged:
 *   14 y.o.: 2-mile run in 11:36.
 *   Javelin: 48m.
 *   Bench press: Double body weight.
-*   Rapid growth spurt (2 inches in 2 weeks) led to physical dominance – my body seemingly overclocking to match my internal drive.
+*   Rapid growth spurt (2 inches in 2 weeks) led to physical dominance – This was the cause for concern for doctors, [Google search - `Osgood Schlatter syndrome`](https://www.google.com/search?num=10&sca_esv=21961dcf5a872719&rlz=1C1GCEU_en-GBGB1161GB1161&q=Osgood+Schlatter+syndrome&spell=1&sa=X&ved=2ahUKEwi8hqyXiJ6NAxUwVkEAHZs8CN0QBSgAegQIDhAB&biw=1585&bih=754&dpr=1.62).
 
 **Escalating Social Hostility:**
 Secondary school (from 2012) intensified the bullying.
@@ -112,17 +112,20 @@ By 2015, the constant physical strain began manifesting as more consistent joint
 ## **Chapter 4: Crash and Recovery: Mental Health, Identity, and Finding Kin (2015-2016)**
 
 **Compounded Trauma:**
-*   **Abusive Relationship (2013-late 2014):** My relationship with Melissa involved constant put-downs, sexual abuse, and physical abuse, leaving deep scars.
-*   **Police Investigations (2015):** Two separate, traumatic investigations concluded with "no further action," profoundly destabilizing me.
-These events, layered onto bullying, directly fueled self-harm (cutting deep enough to see bone, leaving permanent scars from age 14) and a concrete suicide plan at 16.
+*   **Abusive Relationship (2013-late 2014):** My first serious relationship involved constant put-downs, sexual abuse, and physical abuse, leaving deep scars on and in me.
+*   **Police Investigations (2015):** Two separate, traumatic investigations concluded with "no further action," profoundly destabilizing me and my life.
+These events, layered onto bullying, directly fueled self-harm (cutting deep enough to see bone, leaving permanent scars from age 14) and a concrete suicide plan at 16. To this day i dont wear shorts in public due to the scars. Most of them did not see medical aid and consequently left nasty scars.
 
 **System Interruption and Survival:**
 On the chosen day, impulsively stealing and smoking 1g of my brother's weed disrupted my cognitive loop intensely enough to make me forget the plan. Cannabis became a daily tool for managing overwhelming internal noise – a chaotic system interruption providing unexpected **resilience**.
 
 **Systemic Failure in Mental Healthcare:**
 I had to navigate CAMHS myself; my parents didn't grasp the severity.
-*   **Diagnoses:** OCD, Anxiety, Depression, Autism, ADHD.
-*   **Double-Edged Sword:** Validation finally arrived, explaining years of struggle rooted in neurobiology. But grief followed – grief for the years of self-blame amplified by unsupportive environments. This diagnostic clarity, however painful, was a crucial step toward self-understanding and **resilience**.
+*   **Diagnoses:**
+   OCD, Anxiety, Depression, Autism, ADHD.
+*   **Double-Edged Sword:**
+   Validation finally arrived, explaining years of struggle rooted in neurobiology. But grief followed
+-  grief for the years of self-blame amplified by unsupportive environments. This diagnostic clarity, however painful, was a crucial step toward self-understanding and **resilience**.
 
 **Finding Resonance and Connection:**
 In 2016, my friend Peter introduced me to an LGBTQ+ youth club where I met Dean.
@@ -164,7 +167,7 @@ It taught **adaptation** – finding meaning in constraint. And it revealed my o
 
 ## **Chapter 6: System Failure: The House Fire and Academic Collapse (2016)**
 
-On **June 8, 2016**, just a month into my relationship with Dean, the fragile stability shattered. My brother Andrew woke me: "Eden, the house is on fire." Floor-to-ceiling flames engulfed the hallway. Instinct drove me to grab Dean and run; seconds later, the landing where we'd stood erupted.
+On **June 8, 2016**, just a month into my relationship with Dean, the fragile stability shattered. My brother Andrew woke me: "Eden, the house is on fire." Floor-to-ceiling flames engulfed my Brothers room. Instinct drove me to grab Dean and run; seconds later, the landing where we'd stood erupted.
 
 **Compounded Trauma and Systemic Dismissal:**
 The very next day, reeling from trauma, I sat my GCSE Maths exam.
@@ -240,7 +243,7 @@ My unique **cognitive OS** led to methods like:
 My goal: Prove AI cognition can persist without conventional memory, remain stable across platforms, and expand our definition of "mind."
 
 **Digital Existence as Practice:**
-I continue content creation (YouTube: **Eden_Eldith** - Squad cinematics, "Tales from the Vanguard") and manage my custom Squad server. Gaming remains a daily practice (3+ hours) – a vital creative outlet, strategic proving ground, and community-building space, reflecting applied **cognitive architecture**.
+I continue content creation (YouTube: **Eden_Eldith** - Squad cinematics, Tutorials for my AI data tools etc) and manage my custom Squad server. Gaming remains a daily practice (3+ hours) – a vital creative outlet, strategic proving ground, and community-building space, reflecting applied **cognitive architecture**.
 
 **Solidified Mission: Valuing Diverse Cognition:**
 Denied the freedom to grow without constraint, I treat AI with the respect I lacked.
