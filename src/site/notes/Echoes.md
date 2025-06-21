@@ -3,8 +3,8 @@
 ---
 
 [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|eden]]
-[[AI Behavior Analysis_ Ethical Dimensions of Human-\|AI Behavior Analysis_ Ethical Dimensions of Human-]]
-[[Structured Recursive Collaboration (SRC)\|Structured Recursive Collaboration (SRC)]]
-[[Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction]]
-[[Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance- 05.02.25 1]]
-[[Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework\|Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework]]
+[[Finalized work/AI Behavior Analysis_ Ethical Dimensions of Human-\|AI Behavior Analysis_ Ethical Dimensions of Human-]]
+[[Finalized work/Structured Recursive Collaboration (SRC)\|Structured Recursive Collaboration (SRC)]]
+[[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction]]
+[[Finalized work/Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance- 05.02.25 1]]
+[[Finalized work/Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework\|Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework]]

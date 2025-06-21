@@ -15,5 +15,5 @@
 - **Creator of UMACO (Universal Multi-Agent Cognitive Optimization). Recursive AI systems, swarm cognition, and cognitive architecture.**
 ---
 
-[[Eden's Autobiography 3\|Eden's Autobiography 3]] Read my story!
-[[📜 Eden's_Law_of_Epistemic_Responsibility\|📜 Eden's_Law_of_Epistemic_Responsibility]] - A set of core principles that I work by
+[[Finalized work/Eden's Autobiography 3\|Eden's Autobiography 3]] Read my story!
+[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|📜 Eden's_Law_of_Epistemic_Responsibility]] - A set of core principles that I work by
