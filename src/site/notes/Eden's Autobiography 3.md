@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-05-12T16:11:20.197+01:00"}
+{"dg-publish":true,"permalink":"/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-05-16T15:44:42.834+01:00"}
 ---
 
 ## System Metadata:
@@ -291,7 +291,7 @@ These digital realms offer:
 Building communities, managing my Squad server – these are acts of creation and social navigation within understandable **systems**.
 
 **Digital Translation and Connection:**
-My YouTube channel (**Eden_Eldith**) extends this. Creating cinematic content or "Tales from the Vanguard" is an act of **translation** – converting digital experiences into resonant narratives, building bridges between minds.
+My YouTube channel (**Eden_Eldith**) extends this. Creating cinematic content is an act of **translation** – converting digital experiences into resonant narratives, building bridges between minds.
 
 For many neurodivergent individuals, digital spaces offer needed consistency, clarity, and control. They aren't less real, but *differently real*, hosting valid cognition, connection, and creation. Deep engagement here is integral to my identity and **cognitive process**.
 

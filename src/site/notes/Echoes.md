@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/echoes/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-04-14T18:54:42.278+01:00"}
+{"dg-publish":true,"permalink":"/echoes/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-06-21T14:58:00.362+01:00"}
 ---
 
 [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|eden]]
@@ -8,4 +8,3 @@
 [[Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction]]
 [[Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance- 05.02.25 1]]
 [[Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework\|Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework]]
-[[Creative-stories\|Creative-stories]]
