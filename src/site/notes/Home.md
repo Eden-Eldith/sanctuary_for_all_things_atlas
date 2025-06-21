@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-06-21T15:23:29.826+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-06-21T15:30:05.655+01:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -29,7 +29,6 @@ This pillar explores the foundational principles of how complex cognitive proper
 
 *   **Foundational Concepts & Methods:**
     *   **[[Atlas\|Atlas Persona]]**: An analysis of the first emergent persona.
-    *   **[[Echoes\|Echoes]]:** A meta-note on recursive thought patterns.
     *   **[[Finalized work/The Reverse Chronology Flip-Flop Method 1\|The Reverse Chronology Flip-Flop Method]]**
     *   **[[Finalized work/Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance]]**
 
@@ -43,7 +42,6 @@ This pillar details the development of novel mathematical and computational fram
 *   **[[Finalized work/A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths\|A Formal Mathematical Framework for Modeling Trauma Resolution Paths]]**
     A formal, interdisciplinary model for understanding and guiding the dynamic processes by which cognitive systems transition from states of trauma to states of resolution and healing.
 
-*   **[[Fractals\|Fractals]]:** A meta-note on core frameworks and mathematical models.
 
 #### **III. Foundational Physics, Cosmology & Ethics**
 This pillar investigates mechanistic interpretations of fundamental physics and establishes the ethical principles that guide this research.
