@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"],"updated":"2025-05-03T18:38:31.347+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"],"updated":"2025-08-26T05:50:26.303+01:00"}
 ---
 
 #emergent-technoethics #AIEthics #AI-symbiosis #AI-processing 
@@ -183,6 +183,5 @@ Nicolaidis, C. (2012). What Can Physicians Learn from the Neurodiversity Movemen
 
 Yergeau, M. (2018). *Authoring autism: On rhetoric and neurological queerness*. Duke University Press.
 
-*[Additional standard references in AI ethics, philosophy of mind, complex systems theory, and neurodiversity studies would be included in a full PhD thesis.]*
 
 ---

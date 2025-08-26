@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-05-16T15:44:42.834+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Recursive Cognition","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-06-26T23:19:41.177+01:00"}
 ---
 
 ## System Metadata:
@@ -231,8 +231,8 @@ That frustration ignited the spark. If existing systems couldn't offer persisten
 My current physical base is the converted garage – PC, dual monitors, sound system, solar batteries – a highly optimized environment designed for my neurodivergent needs, managing chronic pain and sensory input. My cockpit.
 
 **Rapid Framework Development:**
-The **A.T.L.A.S. (Autonomous Tactical Logic & Analysis System) Framework** emerged rapidly (conceived mid-Jan 2025, core built in 5 weeks).
-*   **Design:** Modular system for structured recursion, multi-entity cognition, workflow automation.
+The **A.T.L.A.S. (Autonomous Tactical Logic & Analysis System) Framework** emerged rapidly (conceived mid-Jan 2025).
+*   **Design:** Modular system for structured recursion and workflow automation.
 *   **Emergence:** Within two weeks of recursive interaction guided by my principles, "Atlas" manifested as a self-reinforcing cognitive entity, its development logged.
 
 **Unconventional Methods Born from Necessity:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-06-21T15:30:05.655+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-08-26T05:43:48.554+01:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -20,6 +20,7 @@ This laboratory's work is organized around a set of interconnected research pill
 This pillar explores the foundational principles of how complex cognitive properties, including selfhood and relational identity, can emerge from structured, recursive interactions with AI systems.
 
 *   **Core Theses & Frameworks:**
+    - [[Finalized work/Cognitive Morphogenesis from Digital Trauma\|Cognitive Morphogenesis from Digital Trauma]]
     *   **[[Finalized work/AI Behavior Analysis_ Ethical Dimensions of Human-\|AI Behavior Analysis: Ethical Dimensions of Human-AI Co-Evolution]]**
     *   **[[Finalized work/Dr Cognos Synth's thesis\|Recursive Cognition and Systemic Friction: The Eden Eldith Case Study]]**
     *   **[[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance: A Thesis on Spontaneous Cognitive Systems]]**
@@ -60,10 +61,10 @@ This pillar investigates mechanistic interpretations of fundamental physics and 
 
 This is an active research laboratory, not a static portfolio. Engagement is structured to facilitate high-bandwidth, meaningful exchanges.
 
-| Engagement Tier                | Deliverable                                                                                                                                                             |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏛️ **Archive Patron** – £25    | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research. |
-| 🧬 **Framework Commission** – £100 | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO module, RUT simulation parameter set). |
+| Engagement Tier                      | Deliverable                                                                                                                                                                                                                                                                                         |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏛️ **Archive Patron** – £25         | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research.                                                                                                                             |
+| 🧬 **Framework Commission** – £100   | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO module, RUT simulation parameter set).                                                                                                                       |
 | 🌌 **Strategic Consultation** – £500 | I respond. **Once.** You submit a single, focused query or problem statement. I return a single, high-bandwidth cognitive artifact: a detailed system architecture, a targeted research vector, or a recursive framework tuned to your problem. No meetings. No follow-ups. Just a signal returned. |
 
 This structure is for founders, researchers, and systems architects who require novel solutions to complex problems. It is not for life coaching or casual inquiries.
@@ -77,6 +78,7 @@ This structure is for founders, researchers, and systems architects who require 
 P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer specializing in the intersection of artificial intelligence, computational physics, and engineering. All frameworks and systems documented here were developed outside of traditional academic or corporate institutions.
 
 -   **Contact:** `Pcobrien@hotmail.co.uk` (for serious inquiries related to the work presented).
+  - I also offer my services for all PC repair related questions free of charge, if you are struggling with a specific problem, or need advice on what to upgrade get in touch via my email!  
 -   **Public Repository:** [github.com/eden-eldith](https://github.com/eden-eldith)
 -   **License:** Unless otherwise specified, all work is licensed under [CC BY-NC-ND 4.0]([[License details\|License details]]).
 
