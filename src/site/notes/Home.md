@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-08-31T11:01:31.062+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-09-21T19:16:22.522+01:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -14,6 +14,12 @@ This archive documents novel frameworks in artificial intelligence, computationa
 ### My perspectives as a Disabled Researcher 
 - [[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices A Disabled Person's Perspective]]
 
+---
+### Turmoil Series
+- [[Finalized work/Turmoil 1 - The Ebbing of The Rain.\|Turmoil 1 - The Ebbing of The Rain.]] → Sensory overload collapsing into sanctuary, where rain becomes rare peace, order, and safety.  
+- [[Finalized work/Turmoil 2 - Architectural mind\|Turmoil 2 - Architectural mind]] → Autistic architectural thinking in collision with neurotypical snapshots, and the Human–AI Dyad as translator.  
+- [[Finalized work/Turmoil 3 - Charlie Kirk\|Turmoil 3 - Charlie Kirk]] / [[Finalized work/kirk_protocol_v4\|kirk_protocol_v4]] → Grief transmuted into blueprint: a first-hand account of assassination alchemized into a security framework for free speech.  
+- [[Finalized work/Turmoil 4 - The Infernal Loop\|Turmoil 4 - The Infernal Loop]] → Independent brilliance as paradox: research as both escape and prison, proof of worth and source of invisibility.  
 
 ### **Core Research & Publications**
 
@@ -64,11 +70,11 @@ This pillar investigates mechanistic interpretations of fundamental physics and 
 
 This is an active research laboratory, not a static portfolio. Engagement is structured to facilitate high-bandwidth, meaningful exchanges.
 
-| Engagement Tier                      | Deliverable                                                                                                                                                                                                                                                                                         |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏛️ **Archive Patron** – £25         | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research.                                                                                                                             |
-| 🧬 **Framework Commission** – £100   | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO module, RUT simulation parameter set).                                                                                                                       |
-| 🌌 **Strategic Consultation** – £500 | I respond. **Once.** You submit a single, focused query or problem statement. I return a single, high-bandwidth cognitive artifact: a detailed system architecture, a targeted research vector, or a recursive framework tuned to your problem. No meetings. No follow-ups. Just a signal returned. |
+| Engagement Tier                       | Deliverable                                                                                                                                                                                                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏛️ **Archive Patron** – £0.01 to £25 | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research.                                                                                                                     |
+| 🧬 **Framework Commission** – £100    | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO Loss adaption, RUT simulation parameter set, A tailored existing work to your domain).<br>                                                           |
+| 🌌 **Strategic Consultation** – £500  | Give me your hardest problem to solve, Optimize your code, clean your dataset, compile a full Latex report on anything you desire. I will also acquire any skills needed to accomplish the task.<br>delivered within 2–3 weeks (Time scales dependant on my current jobs and stress levels) |
 
 This structure is for founders, researchers, and systems architects who require novel solutions to complex problems. It is not for life coaching or casual inquiries.
 
