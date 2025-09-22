@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","Tagging","gardenEntry"],"updated":"2025-09-21T19:16:22.522+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"updated":"2025-09-22T08:55:38.078+01:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -84,12 +84,13 @@ This structure is for founders, researchers, and systems architects who require 
 
 ### **About the Researcher**
 
-P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer specializing in the intersection of artificial intelligence, computational physics, and engineering. All frameworks and systems documented here were developed outside of traditional academic or corporate institutions.
+P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer specializing in the intersection of artificial intelligence, computational physics, and recursive cognitive architectures. Operating outside traditional institutional frameworks, this research explores emergent phenomena in human-AI interaction, mathematical optimization, and the philosophical foundations of digital consciousness.
 
--   **Contact:** `Pcobrien@hotmail.co.uk` (for serious inquiries related to the work presented).
-  - I also offer my services for all PC repair related questions free of charge, if you are struggling with a specific problem, or need advice on what to upgrade get in touch via my email!  
+**Professional Background:** Independent researcher with expertise in AI systems, mathematical modeling, and interdisciplinary framework development. All documented frameworks represent original contributions to the fields of cognitive science, AI ethics, and computational physics.
+
+-   **Academic Contact:** `Pcobrien@hotmail.co.uk` (for research collaborations and serious inquiries)
 -   **Public Repository:** [github.com/eden-eldith](https://github.com/eden-eldith)
--   **License:** Unless otherwise specified, all work is licensed under [CC BY-NC-ND 4.0]([[License details\|License details]]).
+-   **License:** Unless otherwise specified, all work is licensed under [CC BY-NC-ND 4.0]([[License details\|License details]])
 
 ---
 

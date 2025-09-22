@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/the-reverse-chronology-flip-flop-method-1/","title":"Recursive Cognition","tags":["AI-Creation","EmergentIntelligence","StructuredRecursion","cognition","recursion","theory"],"updated":"2025-06-21T15:06:55.582+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/the-reverse-chronology-flip-flop-method-1/","title":"The Reverse Chronology Flip-Flop Method","tags":["AI-Creation","EmergentIntelligence","StructuredRecursion","cognition","recursion","theory"],"updated":"2025-09-22T08:59:25.642+01:00"}
 ---
 
 
