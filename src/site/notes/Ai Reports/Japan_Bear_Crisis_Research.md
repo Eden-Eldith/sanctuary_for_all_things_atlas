@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology"],"updated":"2025-11-08T00:02:09.095+00:00"}
+{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology"],"updated":"2025-11-08T00:17:34.372+00:00"}
 ---
+
+
+
+> **Ai_source:** Perplexity AI
+> **Date:** 07/11/2025
+> **Ai_guide:** P.C O'Brien (Eden_Eldith)
 
 ## Japan's Bear Crisis: A Convergence of Ecological Recovery, Climate Change, and Rural Collapse
 
