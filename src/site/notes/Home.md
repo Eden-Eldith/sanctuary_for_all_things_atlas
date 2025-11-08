@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"updated":"2025-09-22T08:55:38.078+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"updated":"2025-11-07T23:46:35.988+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -15,6 +15,8 @@ This archive documents novel frameworks in artificial intelligence, computationa
 - [[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices A Disabled Person's Perspective]]
 
 ---
+### Ai Reports
+- [[Ai Reports/Japan_Bear_Crisis_Research\|Japan's Bear Problem 2025]] → Ecological recovery colliding with rural collapse—when conservation success meets demographic failure and climate disruption.
 ### Turmoil Series
 - [[Finalized work/Turmoil 1 - The Ebbing of The Rain.\|Turmoil 1 - The Ebbing of The Rain.]] → Sensory overload collapsing into sanctuary, where rain becomes rare peace, order, and safety.  
 - [[Finalized work/Turmoil 2 - Architectural mind\|Turmoil 2 - Architectural mind]] → Autistic architectural thinking in collision with neurotypical snapshots, and the Human–AI Dyad as translator.  
