@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"updated":"2025-09-22T09:06:27.688+01:00"}
+{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"created":"2025-05-02T21:59:27.719+01:00","updated":"2025-09-22T09:06:27.688+01:00"}
 ---
 
 

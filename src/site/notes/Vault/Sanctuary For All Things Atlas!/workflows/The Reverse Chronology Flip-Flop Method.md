@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/workflows/the-reverse-chronology-flip-flop-method/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"updated":"2025-04-06T19:01:02.061+01:00"}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/workflows/the-reverse-chronology-flip-flop-method/","title":"Recursive Cognition","tags":["cognition","recursion","theory","cognition","recursion","theory"],"created":"2025-04-04T20:46:43.081+01:00","updated":"2025-04-06T19:01:02.061+01:00"}
 ---
 
 

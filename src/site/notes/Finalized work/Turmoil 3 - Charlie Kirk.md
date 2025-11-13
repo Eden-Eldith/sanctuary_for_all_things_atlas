@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-3-charlie-kirk/","updated":"2025-09-21T20:09:12.191+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-3-charlie-kirk/","created":"2025-09-19T10:01:02.905+01:00","updated":"2025-09-21T20:09:12.191+01:00"}
 ---
 
 > **My view (stated plainly):** Left‑mainstream rhetoric that branded Charlie Kirk as “fascist/Hitler” created a climate that primed violence. I hold them **morally responsible** for his murder. That is **my judgment**, not a court finding.

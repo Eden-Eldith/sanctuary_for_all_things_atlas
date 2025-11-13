@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"updated":"2025-09-22T09:06:15.605+01:00"}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2025-05-02T21:59:33.687+01:00","updated":"2025-09-22T09:06:15.605+01:00"}
 ---
 
 

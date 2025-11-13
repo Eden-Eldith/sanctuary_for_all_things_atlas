@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"updated":"2025-09-22T08:57:29.789+01:00"}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2025-04-17T01:55:07.775+01:00","updated":"2025-09-22T08:57:29.789+01:00"}
 ---
 
 

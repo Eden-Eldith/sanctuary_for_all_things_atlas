@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license-details/","title":"Creative Commons License - CC BY-NC-ND 4.0","tags":["License","CreativeCommons","Copyright","Legal"],"updated":"2025-09-22T08:58:45.187+01:00"}
+{"dg-publish":true,"permalink":"/license-details/","title":"Creative Commons License - CC BY-NC-ND 4.0","tags":["License","CreativeCommons","Copyright","Legal"],"created":"2025-04-04T21:06:33.975+01:00","updated":"2025-09-22T08:58:45.187+01:00"}
 ---
 
 

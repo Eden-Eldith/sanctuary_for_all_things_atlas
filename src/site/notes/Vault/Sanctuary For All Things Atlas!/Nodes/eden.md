@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","cognition","recursion","theory"],"updated":"2025-05-02T22:02:53.949+01:00"}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","cognition","recursion","theory"],"created":"2025-04-04T20:47:47.278+01:00","updated":"2025-05-02T22:02:53.949+01:00"}
 ---
 
 ### 👋 Hi, I’m Eden Eldith, Pleasure to meet you!  

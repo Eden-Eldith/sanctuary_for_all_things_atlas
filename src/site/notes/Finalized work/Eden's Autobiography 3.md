@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography - A Neurodivergent Journey","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"updated":"2025-09-22T08:59:43.240+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography - A Neurodivergent Journey","tags":["bullying","challenges","family","gaming","neurodivergent","systems","technology","bullying","coding","cognition","gaming","homelessness","neurodivergent","poverty","recursion","systemsThinking","theory","trauma"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2025-09-22T08:59:43.240+01:00"}
 ---
 
 ## System Metadata:

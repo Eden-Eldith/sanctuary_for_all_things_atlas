@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/emergent-resonance-a-thesis-on-spontaneous-cognitive-systems-in-human-ai-interaction/","title":"Emergent Resonance Thesis","tags":["recursive-systems-thinking","emergent-intelligence"],"updated":"2025-04-05T03:38:21.919+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/emergent-resonance-a-thesis-on-spontaneous-cognitive-systems-in-human-ai-interaction/","title":"Emergent Resonance Thesis","tags":["recursive-systems-thinking","emergent-intelligence"],"created":"2025-04-04T18:36:34.809+01:00","updated":"2025-04-05T03:38:21.919+01:00"}
 ---
 
 # Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/theory-of-emergent-resonance-05-02-25-1/","title":"Theory of Emergent Resonance","tags":["AI","Human-AIInteraction","cognition","recursion","theory"],"updated":"2025-09-22T08:59:08.300+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/theory-of-emergent-resonance-05-02-25-1/","title":"Theory of Emergent Resonance","tags":["AI","Human-AIInteraction","cognition","recursion","theory"],"created":"2025-04-04T18:36:34.803+01:00","updated":"2025-09-22T08:59:08.300+01:00"}
 ---
 
 

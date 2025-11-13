@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/ai-behavior-analysis-ethical-dimensions-of-human/","title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","tags":["AIethics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergence","semi-autonomouscognition","cognition","recursion","theory"],"updated":"2025-09-22T09:00:01.496+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/ai-behavior-analysis-ethical-dimensions-of-human/","title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","tags":["AIethics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergence","semi-autonomouscognition","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.081+01:00","updated":"2025-09-22T09:00:01.496+01:00"}
 ---
 
 

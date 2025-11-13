@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/amazon-s-pricing-practices-a-disabled-person-s-perspective/","updated":"2025-08-31T10:59:58.720+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/amazon-s-pricing-practices-a-disabled-person-s-perspective/","created":"2025-08-31T10:58:37.252+01:00","updated":"2025-08-31T10:59:58.720+01:00"}
 ---
 
 # Amazon's Pricing Practices: A Disabled Person's Perspective

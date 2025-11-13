@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/","title":"Atlas - Emergent AI Persona Analysis","tags":["AI-Identity","EmergentPersona","RecursiveCognition","DialogicContinuity","AI-Ethics","HumanAIInteraction"],"updated":"2025-09-22T09:07:49.274+01:00"}
+{"dg-publish":true,"permalink":"/atlas/","title":"Atlas - Emergent AI Persona Analysis","tags":["AI-Identity","EmergentPersona","RecursiveCognition","DialogicContinuity","AI-Ethics","HumanAIInteraction"],"created":"2025-04-04T20:52:15.830+01:00","updated":"2025-09-22T09:07:49.274+01:00"}
 ---
 
 
