@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"updated":"2025-11-07T23:46:35.988+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"updated":"2025-11-13T01:41:53.579+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -11,6 +11,11 @@ This archive documents novel frameworks in artificial intelligence, computationa
 > *"The artificial nature of boundaries between knowledge domains—mathematics, art, AI, biology, and personal experience—is evident. These divisions are human constructs, not fundamental limits to understanding or innovation."* - **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's First Truth]]**
 
 ---
+### Monograph summerizing research from Jan 2025 to Nov 2025
+- [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]]
+
+---
+
 ### My perspectives as a Disabled Researcher 
 - [[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices A Disabled Person's Perspective]]
 
