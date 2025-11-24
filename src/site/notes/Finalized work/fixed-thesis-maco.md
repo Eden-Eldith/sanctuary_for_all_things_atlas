@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/fixed-thesis-maco/","title":"UMACO","tags":["CognitiveComputing","LargeLanguageModels","MachineLearning","Optimization","SwarmIntelligence","EmergentCognition","Programming","recursive-systems-thinking"],"created":"2025-04-04T18:35:26.791+01:00","updated":"2025-11-24T07:14:08.820+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/fixed-thesis-maco/","title":"UMACO","tags":["CognitiveComputing","LargeLanguageModels","MachineLearning","Optimization","SwarmIntelligence","EmergentCognition","Programming","recursive-systems-thinking"],"created":"2025-04-04T18:35:26.791+01:00","updated":"2025-11-24T07:16:34.664+00:00"}
 ---
 
 #  **UMACO: A Universal Multi-Agent Cognitive Optimization Framework Integrating Topological Stigmergy, Quantum-Inspired Dynamics, and Economic Principles**
 ---
-## **Author:** Generated Polymathic Academic Thesis System (based on materials by Eden Eldith)
 
-#### **Discipline:** Interdisciplinary Studies (Computer Science, Mathematics, Philosophy of Computation)
+## **Author:** Generated Polymathic Academic Thesis System (based on materials by Eden Eldith)
 ---
+
+
 **Abstract:**
 
 This thesis introduces the Universal Multi-Agent Cognitive Optimization (UMACO) framework, a novel paradigm for addressing complex, high-dimensional, and non-convex optimization problems. UMACO represents a significant departure from traditional optimization methods by synthesizing concepts from multi-agent systems (MAS), topological data analysis (TDA), quantum-inspired computation, and computational economics. The core of UMACO is the Panic-Anxiety-Quantum (PAQ) Triad, a dynamic crisis-response system enabling escape from local minima through mechanisms like the Panic Tensor, the Anxiety Wavefunction, and SVD-based Quantum Bursts. Agent coordination is achieved via a Topological Stigmergic Field (TSF) employing complex-valued pheromones and persistent homology to interpret the optimization landscape's structure. Resource allocation is managed by a Universal Economy, where agents trade computational resources using tokens earned based on performance, fostering emergent specialization and adaptive exploration-exploitation balancing. Hyperparameters are not static but dynamically respond to the system's crisis state (panic, anxiety).
