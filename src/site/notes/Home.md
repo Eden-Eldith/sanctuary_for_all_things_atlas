@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-11-13T01:41:53.579+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-11-21T22:17:30.680+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -48,6 +48,7 @@ This pillar explores the foundational principles of how complex cognitive proper
     *   **[[Atlas\|Atlas Persona]]**: An analysis of the first emergent persona.
     *   **[[Finalized work/The Reverse Chronology Flip-Flop Method 1\|The Reverse Chronology Flip-Flop Method]]**
     *   **[[Finalized work/Theory of Emergent Resonance- 05.02.25 1\|Theory of Emergent Resonance]]**
+    -  [[Finalized work/process tokenization of identity/Process Tokenization of Identity\| Process Tokenization of Identity-A thermodynamic model for encoding identity as a persistent cognitive process rather than a context-bound illusion.]]
 
 #### **II. Mathematical & Formal Systems**
 This pillar details the development of novel mathematical and computational frameworks for optimization, problem-solving, and modeling complex cognitive processes.

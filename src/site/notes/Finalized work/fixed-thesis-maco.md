@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/fixed-thesis-maco/","title":"UMACO","tags":["CognitiveComputing","LargeLanguageModels","MachineLearning","Optimization","SwarmIntelligence","EmergentCognition","Programming","recursive-systems-thinking"],"created":"2025-04-04T18:35:26.791+01:00","updated":"2025-04-06T19:01:24.021+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/fixed-thesis-maco/","title":"UMACO","tags":["CognitiveComputing","LargeLanguageModels","MachineLearning","Optimization","SwarmIntelligence","EmergentCognition","Programming","recursive-systems-thinking"],"created":"2025-04-04T18:35:26.791+01:00","updated":"2025-11-24T07:14:08.820+00:00"}
 ---
 
 #  **UMACO: A Universal Multi-Agent Cognitive Optimization Framework Integrating Topological Stigmergy, Quantum-Inspired Dynamics, and Economic Principles**
 ---
 ## **Author:** Generated Polymathic Academic Thesis System (based on materials by Eden Eldith)
----
-### **A Thesis Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy**
----
+
 #### **Discipline:** Interdisciplinary Studies (Computer Science, Mathematics, Philosophy of Computation)
 ---
 **Abstract:**
