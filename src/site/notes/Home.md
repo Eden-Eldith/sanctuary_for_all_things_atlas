@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-11-21T22:17:30.680+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-11-25T23:19:02.883+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -11,6 +11,9 @@ This archive documents novel frameworks in artificial intelligence, computationa
 > *"The artificial nature of boundaries between knowledge domains—mathematics, art, AI, biology, and personal experience—is evident. These divisions are human constructs, not fundamental limits to understanding or innovation."* - **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's First Truth]]**
 
 ---
+## WiggleGPT 
+[[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT Paper]] → Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
+
 ### Monograph summerizing research from Jan 2025 to Nov 2025
 - [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]]
 
