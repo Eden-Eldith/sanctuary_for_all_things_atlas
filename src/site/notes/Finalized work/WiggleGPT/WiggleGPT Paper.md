@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-11-30T22:32:25.338+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-11-30T22:42:52.598+00:00"}
 ---
 
 # WiggleGPT: Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
@@ -176,7 +176,7 @@ The full-scale model demonstrated that oscillating activations are stable and ca
 
 WiggleGPT achieved a validation loss within **1.3%** of the standard GPT-2 baseline. This demonstrates that the oscillating architecture is not merely a curiosity, but a functional drop-in replacement for standard deep learning activations at scale.
 
-![Pretraining loss progression over 600K iterations](/img/user/Finalized work/WiggleGPT/pretrain_loss_chart.png)
+![pretrain_loss_chart.png](/img/user/Finalized%20work/WiggleGPT/pretrain_loss_chart.png)
 *Figure 1a: Left: Full pretraining curve showing rapid initial descent from loss ~11 to ~3.8 in the first 15K iterations, followed by gradual convergence. Right: Final 45K iterations showing stable training near the GPT-2 baseline (purple dashed line at 3.12). The model achieves 3.1621 validation loss—within 1.3% of the monotonic baseline.*
 
 ### 5.3 Frequency Analysis: Did the Model Learn to Wiggle?
@@ -205,7 +205,7 @@ We extracted the learned $\omega$ (frequency) and $\phi$ (phase) parameters from
 
 This distribution confirms that the model is not merely approximating a standard activation function—it is actively utilizing the oscillatory capacity of the architecture. The diversity of learned frequencies suggests different neurons have specialized for different representational roles.
 
-![Distribution of learned frequencies and phases in WiggleGPT 124M](/img/user/Finalized work/WiggleGPT/wiggle_analysis.png)
+![wiggle_analysis.png](/img/user/Finalized%20work/WiggleGPT/wiggle_analysis.png)
 *Figure 1b: Analysis of 36,864 learned oscillation parameters. Top left: $\omega$ distribution showing 6x variance increase from initialization. Top right: $\phi$ distribution spanning full $[-\pi, \pi]$ range. Bottom left: Deviation from initialization mean. Bottom right: $\omega$ vs $\phi$ scatter showing diverse learned configurations.*
 
 ### 5.4 Emergent Sparsity (45M Model)
@@ -351,7 +351,7 @@ The model showed consistent improvement during fine-tuning, with validation loss
 
 The validation loss trajectory showed the model effectively learning instruction-following patterns, with a notable improvement from the initial loss of ~2.12 to a best loss of 1.32—a 38% reduction.
 
-![Fine-tuning loss progression](/img/user/Finalized work/WiggleGPT/finetune_loss_chart.png)
+![finetune_loss_chart.png](/img/user/Finalized%20work/WiggleGPT/finetune_loss_chart.png)
 *Figure 2b: Training and validation loss during fine-tuning. The model achieves best validation loss (1.3184) at step 8,500, with subsequent iterations showing slight overfitting as train loss continues to decrease while validation loss rises. This classic generalization curve informed the decision to use the step 8,500 checkpoint for deployment.*
 
 ### Oscillation Parameter Stability Analysis
@@ -379,7 +379,7 @@ A critical question during fine-tuning was whether the learned oscillation param
 - **Neurons with ω change > 0.5:** 0.0%
 - **Linearized neurons (ω ≈ 0):** 4.99% before and after (unchanged)
 
-![Fine-tuning oscillation parameter stability analysis](/img/user/Finalized work/WiggleGPT/wiggle_finetune_analysis.png)
+![wiggle_finetune_analysis.png](/img/user/Finalized%20work/WiggleGPT/wiggle_finetune_analysis.png)
 *Figure 2a: Comparison of learned oscillation parameters before and after fine-tuning. Top row: overlaid histograms showing pretrained (blue) vs fine-tuned (red) distributions for ω and φ, plus absolute drift distribution. Bottom row: scatter plots comparing pretrained vs fine-tuned values (points cluster tightly on the diagonal "no change" line) and the fine-tuned ω vs φ configuration space. The distributions remain virtually identical, demonstrating that fine-tuning adapted other weights (attention, projections, embeddings) while preserving the oscillation patterns learned during pretraining.*
 
 ### Interpretation
