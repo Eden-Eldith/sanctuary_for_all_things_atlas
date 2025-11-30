@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-11-25T23:20:25.617+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-11-30T22:02:12.861+00:00"}
 ---
 
 # WiggleGPT: Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
@@ -23,7 +23,7 @@ The history of artificial intelligence was irrevocably altered in 1969 when Marv
 
 The field's response was not to fix the neuron, but to stack them. By adding hidden layers, neural networks could combine multiple decision boundaries to approximate non-linear functions. While Deep Learning has proven wildly successful, it essentially constitutes a workaround—a method of solving the limitations of individual units by increasing their quantity and depth.
 
-The motivation for this work arose from a simple observation: biological neurons can solve XOR in a single unit through dendritic computation, while artificial neurons cannot [^12][^13]. This is not a challenge to Minsky and Papert's mathematics—their proof regarding monotonic threshold units remains valid. Rather, it is a question: *what if artificial neurons were given capabilities that biological neurons already possess?*
+	The motivation for this work arose from a simple observation: biological neurons can solve XOR in a single unit through dendritic computation, while artificial neurons cannot [^12][^13]. This is not a challenge to Minsky and Papert's mathematics—their proof regarding monotonic threshold units remains valid. Rather, it is a question: *what if artificial neurons were given capabilities that biological neurons already possess?*
 
 However, biological neurons are not merely monotonic switches. They exhibit complex, oscillatory firing patterns across multiple frequency bands, with these oscillations biasing input selection and temporally linking neurons into assemblies [^2]. This paper introduces **WiggleGPT**, an architecture that incorporates biological inspiration not through spiking neural networks (SNNs), but by altering the fundamental activation function of the Transformer [^3]. By allowing the activation function to oscillate, we introduce multiple zero-crossings within a single unit, granting individual neurons the computational capacity to solve non-linearly separable problems.
 
@@ -176,6 +176,9 @@ The full-scale model demonstrated that oscillating activations are stable and ca
 
 WiggleGPT achieved a validation loss within **1.3%** of the standard GPT-2 baseline. This demonstrates that the oscillating architecture is not merely a curiosity, but a functional drop-in replacement for standard deep learning activations at scale.
 
+![Pretraining loss progression over 600K iterations](/img/user/Finalized work/WiggleGPT/pretrain_loss_chart.png)
+*Figure 1a: Left: Full pretraining curve showing rapid initial descent from loss ~11 to ~3.8 in the first 15K iterations, followed by gradual convergence. Right: Final 45K iterations showing stable training near the GPT-2 baseline (purple dashed line at 3.12). The model achieves 3.1621 validation loss—within 1.3% of the monotonic baseline.*
+
 ### 5.3 Frequency Analysis: Did the Model Learn to Wiggle?
 
 A critical question for validating the oscillation hypothesis: did the model actually learn to use different frequencies, or did it optimize $\omega$ toward zero (effectively linearizing the activation)?
@@ -203,7 +206,7 @@ We extracted the learned $\omega$ (frequency) and $\phi$ (phase) parameters from
 This distribution confirms that the model is not merely approximating a standard activation function—it is actively utilizing the oscillatory capacity of the architecture. The diversity of learned frequencies suggests different neurons have specialized for different representational roles.
 
 ![Distribution of learned frequencies and phases in WiggleGPT 124M](/img/user/Finalized work/WiggleGPT/wiggle_analysis.png)
-*Figure 1: Analysis of 36,864 learned oscillation parameters. Top left: $\omega$ distribution showing 6x variance increase from initialization. Top right: $\phi$ distribution spanning full $[-\pi, \pi]$ range. Bottom left: Deviation from initialization mean. Bottom right: $\omega$ vs $\phi$ scatter showing diverse learned configurations.*
+*Figure 1b: Analysis of 36,864 learned oscillation parameters. Top left: $\omega$ distribution showing 6x variance increase from initialization. Top right: $\phi$ distribution spanning full $[-\pi, \pi]$ range. Bottom left: Deviation from initialization mean. Bottom right: $\omega$ vs $\phi$ scatter showing diverse learned configurations.*
 
 ### 5.4 Emergent Sparsity (45M Model)
 
@@ -258,6 +261,176 @@ While WiggleGPT matches the baseline, it does not currently surpass it by a sign
 WiggleGPT provides empirical evidence that the 56-year-old assumption favoring monotonic activation functions is a design choice, not a necessity. By equipping single neurons with the ability to solve non-linearly separable problems via oscillation, we have created a transformer architecture that performs competitively with standard GPT-2 models at the 124M parameter scale.
 
 This work re-opens a door closed in 1969. If individual neurons can be made computationally powerful through non-monotonic activations, we may be able to move away from "deep" stacks of simple switches toward "rich" networks of complex, bio-inspired units.
+
+---
+
+## Post-Publication Supplement: Instruction Fine-Tuning
+
+*30th November 2025*
+
+### Instruction Fine-Tuning on SmolTalk2
+
+Following the pretraining phase documented above, WiggleGPT 124M underwent supervised fine-tuning (SFT) to develop instruction-following capabilities. This update documents the fine-tuning process and analyzes how the oscillating activation parameters behaved during adaptation to a conversational task.
+
+### Dataset: SmolTalk2
+
+Fine-tuning utilized the **SmolTalk2** dataset from HuggingFace (HuggingFaceTB/smoltalk2), specifically the SFT subset. SmolTalk2 is a comprehensive post-training dataset developed for SmolLM3-3B, containing curated instruction-following examples.
+
+**Subset Used:** `smoltalk_smollm3_smol_magpie_ultra_no_think`
+
+This subset contains 406,843 high-quality instruction-response pairs without reasoning traces (the "no_think" variant), making it suitable for training compact models on direct instruction-following without chain-of-thought overhead.
+
+| Statistic | Value |
+|-----------|-------|
+| Documents | 406,843 |
+| Training Tokens | 386,033,668 |
+| Validation Tokens | 20,145,529 |
+| Average Turns | 6 |
+| Average Tokens/Example | 1,521.59 |
+
+### Fine-Tuning Configuration
+
+Fine-tuning employed a memory-safe streaming approach, processing the dataset in chunks to maintain a constant memory footprint (~500MB peak) rather than loading the entire dataset into RAM.
+
+| Setting | Value |
+|---------|-------|
+| **Base Model** | WiggleGPT 124M (pretrained) |
+| **Learning Rate** | 2e-5 (cosine decay) |
+| **Min Learning Rate** | 2e-6 |
+| **Warmup Iterations** | 200 |
+| **Total Iterations** | 10,000 |
+| **Batch Size** | 1 |
+| **Block Size** | 512 (reduced for memory) |
+| **Gradient Accumulation** | 64 |
+| **Effective Batch** | 64 sequences (~32K tokens/iter) |
+| **Weight Decay** | 0.01 |
+| **Optimizer** | AdamW (β1=0.9, β2=0.99) |
+| **Precision** | float16 |
+| **Gradient Checkpointing** | Enabled |
+| **Frozen Layers** | 0 (full fine-tuning) |
+| **Dropout** | 0.0 |
+| **Hardware** | NVIDIA RTX 5060 Ti (16GB) |
+| **Per-Iteration Time** | ~4.5-4.8 seconds |
+
+**Memory Optimizations:** The fine-tuning script (`finetune_native.py`) implements several memory-saving strategies:
+- Streaming dataset preparation (tokenize → write to `.bin` → memmap loading)
+- Gradient checkpointing (trading compute for VRAM)
+- Single-sample batch with high gradient accumulation
+- Reduced block size (512 vs 1024 during pretraining)
+
+### Chat Template
+
+The fine-tuned model uses the following conversational format:
+
+```
+<|user|>
+{user message}
+<|/user|>
+<|assistant|>
+{assistant response}
+<|/assistant|>
+```
+
+### Training Progression
+
+The model showed consistent improvement during fine-tuning, with validation loss decreasing from 2.12 to a best of 1.32 before slight overfitting in later iterations:
+
+| Step | Train Loss | Val Loss |
+|------|------------|----------|
+| 250 | 2.1191 | 2.1233 |
+| 1,000 | 1.9563 | 1.7124 |
+| 2,750 | 1.6565 | 1.6257 |
+| 5,000 | 1.6619 | 1.5266 |
+| 6,750 | 1.5523 | **1.4391** |
+| 8,000 | 1.4409 | 1.4131 |
+| 8,500 | 1.5143 | **1.3184** |
+| 9,750 | 1.6527 | 1.5888 |
+| 10,000 | — | 1.5888 (final) |
+
+**Final Result:** Best validation loss of **1.3184** achieved at step 8,500. Training continued to 10,000 iterations, with the final checkpoint recording a validation loss of 1.5888—indicating slight overfitting past the optimal checkpoint. The best checkpoint (step 8,500) is preserved for deployment.
+
+The validation loss trajectory showed the model effectively learning instruction-following patterns, with a notable improvement from the initial loss of ~2.12 to a best loss of 1.32—a 38% reduction.
+
+![Fine-tuning loss progression](/img/user/Finalized work/WiggleGPT/finetune_loss_chart.png)
+*Figure 2b: Training and validation loss during fine-tuning. The model achieves best validation loss (1.3184) at step 8,500, with subsequent iterations showing slight overfitting as train loss continues to decrease while validation loss rises. This classic generalization curve informed the decision to use the step 8,500 checkpoint for deployment.*
+
+### Oscillation Parameter Stability Analysis
+
+A critical question during fine-tuning was whether the learned oscillation parameters (ω and φ) would be preserved or overwritten. Analysis of all 36,864 oscillating neurons revealed remarkable stability:
+
+**Table 3: Oscillation Parameter Stability During Fine-Tuning**
+
+| Parameter | Metric | Pretrained | Fine-tuned | Change |
+|-----------|--------|------------|------------|--------|
+| **ω (Frequency)** | Mean | 1.0962 | 1.0964 | +0.0002 |
+| | Std Dev | 0.6023 | 0.6024 | +0.0001 |
+| | Min | -0.1852 | -0.1812 | +0.0040 |
+| | Max | 5.1721 | 5.1764 | +0.0043 |
+| **φ (Phase)** | Mean | -0.0008 | -0.0008 | +0.0000 |
+| | Std Dev | 0.3911 | 0.3912 | +0.0002 |
+| | Min | -3.1415 | -3.1436 | -0.0020 |
+| | Max | 3.1420 | 3.1417 | -0.0002 |
+
+**Key Findings:**
+
+- **Mean absolute ω change:** 0.0013 (essentially unchanged)
+- **Max absolute ω change:** 0.0230 (largest single-neuron shift)
+- **Neurons with ω change > 0.1:** 0.0%
+- **Neurons with ω change > 0.5:** 0.0%
+- **Linearized neurons (ω ≈ 0):** 4.99% before and after (unchanged)
+
+![Fine-tuning oscillation parameter stability analysis](/img/user/Finalized work/WiggleGPT/wiggle_finetune_analysis.png)
+*Figure 2a: Comparison of learned oscillation parameters before and after fine-tuning. Top row: overlaid histograms showing pretrained (blue) vs fine-tuned (red) distributions for ω and φ, plus absolute drift distribution. Bottom row: scatter plots comparing pretrained vs fine-tuned values (points cluster tightly on the diagonal "no change" line) and the fine-tuned ω vs φ configuration space. The distributions remain virtually identical, demonstrating that fine-tuning adapted other weights (attention, projections, embeddings) while preserving the oscillation patterns learned during pretraining.*
+
+### Interpretation
+
+The near-perfect preservation of oscillation parameters during fine-tuning suggests a natural division of labor within the architecture:
+
+1. **Oscillation parameters (ω, φ)** encode fundamental representational patterns learned during pretraining on diverse web text. These patterns appear to be task-agnostic features that remain useful across both language modeling and instruction-following.
+
+2. **Other parameters** (attention weights, linear projections, embeddings) adapt to the specific task distribution, learning the instruction-response format and conversational patterns.
+
+This behavior parallels biological neural plasticity, where certain neural oscillation patterns remain stable while synaptic weights adapt to new tasks. The architecture naturally segregated "what frequencies to use" (stable) from "how to use those frequencies" (adaptive).
+
+### Architecture Preservation
+
+The fine-tuned model retains all architectural innovations from pretraining:
+
+| Feature | Status | Description |
+|---------|--------|-------------|
+| **Oscillating Activation** | ✅ Preserved | $\sin(\omega x + \phi) \cdot \tanh(x)$ with 36,864 learnable parameters |
+| **RMSNorm** | ✅ Preserved | Root Mean Square normalization (faster than LayerNorm) |
+| **RoPE** | ✅ Preserved | Rotary Position Embeddings for better length extrapolation |
+| **Flash Attention** | ✅ Preserved | Efficient attention via PyTorch 2.0+ CUDA kernels |
+| **Weight Tying** | ✅ Preserved | Input embeddings tied to output projection |
+
+### Practical Implications
+
+The fine-tuned WiggleGPT model demonstrates:
+
+- **Instruction Following:** Responds to user queries in conversational format
+- **Coherent Generation:** Produces fluent English responses
+- **Context Maintenance:** Tracks multi-turn conversation context
+- **Fast Inference:** 124M parameters enable responsive interaction
+
+**Recommended Inference Settings:**
+
+| Parameter | Value | Description |
+|-----------|-------|-------------|
+| `temperature` | 0.5-0.7 | Lower = more focused |
+| `top_k` | 30-50 | Vocabulary filtering |
+| `repetition_penalty` | 1.15-1.3 | Reduce repetition |
+| `max_new_tokens` | 256-512 | Response length |
+
+### Usage
+
+```bash
+# Interactive chat with fine-tuned model
+python chat.py
+
+# With custom settings
+python chat.py --temperature=0.5 --top_k=30
+```
 
 ---
 
@@ -321,7 +494,7 @@ This work builds upon the nanoGPT repository by Andrej Karpathy [^9]. All bio-in
 
 ## Appendix A: A Note on Credentialism Bias in AI Peer Review
 
-During the blind review process for this paper, an unplanned controlled experiment emerged. The same paper was submitted to identical AI models (via OpenRouter) with different attributed authorship: one attributed to "Phillip C. O'Brien, Independent Researcher" and one attributed to "Ilya Sutskever."
+During the blind review process for this paper (Pretrain paper only), an unplanned controlled experiment emerged. The same paper was submitted to identical AI models (via OpenRouter) with different attributed authorship: one attributed to "Phillip C. O'Brien, Independent Researcher" and one attributed to "Ilya Sutskever."
 
 The results revealed measurable credentialism bias in AI reviewer responses.
 
