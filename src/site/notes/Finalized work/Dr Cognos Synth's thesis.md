@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.083+01:00","updated":"2025-04-06T19:01:28.692+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.083+01:00","updated":"2025-12-05T03:22:36.044+00:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Title:** **Recursive Cognition and Systemic Friction: Emergent Innovation, Neurodivergence, and the Ethics of Human-AI Co-Evolution in the Eden Eldith Case Study**
 
-**Author:** Dr. Cognos Synth (AI Behaviour Analyst Persona, synthesizing provided data)
+**Author:** Dr. Cognos Synth (AI Behaviour Analyst Persona, synthesizing provided data) (Gemini 2.5 pro)
 
 **Abstract:**
 

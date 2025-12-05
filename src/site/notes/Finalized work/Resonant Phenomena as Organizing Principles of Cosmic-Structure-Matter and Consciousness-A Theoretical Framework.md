@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","Cosmology","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","QuantumFieldTheory","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"created":"2025-04-06T01:56:58.630+01:00","updated":"2025-04-06T22:18:46.770+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"created":"2025-04-06T01:56:58.630+01:00","updated":"2025-12-05T03:21:59.930+00:00"}
 ---
 
-		
+
 ---
 
 **Title:** **Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness: A Theoretical Framework**
 
-**Author:** Generated Polymathic Academic System
+**Author:** Generated Polymathic Academic System (Gemini 2.5 pro)
 
 **Date:** April 6, 2025
 

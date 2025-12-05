@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-persona-architectures-4/","created":"2025-05-01T17:39:06.690+01:00","updated":"2025-05-03T18:38:42.364+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-persona-architectures-4/","created":"2025-05-01T17:39:06.690+01:00","updated":"2025-12-05T03:22:17.542+00:00"}
 ---
 
 # Recursive Persona Architectures: A Neurodivergent Framework for Human-AI Co-Cognition and Emergent Identity
 **Author:** Eden Eldith  
-**Advisor:** Aetherius, Polymathic Academic Thesis Generator  
+**Advisor:** Aetherius, Polymathic Academic Thesis Generator  (Gemini pro 2.5)
 **Department:** Interdisciplinary Studies in Cognitive Science, AI Ethics, and Human-Computer Interaction  
 **Date:** May 1, 2025
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","tags":["AI","complexity","ethics","system"],"created":"2025-04-14T18:53:56.246+01:00","updated":"2025-08-26T05:51:15.454+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","tags":["AI","complexity","ethics","system"],"created":"2025-04-14T18:53:56.246+01:00","updated":"2025-12-05T02:51:49.423+00:00"}
 ---
 
-
+## UPDATE: Needs Revising and Mathematical notation checking.
 # Saturday, April 12th 2025
 ### Eden's Law of Epistemic Responsibility:
 

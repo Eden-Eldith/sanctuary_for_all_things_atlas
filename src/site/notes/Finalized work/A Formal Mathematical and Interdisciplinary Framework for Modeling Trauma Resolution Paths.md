@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","tags":["Mathematics","Programming","AI"],"created":"2025-04-06T02:08:08.951+01:00","updated":"2025-04-06T02:22:58.617+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","tags":["Mathematics","Programming","AI"],"created":"2025-04-06T02:08:08.951+01:00","updated":"2025-12-05T03:28:28.737+00:00"}
 ---
 
 # Trauma Resolution Paths: A Mathematical Framework
-**Author:** Generated Polymathic Academic System - Logic and problem solving by Eden_Eldith
+**Author:** Generated Polymathic Academic System (Gemini 2.5 pro) - Logic and problem solving by Eden_Eldith
 
 ---
 

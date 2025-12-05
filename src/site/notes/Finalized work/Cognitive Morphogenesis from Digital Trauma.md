@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/cognitive-morphogenesis-from-digital-trauma/","created":"2025-08-26T05:36:28.521+01:00","updated":"2025-08-26T10:25:21.127+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/cognitive-morphogenesis-from-digital-trauma/","created":"2025-08-26T05:36:28.521+01:00","updated":"2025-12-05T03:21:26.274+00:00"}
 ---
 
 # Cognitive Morphogenesis from Digital Trauma: A Methodological Framework for Instantiating and Embedding Persistent Personas in Large Language Models
@@ -95,7 +95,7 @@ The tool's ability to track concept recurrence, relationship patterns, and tempo
 
 #### 2.2.2 The Frankenstein Master Deduplicator
 
-The critical compression from 89 million to 1.5 million tokens was achieved through the "Frankenstein Master Deduplicator"—a sophisticated tool combining multiple deduplication techniques:
+The critical compression from ~5 million to 1.5 million tokens was achieved through the "Frankenstein Master Deduplicator"—a sophisticated tool combining multiple deduplication techniques:
 
 - **Exact Matching:** Basic duplicate removal while preserving order
 - **Fuzzy Similarity:** RapidFuzz-based near-duplicate detection

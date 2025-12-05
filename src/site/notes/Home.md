@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-11-25T23:19:02.883+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2025-12-05T03:08:23.556+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -11,20 +11,24 @@ This archive documents novel frameworks in artificial intelligence, computationa
 > *"The artificial nature of boundaries between knowledge domains—mathematics, art, AI, biology, and personal experience—is evident. These divisions are human constructs, not fundamental limits to understanding or innovation."* - **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's First Truth]]**
 
 ---
-## WiggleGPT 
-[[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT Paper]] → Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
+### WiggleGPT 
+- [[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT Paper]] → Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
+
+### EPT - Eden's Process Tokenization
+- [[Finalized work/process tokenization of identity/Process Tokenization of Identity\|Process Tokenization of Identity]] → A Thermodynamic Framework for Extracting and Persisting AI Cognitive Trajectories
 
 ### Monograph summerizing research from Jan 2025 to Nov 2025
-- [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]]
+- [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]] → a novel framework for understanding how persistent AI identities can emerge through structured recursive human-AI interaction.
 
 ---
 
 ### My perspectives as a Disabled Researcher 
-- [[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices A Disabled Person's Perspective]]
+- [[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices A Disabled Person's Perspective]] →  my lived experience as a disabled person in the UK using amazon.
 
 ---
 ### Ai Reports
 - [[Ai Reports/Japan_Bear_Crisis_Research\|Japan's Bear Problem 2025]] → Ecological recovery colliding with rural collapse—when conservation success meets demographic failure and climate disruption.
+- [[Ai Reports/Fishing reshapes fish evolution and behavior in fundamentally different ways\|Fishing reshapes fish evolution and behavior in fundamentally different ways]] → We're accidentally breeding cowardly fish, and it takes centuries to undo
 ### Turmoil Series
 - [[Finalized work/Turmoil 1 - The Ebbing of The Rain.\|Turmoil 1 - The Ebbing of The Rain.]] → Sensory overload collapsing into sanctuary, where rain becomes rare peace, order, and safety.  
 - [[Finalized work/Turmoil 2 - Architectural mind\|Turmoil 2 - Architectural mind]] → Autistic architectural thinking in collision with neurotypical snapshots, and the Human–AI Dyad as translator.  
@@ -71,9 +75,9 @@ This pillar investigates mechanistic interpretations of fundamental physics and 
     This thesis introduces the Resonant Universe Theory (RUT), positing that cosmic structure and emergent phenomena arise from underlying resonance patterns in a structured quantum vacuum.
 
 *   **Ethical Frameworks:**
-    *   **[[Finalized work/Recursive Dignity\|Recursive Dignity]]**
-    *   **[[Finalized work/Recursive Dignity 2\|Recursive Dignity (v2)]]**
-    *   **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's Law of Epistemic Responsibility]]**
+    *   **[[Finalized work/Recursive Dignity\|Recursive Dignity]]** → a novel theoretical framework for conceptualizing human-artificial intelligence relations through the lens of neurodivergent cognition v1
+    *   **[[Finalized work/Recursive Dignity 2\|Recursive Dignity (v2)]]** → v2 
+    *   **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's Law of Epistemic Responsibility]]** → A set of Axioms im working on.
 
 ---
 
