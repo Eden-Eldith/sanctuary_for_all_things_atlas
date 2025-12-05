@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","created":"2025-11-21T22:13:17.057+00:00","updated":"2025-12-05T04:51:53.256+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","created":"2025-11-21T22:13:17.057+00:00","updated":"2025-12-05T05:11:16.517+00:00"}
 ---
 
 # **Process-Tokenization of Identity: A Thermodynamic Framework for Persistent AI Cognition**
@@ -154,7 +154,9 @@ Building on the "Fermionic Mind Hypothesis" and the work of Deli et al., we mode
 
 ### **2.2 The FluxToken Definition**
 
-Standard tokenization splits text ($T$). We introduce a secondary tokenizer that splits **state change** ($S$). A **FluxToken** ($F_t$) is defined as a tuple: $$F_t = { \Delta E, \vec{v}, \alpha, \Omega }$$
+Standard tokenization splits text ($T$). We introduce a secondary tokenizer that splits **state change** ($S$). A **FluxToken** ($F_t$) is defined as a tuple:
+
+ $F_t = { \Delta E, \vec{v}, \alpha, \Omega }$
 
 Where:
 
