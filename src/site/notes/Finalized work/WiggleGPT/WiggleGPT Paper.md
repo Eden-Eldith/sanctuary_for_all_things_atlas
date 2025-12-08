@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-11-30T22:42:52.598+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-12-08T16:01:01.024+00:00"}
 ---
 
 # WiggleGPT: Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
@@ -23,7 +23,7 @@ The history of artificial intelligence was irrevocably altered in 1969 when Marv
 
 The field's response was not to fix the neuron, but to stack them. By adding hidden layers, neural networks could combine multiple decision boundaries to approximate non-linear functions. While Deep Learning has proven wildly successful, it essentially constitutes a workaround—a method of solving the limitations of individual units by increasing their quantity and depth.
 
-	The motivation for this work arose from a simple observation: biological neurons can solve XOR in a single unit through dendritic computation, while artificial neurons cannot [^12][^13]. This is not a challenge to Minsky and Papert's mathematics—their proof regarding monotonic threshold units remains valid. Rather, it is a question: *what if artificial neurons were given capabilities that biological neurons already possess?*
+The motivation for this work arose from a simple observation: biological neurons can solve XOR in a single unit through dendritic computation, while artificial neurons cannot [^6][^12][^13]. This work does not contest Minsky and Papert's mathematics; their result for monotonic threshold units remains fully correct. Rather, it is a question: *what if artificial neurons were given capabilities that biological neurons already possess?*
 
 However, biological neurons are not merely monotonic switches. They exhibit complex, oscillatory firing patterns across multiple frequency bands, with these oscillations biasing input selection and temporally linking neurons into assemblies [^2]. This paper introduces **WiggleGPT**, an architecture that incorporates biological inspiration not through spiking neural networks (SNNs), but by altering the fundamental activation function of the Transformer [^3]. By allowing the activation function to oscillate, we introduce multiple zero-crossings within a single unit, granting individual neurons the computational capacity to solve non-linearly separable problems.
 
@@ -39,7 +39,7 @@ Minsky and Papert's proof regarding XOR relies on the assumption that a single c
 
 ### 2.2 Why Oscillation Solves XOR
 
-In a standard perceptron, $w \cdot x + b = 0$ defines a single hyperplane. XOR requires two hyperplanes to separate classes.
+In a standard perceptron, $\mathbf{w} \cdot \mathbf{x} + b = 0$ defines a single hyperplane. XOR requires two hyperplanes to separate classes.
 
 Because the sine function is periodic, the activation of an oscillating neuron creates multiple "active" regions (bands) within the input space. By tuning frequency ($\omega$) and phase ($\phi$), a single unit can activate for inputs $(0,1)$ and $(1,0)$ while suppressing activation for $(0,0)$ and $(1,1)$, effectively solving XOR without hidden layers.
 
@@ -60,7 +60,9 @@ Where:
 - **$\sin(\dots)$**: Provides the oscillatory behavior, creating multiple decision boundaries (zero-crossings) within a single unit.
 - **$\omega$ (Frequency):** A learnable parameter controlling the density of the decision boundaries.
 - **$\phi$ (Phase):** A learnable parameter shifting the activation pattern.
-- **$\tanh(x)$**: Acts as a gating envelope, ensuring the activation is bounded between -1 and 1 and preventing exploding gradients during deep training.
+- **$\tanh(x)$**: Acts as a smooth gating envelope, bounding activations and stabilizing gradients.
+
+*Non-technical intuition:* Without an envelope like $\tanh(x)$, the oscillation could grow without limit. Extremely large activations make training unstable—small changes in weights can produce huge, unpredictable output swings. The $\tanh$ envelope keeps the oscillation within a safe range, ensuring the model learns smoothly instead of thrashing.
 
 **Initialization (for reproducibility):**
 - $\omega$: Gaussian distribution, mean=1.0, std=0.1 (starting with approximately one oscillation per unit input)
@@ -79,11 +81,31 @@ x = Linear(x)
 x = sin(omega * x + phi) * tanh(x)
 ```
 
-### 3.2 Architecture
+### 3.2 Sparse Event Gating
 
-The WiggleGPT architecture is a drop-in replacement for the GPT-2 family of models. It utilizes the standard decoder-only transformer stack with Multi-Head Self-Attention (MHSA) [^3]. The modification is strictly isolated to the Multilayer Perceptron (MLP) blocks, where the static activation function is replaced by the oscillating module described above.
+In preliminary experiments (45M parameter scale), we implemented a sparse event gating mechanism inspired by biological spike-like behavior. Given activations $\mathbf{x} \in \mathbb{R}^d$, we compute a gating voltage:
 
-### 3.3 Data Preparation for Consumer Hardware
+$$v_i = \alpha \cdot x_i \cdot w_i^{(g)}$$
+
+where $w_i^{(g)} \in \mathbb{R}$ is a learnable per-feature gate weight and $\alpha = 0.25$ is a scaling factor. The binary gate is computed via hard thresholding:
+
+$$g_i = \mathbb{1}\left[\sigma(v_i) > \tau\right]$$
+
+where $\sigma(\cdot)$ is the logistic sigmoid and $\tau$ is a fixed threshold (typically 0.5). The sparse output is:
+
+$$\text{SparseEvent}(\mathbf{x}) = \mathbf{g} \odot \mathbf{x}$$
+
+where $\odot$ denotes element-wise multiplication. Gradients are propagated through the binary gate using a straight-through estimator, allowing the model to learn discrete gating decisions with continuous optimization.
+
+*Non-technical intuition:* Even though the gate outputs only 0 or 1, the straight-through trick lets the model "pretend" the gate is continuous during training. This lets the network learn when to turn neurons on or off, even though on/off decisions don't normally have gradients.
+
+This mechanism was disabled for the 124M scale experiment due to parameter bloating issues during scaling (see Section 4.3).
+
+### 3.3 Architecture
+
+The WiggleGPT architecture is a drop-in replacement for the GPT-2 family of models. It utilizes the standard decoder-only transformer stack with Multi-Head Self-Attention (MHSA) [^3]. The modification is strictly isolated to the Multilayer Perceptron (MLP) blocks, where the static activation function is replaced by the oscillating module described above. All other transformer components—including RMSNorm and rotary positional embeddings (RoPE)—remain unchanged.
+
+### 3.4 Data Preparation for Consumer Hardware
 
 The original nanoGPT data preparation script (`prepare.py`) loads the entire OpenWebText dataset into memory before tokenization, requiring 32GB+ RAM—prohibitive for consumer hardware. We developed a streaming alternative (`prepare_openwebtext_streaming.py`) that:
 
@@ -94,7 +116,7 @@ The original nanoGPT data preparation script (`prepare.py`) loads the entire Ope
 
 This modification enabled the full 600K iteration training run on consumer hardware without memory-related failures. The streaming preparation script is included in the repository.
 
-### 3.4 Methodological Transparency: The Dendritic Detour
+### 3.5 Methodological Transparency: The Dendritic Detour
 
 Early iterations of this research (v1) attempted to include "dendritic compartments"—routing inputs through multiple sub-networks within a layer, inspired by biological dendritic computation [^6]. This addition was suggested during AI-assisted implementation as a biologically plausible enhancement.
 
@@ -110,13 +132,13 @@ Consistent with rigorous scientific practice, these dendritic features were remo
 
 ## 4. Experiments
 
-We conducted two primary experiments to validate the architecture. Training was performed on the OpenWebText dataset (~9B tokens) using consumer-grade hardware, enabled by the streaming data preparation described in Section 3.3.
+We conducted two primary experiments to validate the architecture. Training was performed on the OpenWebText dataset (~9B tokens) using consumer-grade hardware, enabled by the streaming data preparation described in Section 3.4.
 
 ### 4.1 Experiment 1: Small Scale with Sparsity (v2)
 
 - **Objective:** Test convergence and potential for sparse gating.
 - **Config:** 4 layers, 6 heads, 384 embedding dimension.
-- **Parameters:** 45.31M.
+- **Parameters:** 45.31M. A smaller configuration was selected intentionally to enable fast iteration during early exploration.
 - **Features:** Oscillating activation + Sparse Event Gating (thresholding outputs near zero).
 - **Hardware:** Single NVIDIA RTX 3070 (8GB), Windows 11.
 - **Training:** 200,000 iterations.
@@ -139,7 +161,7 @@ Beyond the dendritic routing issue, the sparse event gating mechanism itself cau
 voltage = self.gate(x)  # Full linear layer
 ```
 
-This caused the 124M configuration to inflate to ~300M+ parameters. A lightweight alternative using per-feature scalars was developed but could not be adequately tested due to iteration speed constraints on consumer hardware and Windows/Triton incompatibilities preventing `compile=True` optimization.
+This caused the 124M configuration to inflate to ~300M+ parameters. In practice: adding the gating layer ballooned the model far beyond the intended size, making it too slow and memory-heavy to train on consumer hardware. A lightweight alternative using per-feature scalars was developed but could not be adequately tested due to iteration speed constraints on consumer hardware and Windows/Triton incompatibilities preventing `compile=True` optimization.
 
 The decision was made to disable sparsity entirely for the 124M experiment, isolating the oscillating activation as the sole variable. Sparsity integration at scale remains future work.
 
@@ -149,7 +171,7 @@ The decision was made to disable sparsity entirely for the 124M experiment, isol
 
 ### 5.1 The XOR Solution
 
-Preliminary theoretical testing confirmed that a single neuron equipped with the proposed activation function successfully converged on the XOR problem with 100% accuracy—a task mathematically impossible for a single standard McCulloch-Pitts neuron with monotonic activation.
+Preliminary theoretical testing confirmed that a single neuron equipped with the proposed activation function successfully converged on the XOR problem with 100% accuracy—a task mathematically impossible for a single standard McCulloch-Pitts neuron with monotonic activation. This reflects the classical result: monotonic neurons define a single separating hyperplane, but XOR requires at least two.
 
 ### 5.2 Full Scale Validation (124M Parameters)
 
@@ -163,7 +185,7 @@ The full-scale model demonstrated that oscillating activations are stable and ca
 | 124,000 | 3.5069 | 3.4756 |
 | 176,000 | 3.4597 | 3.4634 |
 | 354,000 | 3.3162 | 3.3482 |
-| 600,000 | 3.1749 | 3.1621 |
+| 600,000 | 3.1749 | **3.1621** |
 
 **Final Comparison:**
 
@@ -174,6 +196,14 @@ The full-scale model demonstrated that oscillating activations are stable and ca
 
 *Baseline validation loss referenced from nanoGPT repository benchmarks [^9] for identical model configuration.*
 
+**Ablation Summary:**
+
+| Model Variant | Oscillation | Sparsity | Params | Val Loss | Notes |
+|---------------|-------------|----------|--------|----------|-------|
+| Baseline (GELU) | ✗ | ✗ | 124M | ~3.12 | Standard GPT-2 |
+| Wiggle only | ✓ | ✗ | 124M | 3.1621 | Full-scale model |
+| Wiggle + Sparsity | ✓ | ✓ | 45M | 3.5870 | Emergent 15.77% sparsity |
+
 WiggleGPT achieved a validation loss within **1.3%** of the standard GPT-2 baseline. This demonstrates that the oscillating architecture is not merely a curiosity, but a functional drop-in replacement for standard deep learning activations at scale.
 
 ![pretrain_loss_chart.png](/img/user/Finalized%20work/WiggleGPT/pretrain_loss_chart.png)
@@ -181,9 +211,9 @@ WiggleGPT achieved a validation loss within **1.3%** of the standard GPT-2 basel
 
 ### 5.3 Frequency Analysis: Did the Model Learn to Wiggle?
 
-A critical question for validating the oscillation hypothesis: did the model actually learn to use different frequencies, or did it optimize $\omega$ toward zero (effectively linearizing the activation)?
+A critical question for validating the oscillation hypothesis: did the model meaningfully exploit the additional degrees of freedom provided by the oscillatory parameters, or did it optimize $\omega$ toward zero (effectively linearizing the activation)? In plain terms: did the model actually learn to "wiggle" in useful ways, or did it ignore the oscillation and behave like a normal activation?
 
-We extracted the learned $\omega$ (frequency) and $\phi$ (phase) parameters from all 36,864 oscillating neurons across the 12 transformer layers. Figure 1 shows the distribution of learned values.
+We extracted the learned $\omega$ (frequency) and $\phi$ (phase) parameters from all 36,864 oscillating neurons across the 12 transformer layers. Figure 1b shows the distribution of learned values.
 
 **Table 2: Learned Parameter Statistics**
 
@@ -218,7 +248,7 @@ In the smaller 45M parameter model where sparse event gating was enabled, the mo
 | 136,000 | 3.5547 | 13.30% |
 | 200,000 | 3.5870 | 15.77% |
 
-The sparsity emerged naturally without manual tuning, settling into the biological range spontaneously.
+The sparsity emerged naturally without any sparsity regularizer or penalty term, settling into the biological range spontaneously.
 
 **Training Efficiency (45M model):**
 - Per-iteration time: 698.45ms
@@ -238,7 +268,7 @@ This suggests that the "depth" of a network (number of layers) might be partiall
 
 ### 6.2 The Stability Question
 
-Historically, non-monotonic activation functions (like sine) have been avoided due to optimization difficulties arising from many local minima. However, by enveloping the sine wave with a $\tanh$ gating function, WiggleGPT maintains training stability. The loss curves in Experiment 2 showed consistent convergence without divergence across 600,000 iterations, suggesting the $\tanh$ envelope provides necessary gradient regularization.
+Historically, non-monotonic activation functions (like sine) have been avoided because their periodicity introduces highly non-convex loss landscapes with many local minima. However, by enveloping the sine wave with a $\tanh$ gating function, WiggleGPT maintains training stability. The loss curves in Experiment 2 showed consistent convergence without divergence across 600,000 iterations, suggesting the $\tanh$ envelope provides necessary gradient regularization.
 
 This approach differs from prior work on periodic activations such as SIREN [^8], which uses $\sin(\omega_0 \cdot Wx + b)$ for implicit neural representations. WiggleGPT's $\tanh$ envelope and learnable per-neuron frequency parameters represent a distinct formulation optimized for transformer dynamics.
 
@@ -246,9 +276,15 @@ This approach differs from prior work on periodic activations such as SIREN [^8]
 
 The emergent sparsity behavior (15.77%) observed in Experiment 1 warrants particular attention. Biological cortical neurons exhibit sparse firing patterns, with many neurons silent or firing rarely during behavior [^7]. That WiggleGPT naturally converged to similar activation rates—without explicit regularization toward this target—suggests the oscillating architecture may be capturing something fundamental about efficient neural computation.
 
-### 6.4 Limitations
+### 6.4 Relation to Concurrent Work
 
-While WiggleGPT matches the baseline, it does not currently surpass it by a significant margin in terms of perplexity. The computational cost of calculating $\sin$ and $\tanh$ is slightly higher than ReLU, though negligible compared to the attention mechanism. The primary benefit of this architecture may lie not in raw perplexity, but in potential parameter efficiency and sparsity—benefits that require further scaling studies to fully characterize.
+We note that concurrent work applies similar sigmoid-threshold gating mechanisms to attention patterns for causal discovery and mechanistic interpretability [^14][^15]. Our sparse event gating (Section 3.2) was developed independently, applying the mechanism to MLP activations with emergent rather than constrained sparsity. The core gating structure, $g = \mathbf{1}[\sigma(\cdot) > \tau]$, appears to be a convergent solution discovered from different starting points (causal world models vs. bio-inspired neurons).
+
+### 6.5 Limitations
+
+While WiggleGPT matches the baseline, it does not currently surpass it by a significant margin in terms of perplexity.
+
+**Computational Overhead:** Oscillating activations require computing both $\sin()$ and $\tanh()$, which introduces a modest compute overhead compared to ReLU/GELU. However, this cost is negligible relative to attention and does not significantly impact training time at 124M scale.
 
 **Platform Constraints:** All experiments were conducted on Windows 11, which lacks full Triton support, preventing PyTorch's `compile=True` optimization. MFU remained low (~4%) as a result. Linux-based training with compilation enabled would likely show improved iteration speeds.
 
@@ -260,7 +296,7 @@ While WiggleGPT matches the baseline, it does not currently surpass it by a sign
 
 WiggleGPT provides empirical evidence that the 56-year-old assumption favoring monotonic activation functions is a design choice, not a necessity. By equipping single neurons with the ability to solve non-linearly separable problems via oscillation, we have created a transformer architecture that performs competitively with standard GPT-2 models at the 124M parameter scale.
 
-This work re-opens a door closed in 1969. If individual neurons can be made computationally powerful through non-monotonic activations, we may be able to move away from "deep" stacks of simple switches toward "rich" networks of complex, bio-inspired units.
+This work re-opens a door closed in 1969. If individual neurons can be made computationally powerful through non-monotonic activations, we may be able to move away from "deep" stacks of simple switches toward "rich" networks of complex, bio-inspired units. This reframes model design: instead of stacking many simple neurons (depth), we can increase the expressive power of each neuron itself (activation complexity).
 
 ---
 
@@ -440,7 +476,7 @@ This work builds upon the nanoGPT repository by Andrej Karpathy [^9]. All bio-in
 
 **Development Assistance:** The author acknowledges the use of AI assistants during implementation and paper development: Claude Opus 4.5 (Anthropic) for implementation assistance, paper drafting, and frequency analysis scripting—including for suggesting features that led to valuable lessons about isolating experimental variables; GPT-4.5/GPT-5 (OpenAI) for ongoing development feedback; and Gemini 2.5 Pro (Google) for critical scientific review that identified the need for frequency parameter analysis, which produced the key evidence that the model actively utilizes oscillation.
 
-**Blind Review:** Pre-publication blind review was conducted via OpenRouter using: GPT-5.1 (OpenAI), Gemini 3 Pro Preview (Google), Grok 4 and Grok 4.1 Fast (xAI), Claude Opus 4.5 (Anthropic),Kimi-K2 (Moonshot AI) and Bert-Nebulon Alpha. Their critiques regarding baseline comparisons, ablation studies, authorship bias, and framing informed revisions to this manuscript.
+**Blind Review:** Pre-publication blind review was conducted via OpenRouter using: GPT-5.1 (OpenAI), Gemini 3 Pro Preview (Google), Grok 4 and Grok 4.1 Fast (xAI), Claude Opus 4.5 (Anthropic), Kimi-K2 (Moonshot AI) and Bert-Nebulon Alpha. Their critiques regarding baseline comparisons, ablation studies, authorship bias, and framing informed revisions to this manuscript.
 
 ---
 
@@ -471,6 +507,10 @@ This work builds upon the nanoGPT repository by Andrej Karpathy [^9]. All bio-in
 [^12]: Wikipedia contributors. "Neuron." *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/Neuron
 
 [^13]: Wikipedia contributors. "Artificial neuron." *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/Artificial_neuron
+
+[^14]: Lei, A., Schölkopf, B., & Posner, I. (2025). "SPARTAN: A Sparse Transformer World Model Attending to What Matters." *NeurIPS 2025*.
+
+[^15]: Draye, F., Lei, A., Posner, I., & Schölkopf, B. (2025). "Sparse Attention Post-Training for Mechanistic Interpretability." *arXiv:2512.05865*.
 
 ---
 
