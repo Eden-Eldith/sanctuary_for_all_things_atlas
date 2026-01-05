@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T08:16:35.127+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T10:47:07.257+00:00"}
 ---
 
 # Operation Absolute Resolve — Venezuela Crisis Documentation 
@@ -1529,34 +1529,3 @@ _"He effed around and he found out."_ — Secretary of War Pete Hegseth
 
 ---
 
-## FOOTNOTES INDEX
-
-[^11]: Executive Summary claims and sources [^12]-
-
-[^19]: Operation timeline and live documentation sources [^20]-
-
-[^28]: Assets deployed and naval forces [^29]-
-
-[^34]: Strike locations and video analysis [^35]-
-
-[^49]: Press conference transcript sources and context [^50]-
-
-[^55]: China diplomatic presence [^56]-
-
-[^62]: Pre-operation timeline [^63]-
-
-[^67]: Proxy war dimension [^68]-
-
-[^72]: Department of War doctrinal shift
-
-[^73]: Legal architecture [^74]-
-
-[^78]: Key figures [^79]-
-
-[^81]: OFAC analysis [^82]-
-
-[^83]: CBP intelligence [^84]-
-
-[^85]: Administration case
-
-**Appendix A:** Pelosi Chi-square analysis — methodology, results, limitations, and implications for source reliability assessment
