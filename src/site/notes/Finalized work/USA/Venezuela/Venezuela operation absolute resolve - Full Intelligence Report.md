@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:14:34.616+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:18:31.980+00:00"}
 ---
 
 
@@ -1344,6 +1344,38 @@ The full Python analysis script (`pelosi_analysis_v2.py`) and results (`pelosi_a
 ---
 
 _"He effed around and he found out."_ — Secretary of War Pete Hegseth
+
+---
+
+## Additional Sources
+
+The following sources were used for background intelligence gathering, cross-referencing, and sentiment analysis during live documentation:
+
+**Official Actions & Policy Context:**
+- OFAC Recent Actions (January 2, 2026)[^31]
+- NPR confirmation of December 31 dock strike[^32]
+- CNN analysis of Venezuela drone strike implications[^33]
+- Venezuelanalysis breaking coverage[^34]
+- War Updates FC KC-130 tanker tracking[^35]
+
+**International Media Coverage:**
+- Al Jazeera live reporting on Caracas explosions[^36]
+- Oxford Mail coverage of Maduro capture[^37]
+
+**Background Intelligence:**
+- Grokipedia profile on Tren de Aragua[^38]
+- Wikipedia documentation of Operation Rough Rider (Yemen)[^39]
+- Al Jazeera analysis of 2025 US military operations across seven countries[^40]
+- Wikipedia documentation of 2025 domestic National Guard deployments[^41]
+
+**Social Media Sentiment & Public Reaction:**
+- @geminidave6 analysis of SmartMatic/election interference justification angle[^42]
+- @ImMeme0 documenting Venezuelan civilian reactions to Maduro capture[^43]
+- @Vitamvivere footage of Caracas celebrations[^44]
+- @nickshirleyy coverage of nationwide Venezuelan celebrations[^45]
+
+**Aviation Restrictions:**
+- TravelMole reporting FAA ban on commercial flights over Venezuela[^46]
 
 ---
 
