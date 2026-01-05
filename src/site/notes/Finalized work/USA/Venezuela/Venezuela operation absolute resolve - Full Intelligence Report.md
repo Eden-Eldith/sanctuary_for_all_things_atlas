@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:31:02.746+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:35:02.641+00:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## EXECUTIVE SUMMARY
 
-On January 3, 2026, the United States executed **Operation Absolute Resolve**[^1] — a precision military operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores, both indicted in the Southern District of New York on narco-terrorism charges.[^2]
+On January 3, 2026, the United States executed **Operation Absolute Resolve**<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup> — a precision military operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores, both indicted in the Southern District of New York on narco-terrorism charges.<sup>[2](https://grokipedia.com/page/Nicol%C3%A1s_Maduro)</sup>
 
 ### Outcome
 
@@ -19,18 +19,18 @@ On January 3, 2026, the United States executed **Operation Absolute Resolve**[^1
 |**Both exfiltrated**|✅ CONFIRMED — USS Iwo Jima|
 |**US casualties**|ZERO fatalities, ZERO equipment lost|
 |**One aircraft hit**|Remained flyable, returned safely|
-|**Operation duration**|~4.5 hours (10:46 PM - 3:29 AM ET)[^1]|
+|**Operation duration**|~4.5 hours (10:46 PM - 3:29 AM ET)<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
 
 ### Key Developments
 
-- **US will directly administer Venezuela** until "safe, proper, and judicious transition"[^1]
-- Venezuelan Vice President sworn in as President — "willing to do what we think is necessary"[^1]
-- Colombian President Petro warned: "He does have to watch his ass"[^1]
-- "American armada remains poised in position" — second wave prepared if needed[^1]
-- Maduro to be transferred to New York for trial[^1]
-- **⚠️ CHINA ANGLE:** Senior Chinese diplomatic delegation met Maduro HOURS before strike — reportedly still in Caracas at time of operation[^3]
-- **China "firmly opposes"** US action — calls it violation of international law[^4]
-- **Operation Midnight Hammer:** Trump referenced prior Iran nuclear strikes — "the obliteration and decimation of the Iran nuclear sites"[^1]
+- **US will directly administer Venezuela** until "safe, proper, and judicious transition"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- Venezuelan Vice President sworn in as President — "willing to do what we think is necessary"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- Colombian President Petro warned: "He does have to watch his ass"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- "American armada remains poised in position" — second wave prepared if needed<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- Maduro to be transferred to New York for trial<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- **⚠️ CHINA ANGLE:** Senior Chinese diplomatic delegation met Maduro HOURS before strike — reportedly still in Caracas at time of operation<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>
+- **China "firmly opposes"** US action — calls it violation of international law<sup>[4](https://x.com/MFA_China/status/2007460580089868702)</sup>
+- **Operation Midnight Hammer:** Trump referenced prior Iran nuclear strikes — "the obliteration and decimation of the Iran nuclear sites"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 ---
@@ -54,100 +54,100 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ### Official Operation Timeline
 
-**Source:** Gen. Dan Caine, Chairman of the Joint Chiefs of Staff — White House Press Conference[^1]
+**Source:** Gen. Dan Caine, Chairman of the Joint Chiefs of Staff — White House Press Conference<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 | Time (ET)               | Event                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Early December 2025** | Force set, awaiting weather conditions[^1]                                                                           |
-| **Dec 25 - Jan 1**      | Military ready, waiting for triggers. Originally planned for CHRISTMAS DAY — postponed for Nigeria ISIS ops[^5] |
-| **Jan 1, 2026**         | CNN reports 5+ Americans detained by Venezuela (leverage attempt?)[^25]                                               |
-| **Jan 2, 10:46 PM**     | Trump orders GO — "Good luck and Godspeed"[^1]                                                                       |
-| **Night**               | 150+ aircraft launch from 20 bases across Western Hemisphere[^1]                                                     |
-| **Night**               | Helicopters depart with extraction force at 100ft above water[^1]                                                    |
-| **Night**               | SPACECOM/CYBERCOM "layer effects" — lights go out across Caracas[^1]                                                 |
-| **Night**               | Air component dismantles Venezuelan air defense systems[^1]                                                          |
-| **Jan 3, 1:01 AM**      | Arrival at Maduro compound (2:01 AM Caracas local)[^1]                                                               |
-| **1:01 AM+**            | Helicopters take fire, respond with overwhelming force[^1]                                                           |
-| **1:01 AM+**            | One aircraft hit — remains flyable[^1]                                                                               |
-| **1:01 AM+**            | Maduro fails to reach panic room — "unable to close door"[^1]                                                        |
-| **1:01 AM+**            | Maduro and wife surrender to DOJ officers[^1]                                                                        |
-| **~3:00 AM**            | Force begins exfiltration under fire[^1]                                                                             |
-| **3:29 AM**             | Force over water with both Maduros aboard[^1]                                                                        |
-| **Post-op**             | Both detained on USS Iwo Jima[^1]                                                                                    |
-| **TBD**                 | Transfer to New York for trial[^1]                                                                                   |
+| **Early December 2025** | Force set, awaiting weather conditions<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                           |
+| **Dec 25 - Jan 1**      | Military ready, waiting for triggers. Originally planned for CHRISTMAS DAY — postponed for Nigeria ISIS ops<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup> |
+| **Jan 1, 2026**         | CNN reports 5+ Americans detained by Venezuela (leverage attempt?)<sup>[25](https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro)</sup>                                               |
+| **Jan 2, 10:46 PM**     | Trump orders GO — "Good luck and Godspeed"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                       |
+| **Night**               | 150+ aircraft launch from 20 bases across Western Hemisphere<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                     |
+| **Night**               | Helicopters depart with extraction force at 100ft above water<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                    |
+| **Night**               | SPACECOM/CYBERCOM "layer effects" — lights go out across Caracas<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                 |
+| **Night**               | Air component dismantles Venezuelan air defense systems<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                          |
+| **Jan 3, 1:01 AM**      | Arrival at Maduro compound (2:01 AM Caracas local)<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                               |
+| **1:01 AM+**            | Helicopters take fire, respond with overwhelming force<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                           |
+| **1:01 AM+**            | One aircraft hit — remains flyable<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                               |
+| **1:01 AM+**            | Maduro fails to reach panic room — "unable to close door"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                        |
+| **1:01 AM+**            | Maduro and wife surrender to DOJ officers<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                        |
+| **~3:00 AM**            | Force begins exfiltration under fire<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                             |
+| **3:29 AM**             | Force over water with both Maduros aboard<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                        |
+| **Post-op**             | Both detained on USS Iwo Jima<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                                    |
+| **TBD**                 | Transfer to New York for trial<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>                                                                                   |
 
 
 ### Live Documentation Timeline (Eden's Observations)
 
 |Time (GMT)|Event|Source|
 |---|---|---|
-|~06:50|First explosions reported|CNN witnesses[^6]|
-|~06:50-07:00|Venezuelan Air Force scrambles Su-30MKV fighters|France 24[^8]|
+|~06:50|First explosions reported|CNN witnesses<sup>[6](https://edition.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)</sup>|
+|~06:50-07:00|Venezuelan Air Force scrambles Su-30MKV fighters|France 24<sup>[8](https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump)</sup>|
 |07:29|Eden wakes up, begins documentation|—|
-|07:33|Helicopter assault identified from civilian video|Luis vitta video[^7]|
-|~07:30|Reports of CH-47 Chinook and CH-53 Sea Stallion helicopters over Caracas|OSINT accounts[^23]|
+|07:33|Helicopter assault identified from civilian video|Luis vitta video<sup>[7](https://video.twimg.com/amplify_video/2007339495511764992/vid/avc1/288x640/j5cJdJ8BtKleblDZ.mp4)</sup>|
+|~07:30|Reports of CH-47 Chinook and CH-53 Sea Stallion helicopters over Caracas|OSINT accounts<sup>[23](https://x.com/sentdefender/status/2007339573156950095)</sup>|
 |07:45|Initial documentation created|—|
 |~08:00|Civilian video analysis — ~15 aircraft in column formation|—|
-|~08:15|Higuerote Airport strike confirmed|Mehr News (Iran)[^13]|
-|~08:30|KC-130J tanker detected on ADS-B, Fuerte Tiuna struck|ADS-B Exchange[^9]|
-|07:50|Maduro declares state of emergency|War Updates FC[^30]|
-|09:21|Trump claims Maduro captured|Truth Social[^24]|
+|~08:15|Higuerote Airport strike confirmed|Mehr News (Iran)<sup>[13](https://en.mehrnews.com/news/240413/VIDEO-Explosion-at-Venezuela-s-Higuerote-Airport)</sup>|
+|~08:30|KC-130J tanker detected on ADS-B, Fuerte Tiuna struck|ADS-B Exchange<sup>[9](https://x.com/k_c_shivansh/status/2007356241606218175)</sup>|
+|07:50|Maduro declares state of emergency|War Updates FC<sup>[30](https://x.com/k_c_shivansh/status/2007357533808455977)</sup>|
+|09:21|Trump claims Maduro captured|Truth Social<sup>[24](https://truthsocial.com/@realDonaldTrump/posts/115830428767897167)</sup>|
 |09:38|Padrino López issues defiant statement|—|
-|11:00|White House Press Conference begins|@WhiteHouse[^1]|
+|11:00|White House Press Conference begins|@WhiteHouse<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
 
 
 ---
 
 ### Confirmed Assets Deployed
 
-**Source:** Chairman Caine, White House Press Conference[^1]
+**Source:** Chairman Caine, White House Press Conference<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 #### Aircraft (150+)
 
 |Type|Role|
 |---|---|
-|F-22 Raptors|Air superiority[^1]|
-|F-35 Lightning IIs|Multi-role fighters[^1]|
-|F/A-18 Hornets|Strike/fighter[^1]|
-|EA-18G Growlers|Electronic warfare[^1]|
-|E-2 Hawkeyes|Airborne early warning[^1]|
-|B-1 Lancers|Strategic bombers[^1]|
-|Rotary wing (helicopters)|Troop insertion/extraction[^1]|
-|Remotely piloted drones|ISR and strike[^1]|
-|KC-130J (Tail 166513)|Aerial refueling[^9]|
-|CV-22 Ospreys|Special forces transport[^5]|
-|C-17 cargo planes|Heavy lift[^1]|
+|F-22 Raptors|Air superiority<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|F-35 Lightning IIs|Multi-role fighters<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|F/A-18 Hornets|Strike/fighter<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|EA-18G Growlers|Electronic warfare<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|E-2 Hawkeyes|Airborne early warning<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|B-1 Lancers|Strategic bombers<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|Rotary wing (helicopters)|Troop insertion/extraction<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|Remotely piloted drones|ISR and strike<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|KC-130J (Tail 166513)|Aerial refueling<sup>[9](https://x.com/k_c_shivansh/status/2007356241606218175)</sup>|
+|CV-22 Ospreys|Special forces transport<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>|
+|C-17 cargo planes|Heavy lift<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
 
 
 #### Launch Points
 
-- **20 bases** on land and sea across Western Hemisphere[^1]
-- Puerto Rico (confirmed staging — "several dozen" fighter jets)[^5]
+- **20 bases** on land and sea across Western Hemisphere<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
+- Puerto Rico (confirmed staging — "several dozen" fighter jets)<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>
 
 
 #### Agencies Involved
 
 |Agency|Role|
 |---|---|
-|CIA|Intelligence[^1]|
-|NSA|Signals intelligence[^1]|
-|NGA|Geospatial intelligence[^1]|
-|SPACECOM|Space effects[^1]|
-|CYBERCOM|Cyber effects[^1]|
-|Department of Justice|Law enforcement officers on raid[^1]|
-|Department of War|Military operations[^1]|
+|CIA|Intelligence<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|NSA|Signals intelligence<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|NGA|Geospatial intelligence<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|SPACECOM|Space effects<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|CYBERCOM|Cyber effects<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|Department of Justice|Law enforcement officers on raid<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
+|Department of War|Military operations<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
 
 
 ### Naval Forces (Pre-positioned as of December 1, 2025)
 
-**Source:** CFR map citing Guardian, Reuters, US Naval Institute News, Congressional Research Service, NPR[^10]
+**Source:** CFR map citing Guardian, Reuters, US Naval Institute News, Congressional Research Service, NPR<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 **Carrier Strike Group (Puerto Rico area):**
 
 |Vessel|Type|
 |---|---|
-|USS Gerald R. Ford|Aircraft Carrier (advanced)[^10]|
-|USS Bainbridge|Destroyer[^10]|
+|USS Gerald R. Ford|Aircraft Carrier (advanced)<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>|
+|USS Bainbridge|Destroyer<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>|
 |USS Mahan|Destroyer|
 |USS Winston S. Churchill|Destroyer|
 
@@ -169,9 +169,9 @@ Where claims originate from Trump administration officials, this is noted. Reade
 |USS Gravely|Destroyer|
 |MV Ocean Trader|Special forces ship|
 
-**Total Personnel:** 4,500+ sailors and Marines (per CFR) — Trump claimed ~15,000 troops in region[^10]
+**Total Personnel:** 4,500+ sailors and Marines (per CFR) — Trump claimed ~15,000 troops in region<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
-**Infrastructure:** US upgrading former naval base in Puerto Rico with new construction; airports with US presence throughout Caribbean[^10]
+**Infrastructure:** US upgrading former naval base in Puerto Rico with new construction; airports with US presence throughout Caribbean<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 
 > **Source Note: Naval Disposition** Naval force disposition compiled from multiple sources: CFR Global Conflict Tracker (primary), citing Guardian, Reuters, US Naval Institute News, Congressional Research Service, and NPR. Ship names and types cross-referenced against US Navy official records. Personnel figures varied between sources (CFR: 4,500+; Trump administration: ~15,000).
@@ -182,13 +182,13 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 |Target|Location|Source|Significance|
 |---|---|---|---|
-|**Maduro's compound**|Caracas|Press conference[^1]|Primary objective — capture site|
-|**La Carlota Airport/Airbase**|Central Caracas|CNN, civilian video[^11]|Military airbase, troop insertion LZ|
-|**Fuerte Tiuna**|Caracas|Maduro decree, video claims[^12]|**Military HQ — Ministry of Defense**|
-|**La Guaira**|Northern coast|Maduro decree[^30]|**Main port — blocking sea escape**|
-|**Higuerote Airport**|Coast, ~80km NE|Mehr News (Iran)[^13]|Blocked air escape routes|
-|**Miraflores Palace**|Central Caracas|War Updates FC[^14]|**Presidential Palace** — Security forces pushed crowds|
-|Venezuelan air defenses|Multiple locations|Press conference[^1]|"Dismantled and disabled"|
+|**Maduro's compound**|Caracas|Press conference<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|Primary objective — capture site|
+|**La Carlota Airport/Airbase**|Central Caracas|CNN, civilian video<sup>[11](https://www.cnn.com/2026/01/03/world/video/caracas-venezuela-explosion-digvid)</sup>|Military airbase, troop insertion LZ|
+|**Fuerte Tiuna**|Caracas|Maduro decree, video claims<sup>[12](https://x.com/k_c_shivansh/status/2007355367010009438)</sup>|**Military HQ — Ministry of Defense**|
+|**La Guaira**|Northern coast|Maduro decree<sup>[30](https://x.com/k_c_shivansh/status/2007357533808455977)</sup>|**Main port — blocking sea escape**|
+|**Higuerote Airport**|Coast, ~80km NE|Mehr News (Iran)<sup>[13](https://en.mehrnews.com/news/240413/VIDEO-Explosion-at-Venezuela-s-Higuerote-Airport)</sup>|Blocked air escape routes|
+|**Miraflores Palace**|Central Caracas|War Updates FC<sup>[14](https://x.com/k_c_shivansh/status/2007358517062316294)</sup>|**Presidential Palace** — Security forces pushed crowds|
+|Venezuelan air defenses|Multiple locations|Press conference<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|"Dismantled and disabled"|
 
 
 **Pattern Assessment:**
@@ -202,7 +202,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ### Civilian Video Analysis (Eden's Assessment)
 
-**Source:** Luis vitta (social media), posted 2:04 a.m. local time[^7] **Duration:** 1:08 **Content:** Progression from dark sky to massive fireballs
+**Source:** Luis vitta (social media), posted 2:04 a.m. local time<sup>[7](https://video.twimg.com/amplify_video/2007339495511764992/vid/avc1/288x640/j5cJdJ8BtKleblDZ.mp4)</sup> **Duration:** 1:08 **Content:** Progression from dark sky to massive fireballs
 
 **Aircraft Analysis:**
 
@@ -215,7 +215,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 **Force Assessment:**
 
 - ~15 helicopters, mix of attack (AH-64 Apache?) and transport (CH-47 Chinook, CH-53?)
-- If 7-8 are transports: **280-320+ troops potentially inserted**[^23]
+- If 7-8 are transports: **280-320+ troops potentially inserted**<sup>[23](https://x.com/sentdefender/status/2007339573156950095)</sup>
 - Probable objectives: La Carlota airbase, Miraflores Palace, military command centers
 
 **Assessment:** This is not an air campaign. This is a **helicopter-borne assault/decapitation operation** with troops on the ground.
@@ -227,7 +227,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ## PART II: WHITE HOUSE PRESS CONFERENCE — FULL TRANSCRIPT
 
-**Time:** 11:00 AM ET (16:00 GMT) **Location:** White House **Duration:** ~1 hour 9 minutes **Source:** Official White House stream (@WhiteHouse) **Transcription:** Eden Eldith via OpenAI Whisper[^1]
+**Time:** 11:00 AM ET (16:00 GMT) **Location:** White House **Duration:** ~1 hour 9 minutes **Source:** Official White House stream (@WhiteHouse) **Transcription:** Eden Eldith via OpenAI Whisper<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 ---
@@ -242,7 +242,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 **On previous operations:**
 
-> "We've done some other good ones like the attack on Soleimani, the attack on al-Baghdadi and the obliteration and decimation of the Iran nuclear sites just recently in an operation known as **Midnight Hammer**. All perfectly executed and done."[^1]
+> "We've done some other good ones like the attack on Soleimani, the attack on al-Baghdadi and the obliteration and decimation of the Iran nuclear sites just recently in an operation known as **Midnight Hammer**. All perfectly executed and done."<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **On the night of the raid:**
@@ -257,7 +257,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 **On drug interdiction:**
 
-> "We've knocked out 97 percent of the drugs coming in by sea. Each boat kills 25, on average 25,000 people. We knocked out 97 percent. And those drugs mostly come from a place called Venezuela."[^1]
+> "We've knocked out 97 percent of the drugs coming in by sea. Each boat kills 25, on average 25,000 people. We knocked out 97 percent. And those drugs mostly come from a place called Venezuela."<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **On running Venezuela:**
@@ -270,17 +270,17 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 **On Maduro's crimes:**
 
-> "The illegitimate dictator Maduro was the kingpin of a vast criminal network responsible for trafficking colossal amounts of deadly and illicit drugs into the United States. As alleged in the indictment, he personally oversaw the vicious cartel known as **Cartel de los Soles**, which flooded our nation with lethal poison, responsible for the deaths of countless Americans... hundreds of thousands over the years."[^2]
+> "The illegitimate dictator Maduro was the kingpin of a vast criminal network responsible for trafficking colossal amounts of deadly and illicit drugs into the United States. As alleged in the indictment, he personally oversaw the vicious cartel known as **Cartel de los Soles**, which flooded our nation with lethal poison, responsible for the deaths of countless Americans... hundreds of thousands over the years."<sup>[2](https://grokipedia.com/page/Nicol%C3%A1s_Maduro)</sup>
 
 
 **On Tren de Aragua:**
 
-> "Maduro sent savage and murderous gangs, including the bloodthirsty prison gang, Tren de Aragua, to terrorize American communities nationwide... They were in Colorado. They took over apartment complexes. They cut the fingers of people if they called police. They were brutal. But they're not so brutal now."[^5]
+> "Maduro sent savage and murderous gangs, including the bloodthirsty prison gang, Tren de Aragua, to terrorize American communities nationwide... They were in Colorado. They took over apartment complexes. They cut the fingers of people if they called police. They were brutal. But they're not so brutal now."<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>
 
 
 **On seized American assets:**
 
-> "Venezuela unilaterally seized and stole American oil, American assets, and American platforms, costing us billions and billions of dollars... This constituted one of the largest thefts of American property in the history of our country... Massive oil infrastructure was taken like we were babies, and we didn't do anything about it. I would have done something about it."[^10]
+> "Venezuela unilaterally seized and stole American oil, American assets, and American platforms, costing us billions and billions of dollars... This constituted one of the largest thefts of American property in the history of our country... Massive oil infrastructure was taken like we were babies, and we didn't do anything about it. I would have done something about it."<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 
 **On foreign adversaries in Venezuela:**
@@ -289,7 +289,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 **On the Monroe Doctrine:**
 
-> "All the way back, it dated to the Monroe doctrines, and the Monroe doctrine is a big deal. But we've superseded it by a lot, by a real lot. They now call it the Donro document... Under our new national security strategy, American dominance in the Western hemisphere will never be questioned again."[^10]
+> "All the way back, it dated to the Monroe doctrines, and the Monroe doctrine is a big deal. But we've superseded it by a lot, by a real lot. They now call it the Donro document... Under our new national security strategy, American dominance in the Western hemisphere will never be questioned again."<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 
 **Warning to others:**
@@ -302,7 +302,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ---
 
-### Speaker 2: Hon. Pete Hegseth — Secretary of War[^15]
+### Speaker 2: Hon. Pete Hegseth — Secretary of War<sup>[15](https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)</sup>
 
 
 > "Finally, a Commander-in-Chief the world respects and the American people deserve."
@@ -325,7 +325,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ---
 
-### Speaker 3: Gen. Dan Caine — Chairman of the Joint Chiefs of Staff[^1]
+### Speaker 3: Gen. Dan Caine — Chairman of the Joint Chiefs of Staff<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **Operation name and purpose:**
@@ -398,14 +398,14 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 ---
 
-### Speaker 4: Sen. Marco Rubio — Secretary of State[^1]
+### Speaker 4: Sen. Marco Rubio — Secretary of State<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **On legitimacy:**
 
 > "Nicolas Maduro was indicted in 2020 in the United States. He is not the legitimate president of Venezuela. That's not just us saying it. The first Trump administration, the Biden administration, the second Trump administration, none of those three recognize him. He's not recognized by the European Union and multiple countries around the world."
 
-> "He is a fugitive of American justice with a **$50 million reward**."[^2]
+> "He is a fugitive of American justice with a **$50 million reward**."<sup>[2](https://grokipedia.com/page/Nicol%C3%A1s_Maduro)</sup>
 
 
 _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody deserves it but us."]_
@@ -416,7 +416,7 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 **On Maduro's provocations:**
 
-> "You have a guy who decides he's going to invite Iran into his country, is going to do the confiscation of American oil companies, is going to flood our country with gang members, is going to take Americans prisoner and try to hold them for hostage and trade them like he was able to do with the Biden administration. Basically likes to play games all this time and thinks nothing's going to happen."[^25]
+> "You have a guy who decides he's going to invite Iran into his country, is going to do the confiscation of American oil companies, is going to flood our country with gang members, is going to take Americans prisoner and try to hold them for hostage and trade them like he was able to do with the Biden administration. Basically likes to play games all this time and thinks nothing's going to happen."<sup>[25](https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro)</sup>
 
 
 **On Trump:**
@@ -465,14 +465,14 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 > **Reporter:** "You said earlier today that you weren't going to back Machado to come back and be the opposition leader..."
 
-> **Trump:** _(Confirmed he is not backing Machado)_[^1]
+> **Trump:** _(Confirmed he is not backing Machado)_<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **On Colombia — WARNING:**
 
 > **Reporter:** "Colombian President Gustavo Petro... said he's not concerned about anything happening to him in the aftermath of this operation."
 
-> **Trump:** "Well, he has cocaine mills. He has factories where he makes cocaine. And yeah, I think I stick by my first statement. **He does have to watch his ass.**"[^1]
+> **Trump:** "Well, he has cocaine mills. He has factories where he makes cocaine. And yeah, I think I stick by my first statement. **He does have to watch his ass.**"<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **On Congressional notification:**
@@ -521,7 +521,7 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 **On Russia-Ukraine:**
 
-> **Trump:** "I thought the easiest one would be — one of the easier ones would be Russia-Ukraine. It's not. And they both have done some pretty bad things... That's Biden's war. That's not my war. But I want to stop the lives. Did you see where last month **30,000 — mostly soldiers were killed this last month**. Thirty thousand. I want to stop that."[^1]
+> **Trump:** "I thought the easiest one would be — one of the easier ones would be Russia-Ukraine. It's not. And they both have done some pretty bad things... That's Biden's war. That's not my war. But I want to stop the lives. Did you see where last month **30,000 — mostly soldiers were killed this last month**. Thirty thousand. I want to stop that."<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>
 
 
 **Closing comparison:**
@@ -540,26 +540,26 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 |When|What|
 |---|---|
-|**Friday, Jan 2 (evening)**|Senior Chinese diplomatic delegation meets Maduro at Miraflores Palace[^3]|
+|**Friday, Jan 2 (evening)**|Senior Chinese diplomatic delegation meets Maduro at Miraflores Palace<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
 |**Hours later**|US strikes begin|
-|**Jan 3 (ongoing)**|**Chinese diplomats reportedly STILL IN CARACAS**[^3]|
+|**Jan 3 (ongoing)**|**Chinese diplomats reportedly STILL IN CARACAS**<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
 
 
 ### The Delegation
 
 |Name|Role|
 |---|---|
-|**Qiu Xiaoqi**|Xi Jinping's Special Envoy for Latin America & Caribbean[^3]|
-|**Lan Hu**|China's Ambassador to Venezuela[^3]|
-|**Liu Bo**|Director, Latin America & Caribbean Dept, Foreign Ministry[^3]|
-|**Wang Hao**|Deputy Director-General, same department[^3]|
-|**Liu Zhen**|Regional attaché[^3]|
-|+ additional senior CCP officials[^3]||
+|**Qiu Xiaoqi**|Xi Jinping's Special Envoy for Latin America & Caribbean<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
+|**Lan Hu**|China's Ambassador to Venezuela<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
+|**Liu Bo**|Director, Latin America & Caribbean Dept, Foreign Ministry<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
+|**Wang Hao**|Deputy Director-General, same department<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
+|**Liu Zhen**|Regional attaché<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>|
+|+ additional senior CCP officials<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>||
 
 
 ### Meeting Purpose
 
-Per Venezuelan state television and Maduro's Instagram:[^3]
+Per Venezuelan state television and Maduro's Instagram:<sup>[3](https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html)</sup>
 
 - Review of **600+ cooperation agreements** between China and Venezuela
 - Strategic sectors: energy, infrastructure, technology, financing, political cooperation
@@ -573,7 +573,7 @@ Per Venezuelan state television and Maduro's Instagram:[^3]
 
 ### China's Official Response (Ministry of Foreign Affairs)
 
-Posted to @MFA_China on January 3, 2026:[^4]
+Posted to @MFA_China on January 3, 2026:<sup>[4](https://x.com/MFA_China/status/2007460580089868702)</sup>
 
 > "Such hegemonic acts of the U.S. seriously violate international law and Venezuela's sovereignty, and threaten peace and security in Latin America and the Caribbean region. **China firmly opposes it.**"
 
@@ -585,7 +585,7 @@ Posted to @MFA_China on January 3, 2026:[^4]
 |Factor|Significance|
 |---|---|
 |**Chinese oil shipments**|US naval blockade was disrupting tankers carrying Venezuelan crude to Chinese refineries|
-|**Chinese debt**|Venezuela owes China billions[^10] — Maduro's capture affects debt recovery|
+|**Chinese debt**|Venezuela owes China billions<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup> — Maduro's capture affects debt recovery|
 |**Taiwan timing**|Strikes occurred while China conducting military exercises near Taiwan|
 |**600+ agreements**|Decades of Chinese investment in Venezuela now under US control|
 
@@ -615,31 +615,31 @@ Posted to @MFA_China on January 3, 2026:[^4]
 
 ### Pre-Operation Timeline (August 2025 — January 2026)
 
-**Sources:** Council on Foreign Relations, U.S. Naval Institute News, Congressional Research Service, NPR, CBS News[^10]
+**Sources:** Council on Foreign Relations, U.S. Naval Institute News, Congressional Research Service, NPR, CBS News<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 |Date|Event|Significance|
 |---|---|---|
-|**August 2025**|Trump signs **SECRET DIRECTIVE** authorizing Pentagon military force against Latin American cartels[^5]|Legal foundation for military action|
+|**August 2025**|Trump signs **SECRET DIRECTIVE** authorizing Pentagon military force against Latin American cartels<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>|Legal foundation for military action|
 |**August 2025**|Bounty on Maduro increased from $15M to **$50 MILLION**|Signaling escalation|
 |**September 2025**|US military campaign against Venezuelan cartels **BEGINS**|Not today — FOUR MONTHS AGO|
-|**September 2, 2025**|First strike on TdA boat — **11 killed** — Navy only (no Coast Guard)[^5]|Precedent-setting: military, not law enforcement|
+|**September 2, 2025**|First strike on TdA boat — **11 killed** — Navy only (no Coast Guard)<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>|Precedent-setting: military, not law enforcement|
 |**By December 1, 2025**|**20+ strikes** on drug boats already conducted (8 Caribbean, 10+ Pacific)|Pattern established|
 |**December 1, 2025**|Full naval task force in position|Invasion force assembled|
-|**December 3, 2025**|Americans advised to leave Venezuela — **30 day warning**[^16]|Final notice before operation|
-|**December 29, 2025**|CIA drone strike on Venezuelan port facility[^17]|First strike on Venezuelan SOIL|
-|**January 1, 2026**|CNN reports 5+ Americans detained by Venezuela[^25]|Leverage attempt by Maduro|
+|**December 3, 2025**|Americans advised to leave Venezuela — **30 day warning**<sup>[16](https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/)</sup>|Final notice before operation|
+|**December 29, 2025**|CIA drone strike on Venezuelan port facility<sup>[17](https://www.cnn.com/2025/12/29/politics/cia-drone-strike-venezuela)</sup>|First strike on Venezuelan SOIL|
+|**January 1, 2026**|CNN reports 5+ Americans detained by Venezuela<sup>[25](https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro)</sup>|Leverage attempt by Maduro|
 |**January 2, 2026**|Maduro expresses openness to US negotiations|Last diplomatic window|
 |**January 3, 2026**|**TODAY: Full military operation, Maduro captured**|Culmination|
 
 
-**CRITICAL:** The Trump administration **formally notified Congress** that the United States is in an "armed conflict" against drug cartels labeled as "unlawful armed combatants." This legal framing treats cartel members as enemy combatants, not criminals.[^5]
+**CRITICAL:** The Trump administration **formally notified Congress** that the United States is in an "armed conflict" against drug cartels labeled as "unlawful armed combatants." This legal framing treats cartel members as enemy combatants, not criminals.<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>
 
 
 ### Key Trump Quotes (Pre-Operation)
 
 - **Dec 16:** "Venezuela is completely surrounded by the largest Armada ever assembled in the History of South America"
 - **Christmas Eve:** "If Maduro plays tough, it'll be the last time he'll ever be able to play tough"
-- **Chief of Staff Susie Wiles:** "He wants to keep on blowing boats up until Maduro cries uncle"[^5]
+- **Chief of Staff Susie Wiles:** "He wants to keep on blowing boats up until Maduro cries uncle"<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>
 
 
 > **Source Note: Pre-Operation Timeline** Timeline compiled from multiple sources: CFR Global Conflict Tracker (primary reference), CBS News (secret directive, Susie Wiles quote, Christmas Day postponement), CNN (CIA drone strike), NPR (dock strike confirmation), US Embassy Bogota (December 3 advisory). All dates cross-referenced against at least two sources where possible.
@@ -650,7 +650,7 @@ Posted to @MFA_China on January 3, 2026:[^4]
 
 ### Why This Matters Beyond Venezuela
 
-The Maduro regime is not isolated — it is embedded in a network of US adversaries:[^10]
+The Maduro regime is not isolated — it is embedded in a network of US adversaries:<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 |Actor|Stake in Venezuela|Potential Response to US Action|
 |---|---|---|
@@ -664,13 +664,13 @@ The Maduro regime is not isolated — it is embedded in a network of US adversar
 
 |Ally|Support Type|
 |---|---|
-|**Russia**|Military advisors, troops (since March 2019)[^10], sanctions evasion, S-300 systems, Su-30 fighters|
+|**Russia**|Military advisors, troops (since March 2019)<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>, sanctions evasion, S-300 systems, Su-30 fighters|
 |**China**|$60B+ in loans/investments, oil contracts, infrastructure|
-|**Iran**|Oil deals, sanctions evasion partnership, tanker shipments[^10]|
-|**Cuba**|Military/intelligence advisors, SEBIN restructuring, thousands of personnel embedded[^10]|
+|**Iran**|Oil deals, sanctions evasion partnership, tanker shipments<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>|
+|**Cuba**|Military/intelligence advisors, SEBIN restructuring, thousands of personnel embedded<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>|
 
 
-**Historical parallel:** The last US capture of a sitting head of state was Manuel Noriega (Panama, 1989). That operation did not involve a target with Russian troops in-country or Chinese strategic investment.[^10]
+**Historical parallel:** The last US capture of a sitting head of state was Manuel Noriega (Panama, 1989). That operation did not involve a target with Russian troops in-country or Chinese strategic investment.<sup>[10](https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela)</sup>
 
 
 **The question:** Is today the END of an operation, or the BEGINNING of a broader confrontation?
@@ -687,7 +687,7 @@ The Maduro regime is not isolated — it is embedded in a network of US adversar
 |1947-2025|Department of Defense|Defensive posture, post-WWII international order|
 |**2025-present**|**Department of War**|Return to offensive doctrine|
 
-The 1947 name change to "Defense" was deliberate — signaling America would operate within the post-WWII framework (UN, NATO, international law, "defensive" wars only). The reversion to "War" signals abandonment of that framework.[^18]
+The 1947 name change to "Defense" was deliberate — signaling America would operate within the post-WWII framework (UN, NATO, international law, "defensive" wars only). The reversion to "War" signals abandonment of that framework.<sup>[18](https://en.wikipedia.org/wiki/Executive_Order_14347)</sup>
 
 
 ### Legal Status — CORRECTED
@@ -695,7 +695,7 @@ The 1947 name change to "Defense" was deliberate — signaling America would ope
 |Aspect|Reality|
 |---|---|
 |**Official statutory name**|Department of Defense (unchanged)|
-|**"Department of War"**|Secondary title ONLY — Executive Order 14347 (Sept 5, 2025)[^26]|
+|**"Department of War"**|Secondary title ONLY — Executive Order 14347 (Sept 5, 2025)<sup>[26](https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/)</sup>|
 |**Can be used for**|Public communications, signage, war.gov, non-statutory documents|
 |**Permanent change requires**|Act of Congress|
 
@@ -716,7 +716,7 @@ Section 2(g): "Within 60 days... the Secretary of War shall submit... a recommen
 
 |Detail|Status|
 |---|---|
-|Bill|HR 5389 — Restoring the United States Department of War Act[^27]|
+|Bill|HR 5389 — Restoring the United States Department of War Act<sup>[27](https://www.congress.gov/bill/119th-congress/house-bill/5389/text)</sup>|
 |Sponsor|Rep. Tim Burchett [R-TN-2]|
 |Introduced|September 16, 2025|
 |Referred to|House Armed Services Committee|
@@ -732,7 +732,7 @@ Section 2(g): "Within 60 days... the Secretary of War shall submit... a recommen
 - **Education:** Princeton University, 2003
 - **Combat deployments:** Guantanamo Bay, Iraq, Afghanistan
 - **Decorations:** Two Bronze Star Medals, Joint Commendation Medal, Combat Infantryman Badge (CIB), Expert Infantryman Badge (EIB)
-- **Author:** NYT best-seller _The War on Warriors_[^15]
+- **Author:** NYT best-seller _The War on Warriors_<sup>[15](https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)</sup>
 
 
 **Significance:** First Secretary of War since Kenneth Claiborne Royall (1947) — 78 years.
@@ -742,7 +742,7 @@ Section 2(g): "Within 60 days... the Secretary of War shall submit... a recommen
 |Operation|Date|Theater|Status|
 |---|---|---|---|
 |**Operation Rough Rider**|March-May 2025|Yemen|600+ airstrikes on Houthis|
-|**Operation Midnight Hammer**|June 2025|Iran|Nuclear sites struck — first use of GBU-57 bunker busters[^1]|
+|**Operation Midnight Hammer**|June 2025|Iran|Nuclear sites struck — first use of GBU-57 bunker busters<sup>[1](https://x.com/WhiteHouse/status/2007491873586250190)</sup>|
 |**Operation Southern Spear**|November 2025|Caribbean/Western Hemisphere|SOUTHCOM anti-narco operations|
 |**Domestic Deployments**|2025|US-Mexico border, LA, Chicago|National Guard federalized|
 |**Operation Absolute Resolve**|January 3, 2026|Venezuela|Maduro capture|
@@ -773,7 +773,7 @@ Under international law, use of military force against another state typically r
 
 ### Legal Framework Construction
 
-The Trump administration constructed a legal framework over months:[^5]
+The Trump administration constructed a legal framework over months:<sup>[5](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)</sup>
 
 |Element|Purpose|
 |---|---|
@@ -805,7 +805,7 @@ The Trump administration constructed a legal framework over months:[^5]
 |Predecessor|Hugo Chávez (died March 5, 2013)|
 |Status|**CAPTURED — Detained on USS Iwo Jima**|
 
-**US Criminal Charges (March 26, 2020):**[^2]
+**US Criminal Charges (March 26, 2020):**<sup>[2](https://grokipedia.com/page/Nicol%C3%A1s_Maduro)</sup>
 
 - Narco-terrorism conspiracy
 - Conspiracy to import cocaine into United States
@@ -816,7 +816,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 **Bounty:** $50 MILLION
 
-**OFAC Designation:** VENEZUELA + IRAN-CON-ARMS-EO (Iran arms sanctions link)[^19]
+**OFAC Designation:** VENEZUELA + IRAN-CON-ARMS-EO (Iran arms sanctions link)<sup>[19](https://sanctionslist.ofac.treas.gov/Home/SdnList)</sup>
 
 
 **International Status:**
@@ -852,7 +852,7 @@ The Trump administration constructed a legal framework over months:[^5]
 |Bounty|$15 MILLION|
 |Last known activity|Defiant statement at 09:38 GMT calling US action "criminal military aggression"|
 
-**Name Note:** "Vladimir" is ideological inheritance — Cold War era Venezuelan leftist families named children after Soviet figures. Cultural marker of allegiance ecosystem, not Russian nationality.[^20]
+**Name Note:** "Vladimir" is ideological inheritance — Cold War era Venezuelan leftist families named children after Soviet figures. Cultural marker of allegiance ecosystem, not Russian nationality.<sup>[20](https://grokipedia.com/page/Vlad%C3%ADmir_Padrino_L%C3%B3pez)</sup>
 
 
 **US Criminal Charges (May 24, 2019):**
@@ -861,7 +861,7 @@ The Trump administration constructed a legal framework over months:[^5]
 - Alleged participation in "Cartel de los Soles" protection racket
 - Alleged facilitation of multi-ton cocaine shipments
 
-**Training:** School of the Americas, Fort Benning, Georgia, USA (1995) — counterinsurgency and urban warfare[^20]
+**Training:** School of the Americas, Fort Benning, Georgia, USA (1995) — counterinsurgency and urban warfare<sup>[20](https://grokipedia.com/page/Vlad%C3%ADmir_Padrino_L%C3%B3pez)</sup>
 
 
 ---
@@ -882,7 +882,7 @@ The Trump administration constructed a legal framework over months:[^5]
 |---|---|
 |DOB|December 2, 1983|
 |Position|Leader of Tren de Aragua since inception|
-|Status|**ESCAPED from Tocorón Prison September 2023**[^21]|
+|Status|**ESCAPED from Tocorón Prison September 2023**<sup>[21](https://insightcrime.org/wp-content/uploads/2023/08/Tren-de-Aragua-From-Prison-Gang-to-Transnational-Criminal-Enterprise-InSight-Crime-Oct-2023-1.pdf)</sup>|
 |Bounty|$5 MILLION|
 |Current location|UNKNOWN|
 
@@ -891,7 +891,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 ## PART IX: OFAC SDN ANALYSIS — SANCTIONS INFRASTRUCTURE
 
-**Analysis conducted:** 03/01/2026 **Source:** OFAC SDN List (sanctionslist.ofac.treas.gov)[^19] **Total SDN entries analyzed:** 18,509
+**Analysis conducted:** 03/01/2026 **Source:** OFAC SDN List (sanctionslist.ofac.treas.gov)<sup>[19](https://sanctionslist.ofac.treas.gov/Home/SdnList)</sup> **Total SDN entries analyzed:** 18,509
 
 
 ### Global Sanctions Landscape — Where Venezuela Fits
@@ -920,7 +920,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 ### Tren de Aragua SDN Entries (15 total)
 
-**Organization designation:** FTO (Foreign Terrorist Organization) + SDGT + TCO[^22]
+**Organization designation:** FTO (Foreign Terrorist Organization) + SDGT + TCO<sup>[22](https://www.state.gov/designation-of-international-cartels)</sup>
 
 |Entry #|Name|Alias|Role|
 |---|---|---|---|
@@ -962,7 +962,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 ### Chinese Fentanyl Precursor Network
 
-**52 Chinese companies** designated under ILLICIT-DRUGS-EO14059:[^19]
+**52 Chinese companies** designated under ILLICIT-DRUGS-EO14059:<sup>[19](https://sanctionslist.ofac.treas.gov/Home/SdnList)</sup>
 
 - Chemical/pharmaceutical companies (Wuhan, Hebei, Shanghai, Shenzhen)
 - Pill press machinery suppliers
@@ -1015,7 +1015,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 ## PART X: CBP INTELLIGENCE BULLETINS — PRIMARY SOURCE
 
-**Source:** U.S. Customs and Border Protection, Office of Intelligence[^28] **Classification:** UNCLASSIFIED//FOR OFFICIAL USE ONLY/LAW ENFORCEMENT SENSITIVE
+**Source:** U.S. Customs and Border Protection, Office of Intelligence<sup>[28](https://www.cbp.gov/sites/default/files/2025-04/tren_de_aragua_tda_intelligence_report_12112024_redacted.pdf)</sup> **Classification:** UNCLASSIFIED//FOR OFFICIAL USE ONLY/LAW ENFORCEMENT SENSITIVE
 
 
 **Three separate intelligence products:**
@@ -1080,7 +1080,7 @@ The Trump administration constructed a legal framework over months:[^5]
 |July 2024|CBP issues first reference sheet|
 |December 2024|CBP issues "urgent" focused collection message|
 |January 2025|Trump Executive Order on FTO designation|
-|February 2025|State Dept formally designates TdA as FTO[^22]|
+|February 2025|State Dept formally designates TdA as FTO<sup>[22](https://www.state.gov/designation-of-international-cartels)</sup>|
 |March 2025|CBP issues post-designation frontline guidance|
 |December 2025|Americans advised to leave Venezuela|
 |January 3, 2026|Military operation begins|
@@ -1094,7 +1094,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 ## PART XI: THE TRUMP ADMINISTRATION'S CASE
 
-**Source:** InSight Crime, "Tren de Aragua: From Prison Gang to Transnational Criminal Enterprise" (October 2023)[^21]
+**Source:** InSight Crime, "Tren de Aragua: From Prison Gang to Transnational Criminal Enterprise" (October 2023)<sup>[21](https://insightcrime.org/wp-content/uploads/2023/08/Tren-de-Aragua-From-Prison-Gang-to-Transnational-Criminal-Enterprise-InSight-Crime-Oct-2023-1.pdf)</sup>
 
 
 **NOTE:** InSight Crime is the same organization cited by skeptics questioning TdA's US threat. Their own report documents the following:
@@ -1138,7 +1138,7 @@ The Trump administration constructed a legal framework over months:[^5]
 |Venezuela is source of criminal threat|TdA originated in Venezuelan prison, government-enabled|
 |Maduro regime complicit|Policy of devolving power to gangs, corruption, tip-offs|
 |TdA attacking Americans|State Dept: "authorized members to attack and kill U.S. law enforcement"|
-|Narco-trafficking|Boats destroyed with "enough drugs to kill 25,000-50,000"[^29]|
+|Narco-trafficking|Boats destroyed with "enough drugs to kill 25,000-50,000"<sup>[29](https://x.com/WhiteHouse/status/1974167658968068554)</sup>|
 |Designated terrorist organization|FTO designation February 2025|
 |Americans warned|December 2025 advisory to leave Venezuela|
 |Legal framework|Counter-terrorism authority, FTO designation|
@@ -1352,123 +1352,79 @@ _"He effed around and he found out."_ — Secretary of War Pete Hegseth
 The following sources were used for background intelligence gathering, cross-referencing, and sentiment analysis during live documentation:
 
 **Official Actions & Policy Context:**
-- OFAC Recent Actions (January 2, 2026)[^31]
-- NPR confirmation of December 31 dock strike[^32]
-- CNN analysis of Venezuela drone strike implications[^33]
-- Venezuelanalysis breaking coverage[^34]
-- War Updates FC KC-130 tanker tracking[^35]
+- OFAC Recent Actions (January 2, 2026)<sup>[31](https://ofac.treasury.gov/recent-actions/20260102)</sup>
+- NPR confirmation of December 31 dock strike<sup>[32](https://www.npr.org/2025/12/31/nx-s1-5661539/trump-confirms-u-s-military-strike-on-dock-in-venezuela)</sup>
+- CNN analysis of Venezuela drone strike implications<sup>[33](https://www.cnn.com/2025/12/31/politics/venezuela-drone-strike-trump-maduro-analysis)</sup>
+- Venezuelanalysis breaking coverage<sup>[34](https://venezuelanalysis.com/news/breaking-us-launches-attack-against-venezuela/)</sup>
+- War Updates FC KC-130 tanker tracking<sup>[35](https://x.com/k_c_shivansh/status/2007356241606218175)</sup>
 
 **International Media Coverage:**
-- Al Jazeera live reporting on Caracas explosions[^36]
-- Oxford Mail coverage of Maduro capture[^37]
+- Al Jazeera live reporting on Caracas explosions<sup>[36](https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions)</sup>
+- Oxford Mail coverage of Maduro capture<sup>[37](https://www.oxfordmail.co.uk/news/national/25736913.us-captures-venezuelas-leader-wife-plans-prosecute/)</sup>
 
 **Background Intelligence:**
-- Grokipedia profile on Tren de Aragua[^38]
-- Wikipedia documentation of Operation Rough Rider (Yemen)[^39]
-- Al Jazeera analysis of 2025 US military operations across seven countries[^40]
-- Wikipedia documentation of 2025 domestic National Guard deployments[^41]
+- Grokipedia profile on Tren de Aragua<sup>[38](https://grokipedia.com/page/Tren_de_Aragua)</sup>
+- Wikipedia documentation of Operation Rough Rider (Yemen)<sup>[39](https://en.wikipedia.org/wiki/March%E2%80%93May_2025_United_States_attacks_in_Yemen)</sup>
+- Al Jazeera analysis of 2025 US military operations across seven countries<sup>[40](https://www.aljazeera.com/news/2025/12/31/how-many-countries-has-trump-bombed-in-2025)</sup>
+- Wikipedia documentation of 2025 domestic National Guard deployments<sup>[41](https://en.wikipedia.org/wiki/2025_deployment_of_federal_forces_in_the_United_States)</sup>
 
 **Social Media Sentiment & Public Reaction:**
-- @geminidave6 analysis of SmartMatic/election interference justification angle[^42]
-- @ImMeme0 documenting Venezuelan civilian reactions to Maduro capture[^43]
-- @Vitamvivere footage of Caracas celebrations[^44]
-- @nickshirleyy coverage of nationwide Venezuelan celebrations[^45]
+- @geminidave6 analysis of SmartMatic/election interference justification angle<sup>[42](https://x.com/geminidave6/status/2007375677524205586)</sup>
+- @ImMeme0 documenting Venezuelan civilian reactions to Maduro capture<sup>[43](https://x.com/ImMeme0/status/2007437562969743501)</sup>
+- @Vitamvivere footage of Caracas celebrations<sup>[44](https://x.com/Vitamvivere/status/2007443128047780168)</sup>
+- @nickshirleyy coverage of nationwide Venezuelan celebrations<sup>[45](https://x.com/nickshirleyy/status/2007485612241367156)</sup>
 
 **Aviation Restrictions:**
-- TravelMole reporting FAA ban on commercial flights over Venezuela[^46]
+- TravelMole reporting FAA ban on commercial flights over Venezuela<sup>[46](https://www.travelmole.com/news/faa-bans-flight-venezuela-usa/)</sup>
 
 ---
 
+
 ## References
 
-[^1]: https://x.com/WhiteHouse/status/2007491873586250190
-
-[^2]: https://grokipedia.com/page/Nicol%C3%A1s_Maduro
-
-[^3]: https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html
-
-[^4]: https://x.com/MFA_China/status/2007460580089868702
-
-[^5]: https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/
-
-[^6]: https://edition.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk
-
-[^7]: https://video.twimg.com/amplify_video/2007339495511764992/vid/avc1/288x640/j5cJdJ8BtKleblDZ.mp4
-
-[^8]: https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump
-
-[^9]: https://x.com/k_c_shivansh/status/2007356241606218175
-
-[^10]: https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela
-
-[^11]: https://www.cnn.com/2026/01/03/world/video/caracas-venezuela-explosion-digvid
-
-[^12]: https://x.com/k_c_shivansh/status/2007355367010009438
-
-[^13]: https://en.mehrnews.com/news/240413/VIDEO-Explosion-at-Venezuela-s-Higuerote-Airport
-
-[^14]: https://x.com/k_c_shivansh/status/2007358517062316294
-
-[^15]: https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/
-
-[^16]: https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/
-
-[^17]: https://www.cnn.com/2025/12/29/politics/cia-drone-strike-venezuela
-
-[^18]: https://en.wikipedia.org/wiki/Executive_Order_14347
-
-[^19]: https://sanctionslist.ofac.treas.gov/Home/SdnList
-
-[^20]: https://grokipedia.com/page/Vlad%C3%ADmir_Padrino_L%C3%B3pez
-
-[^21]: https://insightcrime.org/wp-content/uploads/2023/08/Tren-de-Aragua-From-Prison-Gang-to-Transnational-Criminal-Enterprise-InSight-Crime-Oct-2023-1.pdf
-
-[^22]: https://www.state.gov/designation-of-international-cartels
-
-[^23]: https://x.com/sentdefender/status/2007339573156950095
-
-[^24]: https://truthsocial.com/@realDonaldTrump/posts/115830428767897167
-
-[^25]: https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro
-
-[^26]: https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/
-
-[^27]: https://www.congress.gov/bill/119th-congress/house-bill/5389/text
-
-[^28]: https://www.cbp.gov/sites/default/files/2025-04/tren_de_aragua_tda_intelligence_report_12112024_redacted.pdf
-
-[^29]: https://x.com/WhiteHouse/status/1974167658968068554
-
-[^30]: https://x.com/k_c_shivansh/status/2007357533808455977
-
-[^31]: https://ofac.treasury.gov/recent-actions/20260102
-
-[^32]: https://www.npr.org/2025/12/31/nx-s1-5661539/trump-confirms-u-s-military-strike-on-dock-in-venezuela
-
-[^33]: https://www.cnn.com/2025/12/31/politics/venezuela-drone-strike-trump-maduro-analysis
-
-[^34]: https://venezuelanalysis.com/news/breaking-us-launches-attack-against-venezuela/
-
-[^35]: https://x.com/k_c_shivansh/status/2007356241606218175
-
-[^36]: https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions
-
-[^37]: https://www.oxfordmail.co.uk/news/national/25736913.us-captures-venezuelas-leader-wife-plans-prosecute/
-
-[^38]: https://grokipedia.com/page/Tren_de_Aragua
-
-[^39]: https://en.wikipedia.org/wiki/March%E2%80%93May_2025_United_States_attacks_in_Yemen
-
-[^40]: https://www.aljazeera.com/news/2025/12/31/how-many-countries-has-trump-bombed-in-2025
-
-[^41]: https://en.wikipedia.org/wiki/2025_deployment_of_federal_forces_in_the_United_States
-
-[^42]: https://x.com/geminidave6/status/2007375677524205586
-
-[^43]: https://x.com/ImMeme0/status/2007437562969743501
-
-[^44]: https://x.com/Vitamvivere/status/2007443128047780168
-
-[^45]: https://x.com/nickshirleyy/status/2007485612241367156
-
-[^46]: https://www.travelmole.com/news/faa-bans-flight-venezuela-usa/
+1. https://x.com/WhiteHouse/status/2007491873586250190
+2. https://grokipedia.com/page/Nicol%C3%A1s_Maduro
+3. https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html
+4. https://x.com/MFA_China/status/2007460580089868702
+5. https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/
+6. https://edition.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk
+7. https://video.twimg.com/amplify_video/2007339495511764992/vid/avc1/288x640/j5cJdJ8BtKleblDZ.mp4
+8. https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump
+9. https://x.com/k_c_shivansh/status/2007356241606218175
+10. https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela
+11. https://www.cnn.com/2026/01/03/world/video/caracas-venezuela-explosion-digvid
+12. https://x.com/k_c_shivansh/status/2007355367010009438
+13. https://en.mehrnews.com/news/240413/VIDEO-Explosion-at-Venezuela-s-Higuerote-Airport
+14. https://x.com/k_c_shivansh/status/2007358517062316294
+15. https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/
+16. https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/
+17. https://www.cnn.com/2025/12/29/politics/cia-drone-strike-venezuela
+18. https://en.wikipedia.org/wiki/Executive_Order_14347
+19. https://sanctionslist.ofac.treas.gov/Home/SdnList
+20. https://grokipedia.com/page/Vlad%C3%ADmir_Padrino_L%C3%B3pez
+21. https://insightcrime.org/wp-content/uploads/2023/08/Tren-de-Aragua-From-Prison-Gang-to-Transnational-Criminal-Enterprise-InSight-Crime-Oct-2023-1.pdf
+22. https://www.state.gov/designation-of-international-cartels
+23. https://x.com/sentdefender/status/2007339573156950095
+24. https://truthsocial.com/@realDonaldTrump/posts/115830428767897167
+25. https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro
+26. https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/
+27. https://www.congress.gov/bill/119th-congress/house-bill/5389/text
+28. https://www.cbp.gov/sites/default/files/2025-04/tren_de_aragua_tda_intelligence_report_12112024_redacted.pdf
+29. https://x.com/WhiteHouse/status/1974167658968068554
+30. https://x.com/k_c_shivansh/status/2007357533808455977
+31. https://ofac.treasury.gov/recent-actions/20260102
+32. https://www.npr.org/2025/12/31/nx-s1-5661539/trump-confirms-u-s-military-strike-on-dock-in-venezuela
+33. https://www.cnn.com/2025/12/31/politics/venezuela-drone-strike-trump-maduro-analysis
+34. https://venezuelanalysis.com/news/breaking-us-launches-attack-against-venezuela/
+35. https://x.com/k_c_shivansh/status/2007356241606218175
+36. https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions
+37. https://www.oxfordmail.co.uk/news/national/25736913.us-captures-venezuelas-leader-wife-plans-prosecute/
+38. https://grokipedia.com/page/Tren_de_Aragua
+39. https://en.wikipedia.org/wiki/March%E2%80%93May_2025_United_States_attacks_in_Yemen
+40. https://www.aljazeera.com/news/2025/12/31/how-many-countries-has-trump-bombed-in-2025
+41. https://en.wikipedia.org/wiki/2025_deployment_of_federal_forces_in_the_United_States
+42. https://x.com/geminidave6/status/2007375677524205586
+43. https://x.com/ImMeme0/status/2007437562969743501
+44. https://x.com/Vitamvivere/status/2007443128047780168
+45. https://x.com/nickshirleyy/status/2007485612241367156
+46. https://www.travelmole.com/news/faa-bans-flight-venezuela-usa/
