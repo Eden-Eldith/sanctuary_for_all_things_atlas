@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:26:04.221+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:31:02.746+00:00"}
 ---
 
 
@@ -465,7 +465,7 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 > **Reporter:** "You said earlier today that you weren't going to back Machado to come back and be the opposition leader..."
 
-> **Trump:** _[Confirmed he is not backing Machado]_[^1]
+> **Trump:** _(Confirmed he is not backing Machado)_[^1]
 
 
 **On Colombia — WARNING:**
@@ -1379,52 +1379,96 @@ The following sources were used for background intelligence gathering, cross-ref
 
 ---
 
-
 ## References
 
 [^1]: https://x.com/WhiteHouse/status/2007491873586250190
+
 [^2]: https://grokipedia.com/page/Nicol%C3%A1s_Maduro
+
 [^3]: https://www.yahoo.com/news/articles/chinese-diplomats-arrived-venezuela-talks-185529692.html
+
 [^4]: https://x.com/MFA_China/status/2007460580089868702
+
 [^5]: https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/
+
 [^6]: https://edition.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk
+
 [^7]: https://video.twimg.com/amplify_video/2007339495511764992/vid/avc1/288x640/j5cJdJ8BtKleblDZ.mp4
+
 [^8]: https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump
+
 [^9]: https://x.com/k_c_shivansh/status/2007356241606218175
+
 [^10]: https://www.cfr.org/global-conflict-tracker/conflict/instability-venezuela
+
 [^11]: https://www.cnn.com/2026/01/03/world/video/caracas-venezuela-explosion-digvid
+
 [^12]: https://x.com/k_c_shivansh/status/2007355367010009438
+
 [^13]: https://en.mehrnews.com/news/240413/VIDEO-Explosion-at-Venezuela-s-Higuerote-Airport
+
 [^14]: https://x.com/k_c_shivansh/status/2007358517062316294
+
 [^15]: https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/
+
 [^16]: https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/
+
 [^17]: https://www.cnn.com/2025/12/29/politics/cia-drone-strike-venezuela
+
 [^18]: https://en.wikipedia.org/wiki/Executive_Order_14347
+
 [^19]: https://sanctionslist.ofac.treas.gov/Home/SdnList
+
 [^20]: https://grokipedia.com/page/Vlad%C3%ADmir_Padrino_L%C3%B3pez
+
 [^21]: https://insightcrime.org/wp-content/uploads/2023/08/Tren-de-Aragua-From-Prison-Gang-to-Transnational-Criminal-Enterprise-InSight-Crime-Oct-2023-1.pdf
+
 [^22]: https://www.state.gov/designation-of-international-cartels
+
 [^23]: https://x.com/sentdefender/status/2007339573156950095
+
 [^24]: https://truthsocial.com/@realDonaldTrump/posts/115830428767897167
+
 [^25]: https://edition.cnn.com/2026/01/01/politics/detained-americans-venezuela-maduro
+
 [^26]: https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/
+
 [^27]: https://www.congress.gov/bill/119th-congress/house-bill/5389/text
+
 [^28]: https://www.cbp.gov/sites/default/files/2025-04/tren_de_aragua_tda_intelligence_report_12112024_redacted.pdf
+
 [^29]: https://x.com/WhiteHouse/status/1974167658968068554
+
 [^30]: https://x.com/k_c_shivansh/status/2007357533808455977
+
 [^31]: https://ofac.treasury.gov/recent-actions/20260102
+
 [^32]: https://www.npr.org/2025/12/31/nx-s1-5661539/trump-confirms-u-s-military-strike-on-dock-in-venezuela
+
 [^33]: https://www.cnn.com/2025/12/31/politics/venezuela-drone-strike-trump-maduro-analysis
+
 [^34]: https://venezuelanalysis.com/news/breaking-us-launches-attack-against-venezuela/
+
 [^35]: https://x.com/k_c_shivansh/status/2007356241606218175
+
 [^36]: https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions
+
 [^37]: https://www.oxfordmail.co.uk/news/national/25736913.us-captures-venezuelas-leader-wife-plans-prosecute/
+
 [^38]: https://grokipedia.com/page/Tren_de_Aragua
+
 [^39]: https://en.wikipedia.org/wiki/March%E2%80%93May_2025_United_States_attacks_in_Yemen
+
 [^40]: https://www.aljazeera.com/news/2025/12/31/how-many-countries-has-trump-bombed-in-2025
+
 [^41]: https://en.wikipedia.org/wiki/2025_deployment_of_federal_forces_in_the_United_States
+
 [^42]: https://x.com/geminidave6/status/2007375677524205586
+
 [^43]: https://x.com/ImMeme0/status/2007437562969743501
+
 [^44]: https://x.com/Vitamvivere/status/2007443128047780168
+
 [^45]: https://x.com/nickshirleyy/status/2007485612241367156
+
 [^46]: https://www.travelmole.com/news/faa-bans-flight-venezuela-usa/
