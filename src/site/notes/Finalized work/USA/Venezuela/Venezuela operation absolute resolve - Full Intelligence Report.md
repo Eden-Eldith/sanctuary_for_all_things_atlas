@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:25:15.966+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:26:04.221+00:00"}
 ---
 
 
