@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:04:30.820+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:14:34.616+00:00"}
 ---
 
 
@@ -174,7 +174,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 **Infrastructure:** US upgrading former naval base in Puerto Rico with new construction; airports with US presence throughout Caribbean[^10]
 
 
-> [!info] **Source Note: Naval Disposition** Naval force disposition compiled from multiple sources: CFR Global Conflict Tracker (primary), citing Guardian, Reuters, US Naval Institute News, Congressional Research Service, and NPR. Ship names and types cross-referenced against US Navy official records. Personnel figures varied between sources (CFR: 4,500+; Trump administration: ~15,000).
+> **Source Note: Naval Disposition** Naval force disposition compiled from multiple sources: CFR Global Conflict Tracker (primary), citing Guardian, Reuters, US Naval Institute News, Congressional Research Service, and NPR. Ship names and types cross-referenced against US Navy official records. Personnel figures varied between sources (CFR: 4,500+; Trump administration: ~15,000).
 
 ---
 
@@ -221,7 +221,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 **Assessment:** This is not an air campaign. This is a **helicopter-borne assault/decapitation operation** with troops on the ground.
 
 
-> [!info] **Source Note: Video Analysis** Eden's aircraft identification based on visual characteristics in civilian video: rotary wing silhouettes, column formation typical of helicopter assault operations, timing of explosions consistent with attack helicopters clearing landing zones ahead of transport aircraft. Force estimate is analytical projection based on standard US military helicopter capacities, not confirmed figures.
+> **Source Note: Video Analysis** Eden's aircraft identification based on visual characteristics in civilian video: rotary wing silhouettes, column formation typical of helicopter assault operations, timing of explosions consistent with attack helicopters clearing landing zones ahead of transport aircraft. Force estimate is analytical projection based on standard US military helicopter capacities, not confirmed figures.
 
 ---
 
@@ -298,7 +298,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 > "The American armada remains poised in position. The United States retains all military options until United States demands have been fully met and fully satisfied."
 
-> [!info] **Source Note: Trump Statement** All quotes in this section are direct transcriptions from the official White House press conference video stream, transcribed via OpenAI Whisper by Eden Eldith. Quotes represent verbatim statements; claims within quotes (e.g., drug interdiction statistics, historical comparisons) are Trump administration assertions and should be independently verified where possible.
+> **Source Note: Trump Statement** All quotes in this section are direct transcriptions from the official White House press conference video stream, transcribed via OpenAI Whisper by Eden Eldith. Quotes represent verbatim statements; claims within quotes (e.g., drug interdiction statistics, historical comparisons) are Trump administration assertions and should be independently verified where possible.
 
 ---
 
@@ -394,7 +394,7 @@ Where claims originate from Trump administration officials, this is noted. Reade
 
 > "Our jobs are to integrate combat power so when the order comes, we can deliver overwhelming force at the time and the place of our choosing against any foe anywhere in the world."
 
-> [!info] **Source Note: Gen. Caine Statement** Gen. Caine's statement provides the authoritative military account of Operation Absolute Resolve. All specific times, numbers, and tactical details in this section are direct quotes from his prepared statement. This is the primary source document for operational facts.
+> **Source Note: Gen. Caine Statement** Gen. Caine's statement provides the authoritative military account of Operation Absolute Resolve. All specific times, numbers, and tactical details in this section are direct quotes from his prepared statement. This is the primary source document for operational facts.
 
 ---
 
@@ -528,7 +528,7 @@ _[Trump interjects: "Just to make sure... Don't let anybody claim it. Nobody des
 
 > **Trump:** "I watched an operation last night that was so precise, that was so brilliant. I mean, it was incredible. If we had our people, like this general, and our people involved, that war — that war would not have gone on very long, God, I can tell you. That war, to use an old term — **that war has become a bloodbath**, and we want it to get stopped."
 
-> [!info] **Source Note: Press Conference Transcript** The complete press conference transcript above was produced by Eden Eldith using OpenAI Whisper speech-to-text on the official @WhiteHouse video stream. The press conference lasted approximately 1 hour 9 minutes. All quotes are verbatim transcriptions; claims made by speakers are their assertions and should be independently verified where possible. Footnotes provide context and cross-references to supporting documentation.
+> **Source Note: Press Conference Transcript** The complete press conference transcript above was produced by Eden Eldith using OpenAI Whisper speech-to-text on the official @WhiteHouse video stream. The press conference lasted approximately 1 hour 9 minutes. All quotes are verbatim transcriptions; claims made by speakers are their assertions and should be independently verified where possible. Footnotes provide context and cross-references to supporting documentation.
 
 ---
 
@@ -607,7 +607,7 @@ Posted to @MFA_China on January 3, 2026:[^4]
 
 **Implication:** This is not just a US-Venezuela matter. Chinese diplomats were in the building hours before their host was captured by a foreign military. This constitutes a direct challenge to Beijing's regional influence.
 
-> [!info] **Source Note: China Section** Chinese delegation details compiled from: Yahoo News, Mediaite (diplomats still in Caracas), Orinoco Tribune (meeting details), Tasnim News Agency (delegation composition), Guacamaya (strategic analysis), Republic World (video of last meeting), China MFA @MFA_China (official response). Meeting timing established via Maduro's Instagram post and Venezuelan state television broadcasts.
+> **Source Note: China Section** Chinese delegation details compiled from: Yahoo News, Mediaite (diplomats still in Caracas), Orinoco Tribune (meeting details), Tasnim News Agency (delegation composition), Guacamaya (strategic analysis), Republic World (video of last meeting), China MFA @MFA_China (official response). Meeting timing established via Maduro's Instagram post and Venezuelan state television broadcasts.
 
 ---
 
@@ -642,7 +642,7 @@ Posted to @MFA_China on January 3, 2026:[^4]
 - **Chief of Staff Susie Wiles:** "He wants to keep on blowing boats up until Maduro cries uncle"[^5]
 
 
-> [!info] **Source Note: Pre-Operation Timeline** Timeline compiled from multiple sources: CFR Global Conflict Tracker (primary reference), CBS News (secret directive, Susie Wiles quote, Christmas Day postponement), CNN (CIA drone strike), NPR (dock strike confirmation), US Embassy Bogota (December 3 advisory). All dates cross-referenced against at least two sources where possible.
+> **Source Note: Pre-Operation Timeline** Timeline compiled from multiple sources: CFR Global Conflict Tracker (primary reference), CBS News (secret directive, Susie Wiles quote, Christmas Day postponement), CNN (CIA drone strike), NPR (dock strike confirmation), US Embassy Bogota (December 3 advisory). All dates cross-referenced against at least two sources where possible.
 
 ---
 
@@ -976,7 +976,7 @@ The Trump administration constructed a legal framework over months:[^5]
 - SHANGHAI CISHUN FINE CHEMICAL CO., LTD.
 
 
-> [!info] **Source Note: OFAC Analysis** All OFAC data extracted from official Treasury Department SDN List via direct download and analysis using custom Python script. Numbers reflect SDN list as of January 3, 2026. Program tags (VENEZUELA, SDGT, TCO, FTO, etc.) are official Treasury/State Department designations. Analysis methodology available in ofac_sdn_analyzer.py.
+> **Source Note: OFAC Analysis** All OFAC data extracted from official Treasury Department SDN List via direct download and analysis using custom Python script. Numbers reflect SDN list as of January 3, 2026. Program tags (VENEZUELA, SDGT, TCO, FTO, etc.) are official Treasury/State Department designations. Analysis methodology available in ofac_sdn_analyzer.py.
 
 ### WINDROSE TACTICAL SOLUTIONS — Mystery Resolved
 
@@ -1088,7 +1088,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 **CRITICAL NOTE:** The December 11, 2024 document states there is an **"urgent need to better understand this Transnational Criminal Organization to enhance federal, state, and local responses to counter the network and its illicit activities."** This is not post-hoc justification — the intelligence community flagged this threat BEFORE the invasion.
 
-> [!info] **Source Note: CBP Intelligence** All CBP intelligence findings quoted directly from official UNCLASSIFIED//FOUO//LES documents released via CBP.gov. These are primary source US government intelligence assessments produced BEFORE the January 3, 2026 operation, demonstrating the intelligence buildup that preceded military action.
+> **Source Note: CBP Intelligence** All CBP intelligence findings quoted directly from official UNCLASSIFIED//FOUO//LES documents released via CBP.gov. These are primary source US government intelligence assessments produced BEFORE the January 3, 2026 operation, demonstrating the intelligence buildup that preceded military action.
 
 ---
 
@@ -1146,7 +1146,7 @@ The Trump administration constructed a legal framework over months:[^5]
 
 **The administration's position:** Venezuela is not just harboring criminals, it created the conditions for them, enables their operations, and the regime is either complicit or incapable of stopping them. Therefore: military action against the source.
 
-> [!info] **Source Note: Administration Case** This section synthesizes the Trump administration's stated justifications using their own cited sources. InSight Crime is an independent investigative journalism organization focused on organized crime in Latin America — notably, the same organization sometimes cited by critics questioning the scale of TdA's US presence. Their October 2023 report predates the FTO designation and invasion, providing independent documentation of TdA's origins, Venezuelan government complicity, and criminal operations.
+> **Source Note: Administration Case** This section synthesizes the Trump administration's stated justifications using their own cited sources. InSight Crime is an independent investigative journalism organization focused on organized crime in Latin America — notably, the same organization sometimes cited by critics questioning the scale of TdA's US presence. Their October 2023 report predates the FTO designation and invasion, providing independent documentation of TdA's origins, Venezuelan government complicity, and criminal operations.
 
 ---
 
