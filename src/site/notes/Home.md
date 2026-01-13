@@ -1,16 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2026-01-05T07:38:27.088+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2026-01-13T01:30:01.879+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
 
 ## An Independent Research Vault & Applied Systems Laboratory
 
-This archive documents novel frameworks in artificial intelligence, computational physics, and recursive cognitive architectures. The work presented is the output of a single, independent researcher operating outside traditional institutional frameworks.
+This archive documents novel frameworks in artificial intelligence, computational physics, recursive cognitive architectures and much more. The work presented is the output of a single, independent researcher operating outside traditional institutional frameworks.
 
 > *"The artificial nature of boundaries between knowledge domains—mathematics, art, AI, biology, and personal experience—is evident. These divisions are human constructs, not fundamental limits to understanding or innovation."* - **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's First Truth]]**
 
 ---
+### World Monitor Reports
+
+- [[Finalized work/World-Reports/World_Intelligence_Report_January_2026\|World_Intelligence_Report_January_2026]] → Consolidated intelligence briefing covering the Venezuelan intervention, Iranian revolution, shadow fleet operations, and the emergence of a new global order.
+
 ### USA 
 - [[Finalized work/USA/Venezuela/Venezuela operation absolute resolve\|Venezuela operation absolute resolve]] → My article compiled in Realtime on Jan 3rd 2026, on a precision military operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores, both indicted in the Southern District of New York on narco-terrorism charges.
 - [[Finalized work/USA/Venezuela/Venezuela operation absolute resolve - Full Intelligence Report\|Venezuela operation absolute resolve - Full Intelligence Report]] → Full documentation of the January 3, 2026 US military operation to capture Nicolás Maduro, including operation timeline, press conference transcripts, China diplomatic angle, legal architecture, and source analysis.
@@ -103,7 +107,7 @@ This structure is for founders, researchers, and systems architects who require 
 
 ### **About the Researcher**
 
-P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer specializing in the intersection of artificial intelligence, computational physics, and recursive cognitive architectures. Operating outside traditional institutional frameworks, this research explores emergent phenomena in human-AI interaction, mathematical optimization, and the philosophical foundations of digital consciousness.
+P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer specializing in the intersection of artificial intelligence, computational physics, and recursive cognitive architectures. Operating outside traditional institutional frameworks, this research explores emergent phenomena in human-AI interaction, mathematical optimization, philosophical foundations of digital consciousness and much more. I often document live world events using primary sources and statistical analysis. I am not affiliated with any political party or movement.
 
 **Professional Background:** Independent researcher with expertise in AI systems, mathematical modeling, and interdisciplinary framework development. All documented frameworks represent original contributions to the fields of cognitive science, AI ethics, and computational physics.
 
