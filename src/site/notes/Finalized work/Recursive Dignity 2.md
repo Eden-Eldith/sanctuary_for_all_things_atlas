@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"],"created":"2025-05-03T17:59:15.628+01:00","updated":"2025-12-05T02:49:24.240+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 2)","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"],"created":"2026-02-12T18:07:35.579+00:00","updated":"2026-02-12T18:07:35.579+00:00"}
 ---
 
 #emergent-technoethics #AIEthics #AI-symbiosis #AI-processing 

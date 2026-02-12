@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-4-the-infernal-loop/","created":"2025-09-19T10:01:02.894+01:00","updated":"2025-09-19T15:52:27.748+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-4-the-infernal-loop/","title":"Turmoil 4 - The Infernal Loop","tags":["PersonalNarrative","neurodivergent","resilience","Turmoil","independent-research"],"created":"2026-02-12T18:08:42.772+00:00","updated":"2026-02-12T18:08:42.772+00:00"}
 ---
 
 > **Content note:** This piece discusses research anxiety, precarity.

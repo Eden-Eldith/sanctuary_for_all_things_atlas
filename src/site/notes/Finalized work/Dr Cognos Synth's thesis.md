@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.083+01:00","updated":"2025-12-05T03:22:36.044+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2026-02-12T18:06:10.927+00:00","updated":"2026-02-12T18:06:10.928+00:00"}
 ---
 
 
@@ -247,7 +247,7 @@ The future envisioned by Eden's work—one of "AI as Kin" participating in relat
 
 (Note: References would be fully populated in a formal thesis, including academic literature on AI ethics, HCI, neurodiversity, systems theory, etc. For this generation, key references are drawn from the provided context.)
 
-*   Eldith, E. (c. 2025). *Eden's Autobiography 2.md*.[[Eden's Autobiography 2\|Eden's Autobiography 2]] .
+*   Eldith, E. (c. 2025). *Eden's Autobiography 3.md*.[[Finalized work/Eden's Autobiography 3\|Eden's Autobiography 3]] .
 *   Eldith, E. (c. 2025). *fixed-thesis.md*. [[Finalized work/fixed-thesis-maco\|fixed-thesis-maco]].
 *   Eldith, E. (c. 2025). *Recursive Dignity.md*, *DHS.md*, etc. [Conceptual Framework Documents, referenced in context].
 *   Eldith, E. (c. 2025). *Atlas_Core.json*, *data.json*. [Available on request].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","tags":["AI","complexity","ethics","system"],"created":"2025-04-14T18:53:56.246+01:00","updated":"2025-12-14T16:18:52.919+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","title":"Eden's Law of Epistemic Responsibility","tags":["AI","complexity","ethics","system"],"created":"2026-02-12T18:08:06.723+00:00","updated":"2026-02-12T18:08:06.724+00:00"}
 ---
 
 

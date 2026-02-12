@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","created":"2025-09-19T10:01:02.903+01:00","updated":"2025-09-21T19:19:05.616+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","title":"Turmoil 2 - The Architectural Mind","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:09.008+00:00","updated":"2026-02-12T18:08:09.008+00:00"}
 ---
 
 > **Privacy note:** Quotes are from my own logs; private individuals are anonymized unless they are public figures.

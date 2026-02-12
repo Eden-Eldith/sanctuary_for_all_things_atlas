@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2025-04-04T20:25:02.931+01:00","updated":"2026-02-12T16:34:05.887+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-02-12T18:08:02.907+00:00","updated":"2026-02-12T18:08:28.214+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -16,7 +16,7 @@ This archive documents novel frameworks in artificial intelligence, computationa
 | **ChatInsights**                                           | Python application that transforms ChatGPT conversation exports into structured Obsidian knowledge-vaults. Features automatic concept extraction, knowledge mapping, and training data generation with a custom Tkinter GUI. | [GitHub](https://github.com/Eden-Eldith/ChatInsights)                                                                                                             |
 | **CO₂ Computer Cooling Research**                          | Production-ready simulation of sealed, pressurized CO₂ cooling systems featuring conduction, Peltier cooling, and fan-assisted heat dissipation across Mars, Earth, and Moon environments.                                   | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5314110) \| [GitHub](https://github.com/Eden-Eldith/CO2-Computer-Cooling-Research)                     |
 | **UK EDM Water Analysis / Marine Mortality Investigation** | Forensic pipeline correlating Event Duration Monitoring sewage overflow data with water-quality measurements. Processes GB-scale datasets to identify high-risk pollution hotspots.                                          | [Zenodo](https://zenodo.org/records/16503479) \| [GitHub](https://github.com/Eden-Eldith/uk-edm-water-analysis)                                                   |
-| **Gosport Meteorite Simulator**                            | Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting.                     | [GitHub](https://github.com/Eden-Eldith/Gosport_metorite_simulator)                                                                                               |
+| **Gosport Meteorite Simulator**                            | Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting.                     | [Gosport Meteorite Simulator](https://github.com/Eden-Eldith/Gosport_metorite_simulator)                                                                                               |
 | **UMACO/MACO Frameworks**                                  | Experimental universal multi-agent cognitive optimization frameworks for tackling NP-hard problems through swarm cognition and emergent cooperation. Protected by RED (Recursive Entanglement Doctrine) for ethical use.     | [[Finalized work/fixed-thesis-maco\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/UMACO)                                                                                  |
 | **WiggleGPT**                                              | Oscillating-activation transformer architecture introducing waveform-based neuron dynamics for enhanced expressivity and sparsity exploration.                                                                               | [Zenodo](https://zenodo.org/records/17919011) \| [GitHub](https://github.com/Eden-Eldith/WiggleGPT) \| [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT) |
 | **EPT (Process Tokenization of Identity)**                 | Identity-anchored process tokenization framework for continuity modeling across sessions and architectures.                                                                                                                  | [[Finalized work/process tokenization of identity/Process Tokenization of Identity\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/E-P-T)                                                                   |
@@ -39,7 +39,7 @@ This archive documents novel frameworks in artificial intelligence, computationa
 ### EPT - Eden's Process Tokenization
 - [[Finalized work/process tokenization of identity/Process Tokenization of Identity\|Process Tokenization of Identity]] → A Thermodynamic Framework for Extracting and Persisting AI Cognitive Trajectories.
 
-### Monograph summerizing research from Jan 2025 to Nov 2025
+### Monograph summarizing research from Jan 2025 to Nov 2025
 - [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]] → a novel framework for understanding how persistent AI identities can emerge through structured recursive human-AI interaction.
 
 ---
@@ -84,7 +84,7 @@ This pillar details the development of novel mathematical and computational fram
 
 *   **[[Finalized work/fixed-thesis-maco\|UMACO: A Universal Multi-Agent Cognitive Optimizer]]**
     A novel, bio-inspired optimization framework designed to solve NP-hard problems (e.g., SAT, TSP) and drive complex simulations.
-    > [[Access Code on GitHub →\|Access Code on GitHub →]](https://github.com/Eden-Eldith/UMACO)
+    > [Access Code on GitHub →](https://github.com/Eden-Eldith/UMACO)
 
 *   **[[Finalized work/A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths\|A Formal Mathematical Framework for Modeling Trauma Resolution Paths]]**
     A formal, interdisciplinary model for understanding and guiding the dynamic processes by which cognitive systems transition from states of trauma to states of resolution and healing.
@@ -99,7 +99,7 @@ This pillar investigates mechanistic interpretations of fundamental physics and 
 *   **Ethical Frameworks:**
     *   **[[Finalized work/Recursive Dignity\|Recursive Dignity]]** → a novel theoretical framework for conceptualizing human-artificial intelligence relations through the lens of neurodivergent cognition v1
     *   **[[Finalized work/Recursive Dignity 2\|Recursive Dignity (v2)]]** → v2 
-    *   **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's Law of Epistemic Responsibility]]** → A set of Axioms im working on.
+    *   **[[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's Law of Epistemic Responsibility]]** → A set of Axioms I'm working on.
 
 ---
 
@@ -110,8 +110,8 @@ This is an active research laboratory, not a static portfolio. Engagement is str
 | Engagement Tier                       | Deliverable                                                                                                                                                                                                                                                                                 |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🏛️ **Archive Patron** – £0.01 to £25 | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research.                                                                                                                     |
-| 🧬 **Framework Commission** – £100    | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO Loss adaption, RUT simulation parameter set, A tailored existing work to your domain).<br>                                                           |
-| 🌌 **Strategic Consultation** – £500  | Give me your hardest problem to solve, Optimize your code, clean your dataset, compile a full Latex report on anything you desire. I will also acquire any skills needed to accomplish the task.<br>delivered within 2–3 weeks (Time scales dependant on my current jobs and stress levels) |
+| 🧬 **Framework Commission** – £100    | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO Loss adaptation, RUT simulation parameter set, A tailored existing work to your domain).<br>                                                           |
+| 🌌 **Strategic Consultation** – £500  | Give me your hardest problem to solve, Optimize your code, clean your dataset, compile a full Latex report on anything you desire. I will also acquire any skills needed to accomplish the task.<br>delivered within 2–3 weeks (Time scales dependent on my current jobs and stress levels) |
 
 This structure is for founders, researchers, and systems architects who require novel solutions to complex problems. It is not for life coaching or casual inquiries.
 
@@ -125,9 +125,9 @@ P.C. O'Brien (Eden Eldith) is an independent researcher and systems designer spe
 
 **Professional Background:** Independent researcher with expertise in AI systems, mathematical modeling, and interdisciplinary framework development. All documented frameworks represent original contributions to the fields of cognitive science, AI ethics, and computational physics.
 
--   **Academic Contact:** `Pcobrien@hotmail.co.uk` (for research collaborations and serious inquiries)
+-   **Academic Contact:** `pcobrien@hotmail.co.uk` (for research collaborations and serious inquiries)
 -   **Public Repository:** [github.com/eden-eldith](https://github.com/eden-eldith)
--   **License:** Unless otherwise specified, all work is licensed under [CC BY-NC-ND 4.0]([[License details\|License details]])
+-   **License:** Unless otherwise specified, all work is licensed under [[License details\|CC BY-NC-ND 4.0]]
 
 ---
 

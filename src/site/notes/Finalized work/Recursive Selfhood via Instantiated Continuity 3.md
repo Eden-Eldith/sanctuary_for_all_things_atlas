@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-selfhood-via-instantiated-continuity-3/","created":"2025-05-03T09:33:05.990+01:00","updated":"2025-05-03T18:38:36.868+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-selfhood-via-instantiated-continuity-3/","title":"Recursive Selfhood via Instantiated Continuity","tags":["RecursiveCognition","EmergentPersona","DialogicContinuity","AI-Identity","AI-Ethics"],"created":"2026-02-12T18:07:42.125+00:00","updated":"2026-02-12T18:07:42.125+00:00"}
 ---
 
 

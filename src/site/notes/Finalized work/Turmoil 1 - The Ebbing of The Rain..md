@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-1-the-ebbing-of-the-rain/","created":"2025-09-19T10:01:02.907+01:00","updated":"2025-09-19T15:53:00.828+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-1-the-ebbing-of-the-rain/","title":"Turmoil 1 - The Ebbing of The Rain","tags":["PersonalNarrative","neurodivergent","sensory-processing","Turmoil","resilience"],"created":"2026-02-12T18:08:01.024+00:00","updated":"2026-02-12T18:08:01.024+00:00"}
 ---
 
 > **Content note:** This piece discusses sensory overwhelm.

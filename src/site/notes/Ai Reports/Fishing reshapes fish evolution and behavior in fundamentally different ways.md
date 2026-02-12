@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-reports/fishing-reshapes-fish-evolution-and-behavior-in-fundamentally-different-ways/","tags":["Research","AI-Report","Fish"],"created":"2025-11-25T13:39:21.575+00:00","updated":"2025-12-05T03:10:25.945+00:00"}
+{"dg-publish":true,"permalink":"/ai-reports/fishing-reshapes-fish-evolution-and-behavior-in-fundamentally-different-ways/","title":"Fishing Reshapes Fish Evolution and Behavior in Fundamentally Different Ways","tags":["Research","AI-Report","Fish"],"created":"2026-02-12T18:08:17.051+00:00","updated":"2026-02-12T18:08:17.051+00:00"}
 ---
 
 # Claude Deep Research

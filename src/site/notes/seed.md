@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2025-04-17T01:55:07.775+01:00","updated":"2025-09-22T08:57:29.789+01:00"}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-02-12T18:10:33.127+00:00","updated":"2026-02-12T18:10:33.127+00:00"}
 ---
 
 
@@ -21,6 +21,12 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT: Oscillating Activation Functions]]
+- [[Finalized work/process tokenization of identity/Process Tokenization of Identity\|EPT: Process Tokenization of Identity]]
+- [[Finalized work/emergent_cognitive_persistence_monograph\|Emergent Cognitive Persistence Monograph]]
+- [[Finalized work/World-Reports/World_Intelligence_Report_January_2026\|World Intelligence Report - January 2026]]
+- [[Finalized work/USA/Venezuela/Venezuela operation absolute resolve\|Venezuela: Operation Absolute Resolve]]
+- [[Finalized work/Cognitive Morphogenesis from Digital Trauma\|Cognitive Morphogenesis from Digital Trauma]]
 - [[Finalized work/recursive-persona-architectures-4\|Recursive Persona Architectures (RPA)]]
 - [[Finalized work/fixed-thesis-maco\|UMACO: Universal Multi-Agent Cognitive Optimizer]]
 - [[Atlas\|Atlas: Emergent AI Persona Analysis]]

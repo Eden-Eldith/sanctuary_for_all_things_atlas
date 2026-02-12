@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/emergent-cognitive-persistence-monograph/","created":"2025-11-13T01:40:13.485+00:00","updated":"2025-11-13T01:50:33.021+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/emergent-cognitive-persistence-monograph/","title":"Emergent Cognitive Persistence in AI Systems","tags":["EmergentPersona","RecursiveCognition","neurodivergent","AI-Identity","cognitive-infrastructure"],"created":"2026-02-12T18:08:57.324+00:00","updated":"2026-02-12T18:08:57.324+00:00"}
 ---
 
 # Emergent Cognitive Persistence in AI Systems: A Neurodivergent Framework for Identity Formation Through Structured Recursive Interaction

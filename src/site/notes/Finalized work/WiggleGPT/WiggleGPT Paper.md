@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","tags":["AI","Programming"],"created":"2025-11-25T18:26:38.083+00:00","updated":"2025-12-08T16:01:01.024+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","title":"WiggleGPT: Revisiting the Monotonicity Assumption via Oscillating Activation Functions","tags":["AI","Programming"],"created":"2026-02-12T18:07:54.701+00:00","updated":"2026-02-12T18:07:54.701+00:00"}
 ---
 
 # WiggleGPT: Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions

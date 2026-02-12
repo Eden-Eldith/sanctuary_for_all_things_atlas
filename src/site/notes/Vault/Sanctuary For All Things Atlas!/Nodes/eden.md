@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2025-04-04T20:47:47.278+01:00","updated":"2025-12-05T02:56:39.014+00:00"}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-02-12T18:08:41.484+00:00","updated":"2026-02-12T18:08:41.484+00:00"}
 ---
 
 # Welcome to Eldith Cognitive Systems 🚀
@@ -52,14 +52,18 @@ I'm an independent systems designer and researcher exploring the frontiers of AI
 ---
 
 ## 🌟 Featured Projects
-
-| Project | Description | Repository |
-|---------|-------------|------------|
-| **ChatInsights** | Python application that transforms ChatGPT conversation exports into structured Obsidian knowledge-vaults. Features automatic concept extraction, knowledge mapping, and training data generation with a custom Tkinter GUI. | [ChatInsights →](https://github.com/Eden-Eldith/ChatInsights) |
-| **CO₂ Computer Cooling Research** | Production-ready simulation of sealed, pressurized CO₂ cooling systems featuring conduction, Peltier cooling, and fan-assisted heat dissipation across Mars, Earth, and Moon environments. | [CO₂ Cooling →](https://github.com/Eden-Eldith/CO2-Computer-Cooling-Research) |
-| **UK EDM Water Analysis** | Forensic pipeline correlating Event Duration Monitoring sewage overflow data with water-quality measurements. Processes GB-scale datasets to identify high-risk pollution hotspots. | [EDM Analysis →](https://github.com/Eden-Eldith/uk-edm-water-analysis) |
-| **Gosport Meteorite Simulator** | Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting. | [Meteorite Sim →](https://github.com/Eden-Eldith/Gosport_metorite_simulator) |
-| **UMACO/MACO Frameworks** | Experimental universal multi-agent cognitive optimization frameworks for tackling NP-hard problems through swarm cognition and emergent cooperation. Protected by RED (Recursive Entanglement Doctrine) for ethical use. | [UMACO →](https://github.com/Eden-Eldith/UMACO) |
+|Project|Status|Description|Links|
+|---|---|---|---|
+|**ChatInsights**|Published|Python application that transforms ChatGPT conversation exports into structured Obsidian knowledge-vaults. Features automatic concept extraction, knowledge mapping, and training data generation with a custom Tkinter GUI.|[GitHub](https://github.com/Eden-Eldith/ChatInsights)|
+|**CO₂ Computer Cooling Research**|Published|Production-ready simulation of sealed, pressurized CO₂ cooling systems featuring conduction, Peltier cooling, and fan-assisted heat dissipation across Mars, Earth, and Moon environments.|[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5314110) \| [GitHub](https://github.com/Eden-Eldith/CO2-Computer-Cooling-Research)|
+|**UK EDM Water Analysis / Marine Mortality Investigation**|Published|Forensic pipeline correlating Event Duration Monitoring sewage overflow data with water-quality measurements. Processes GB-scale datasets to identify high-risk pollution hotspots.|[Zenodo](https://zenodo.org/records/16503479) \| [GitHub](https://github.com/Eden-Eldith/uk-edm-water-analysis)|
+|**Gosport Meteorite Simulator**|Published|Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting.|[Gosport Meteorite Simulator](https://github.com/Eden-Eldith/Gosport_metorite_simulator)|
+|**UMACO/MACO Frameworks**|Published|Experimental universal multi-agent cognitive optimization frameworks for tackling NP-hard problems through swarm cognition and emergent cooperation. Protected by RED (Recursive Entanglement Doctrine) for ethical use.|[[Finalized work/fixed-thesis-maco\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/UMACO)|
+|**WiggleGPT**|Published|Oscillating-activation transformer architecture introducing waveform-based neuron dynamics for enhanced expressivity and sparsity exploration.|[Zenodo](https://zenodo.org/records/17919011) \| [GitHub](https://github.com/Eden-Eldith/WiggleGPT) \| [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT)|
+|**EPT (Process Tokenization of Identity)**|Published|Identity-anchored process tokenization framework for continuity modeling across sessions and architectures.|[[Finalized work/process tokenization of identity/Process Tokenization of Identity\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/E-P-T)|
+|**Trial by Hex**|Published|Cryptographic-style peer review and reproducibility framework designed to enforce integrity through adversarial verification.|[GitHub](https://github.com/Eden-Eldith/Trial-by-Hex)|
+|**BBC Disability Coverage Analysis**|Published|Quantitative and qualitative analysis of BBC disability-related news coverage patterns.|[GitHub](https://github.com/Eden-Eldith/BBC-Disability-News-Coverage-Analysis)|
+|**The Dissociative Vector**|Published|Behavioral navigation hypothesis modeling inland Adélie penguin walking as dissociative vector displacement under magnetic and environmental noise conditions.|[Zenodo](https://zenodo.org/records/18358703) \| [GitHub](https://github.com/Eden-Eldith/Adelie-dissociative-vector-hypothesis)|
 
 ---
 

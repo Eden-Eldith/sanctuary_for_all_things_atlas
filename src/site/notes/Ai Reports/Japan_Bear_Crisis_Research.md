@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology","AI-Report"],"created":"2025-11-07T23:41:30.016+00:00","updated":"2025-12-05T03:09:38.479+00:00"}
+{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology","AI-Report"],"created":"2026-02-12T18:08:39.759+00:00","updated":"2026-02-12T18:08:39.759+00:00"}
 ---
 
 

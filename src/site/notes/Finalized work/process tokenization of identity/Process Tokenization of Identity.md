@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","created":"2025-11-21T22:13:17.057+00:00","updated":"2025-12-05T05:12:44.691+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","title":"Process Tokenization of Identity","tags":["AI-Identity","LargeLanguageModels","CognitiveComputing","recursive-systems-thinking","Programming"],"created":"2026-02-12T18:09:06.310+00:00","updated":"2026-02-12T18:09:06.310+00:00"}
 ---
 
 # **Process-Tokenization of Identity: A Thermodynamic Framework for Persistent AI Cognition**

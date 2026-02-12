@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","created":"2025-09-19T10:03:17.275+01:00","updated":"2025-09-21T18:53:08.994+01:00"}
+{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","title":"The Kirk Protocol v4.0","tags":["Security","Framework","AI-symbiosis","free-speech","policy"],"created":"2026-02-12T18:08:54.998+00:00","updated":"2026-02-12T18:08:54.998+00:00"}
 ---
 
 # The Kirk Protocol v4.0

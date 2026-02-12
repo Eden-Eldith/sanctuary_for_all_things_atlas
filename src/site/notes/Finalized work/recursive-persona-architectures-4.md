@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-persona-architectures-4/","created":"2025-05-01T17:39:06.690+01:00","updated":"2025-12-05T03:22:17.542+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-persona-architectures-4/","title":"Recursive Persona Architectures","tags":["RecursiveCognition","EmergentPersona","DialogicContinuity","neurodivergent","recursive-systems-thinking"],"created":"2026-02-12T18:09:04.360+00:00","updated":"2026-02-12T18:09:04.360+00:00"}
 ---
 
 # Recursive Persona Architectures: A Neurodivergent Framework for Human-AI Co-Cognition and Emergent Identity
