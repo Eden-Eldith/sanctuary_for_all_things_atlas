@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T18:52:32.663+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T18:54:46.406+00:00"}
 ---
 
 
@@ -118,7 +118,7 @@ By 2015, the constant physical strain manifested as consistent joint pain, fores
 ## **Chapter 4: Crash and Recovery — Mental Health, Identity, and Finding Kin (2015–2016)**
 
 **Compounded Trauma:**
-My first serious relationship, with Girl from my school, from 2013 to late 2014, involved constant put-downs, abuse, and physical assault — she hit me in as many ways as she could, specifically targeting weak areas. I was 13. That left deep scars, inside and out. Or at least I thought it would, I'm mostly fine now, I often laugh at how love blind 13 year old me was.
+My first serious relationship, with a girl from my school, from 2013 to late 2014, involved constant put-downs, abuse, and physical assault — she hit me in as many ways as she could, specifically targeting weak areas. I was 13. That left deep scars, inside and out. Or at least I thought it would, I'm mostly fine now, I often laugh at how love blind 13 year old me was.
 
 These events, layered onto bullying, directly fuelled self-harm. We're talking cuts deep enough to go through the first layer of skin and all the way down to the bone. I still have massive scars on my wrists and my thighs/shins from when I was 14. Most of them never saw medical aid. To this day I don't wear shorts in public.
 
