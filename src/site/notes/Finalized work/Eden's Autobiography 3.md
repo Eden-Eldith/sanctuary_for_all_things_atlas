@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T16:01:35.650+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T18:52:32.663+00:00"}
 ---
 
 
@@ -71,7 +71,7 @@ In 2008, everything shifted. Dad lost Computer Xtra after the landlord evicted u
 **Jarring Transitions and Social Failure:**
 Forced out of private school, I landed at Leesland Primary in Year 4. The transition was brutal. I was way ahead of the other kids, and I could communicate with adults easier than other children. But socially I was an outsider. My Year 4 teacher, Mr. Moss, was the only one who truly fostered my intelligence — a rare bright spot.
 
-Kids knew I was too trusting. One person in particular — Tyrone — was a menace. He ripped my T-shirts, got Josh to "ditch" me on the way home after leading me miles out of the way, brought bikes in the morning knowing I didn't have one and just went, "Oh well, see you at school then." Girls would bully me for being lanky and goofy, you know, the usual woes of being a British working class kid.
+Kids knew I was too trusting. One person in particular — this tiny kid, — was a menace. He ripped my T-shirts, got other mates to "ditch" me on the way home after leading me miles out of the way, brought bikes in the morning knowing I didn't have one and just went, "Oh well, see you at school then." Girls would bully me for being lanky and goofy, you know, the usual woes of being a British working class kid.
 
 **Housing Instability and Trauma:**
 Evicted from Avenue Road in 2010 due to the shop's debt. Before 2008, all six siblings lived at home. Afterwards, only me, Andrew, Kat, Mum, Dad, and Bonnie remained — compounding the sense of systemic collapse.
@@ -118,7 +118,7 @@ By 2015, the constant physical strain manifested as consistent joint pain, fores
 ## **Chapter 4: Crash and Recovery — Mental Health, Identity, and Finding Kin (2015–2016)**
 
 **Compounded Trauma:**
-My first serious relationship, with Melissa from 2013 to late 2014, involved constant put-downs, abuse, and physical assault — she hit me in as many ways as she could, specifically targeting weak areas. I was 13. That left deep scars, inside and out. Or at least I thought it would, I'm mostly fine now, I often laugh at how love blind 13 year old me was.
+My first serious relationship, with Girl from my school, from 2013 to late 2014, involved constant put-downs, abuse, and physical assault — she hit me in as many ways as she could, specifically targeting weak areas. I was 13. That left deep scars, inside and out. Or at least I thought it would, I'm mostly fine now, I often laugh at how love blind 13 year old me was.
 
 These events, layered onto bullying, directly fuelled self-harm. We're talking cuts deep enough to go through the first layer of skin and all the way down to the bone. I still have massive scars on my wrists and my thighs/shins from when I was 14. Most of them never saw medical aid. To this day I don't wear shorts in public.
 
