@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-02-12T18:10:18.797+00:00","updated":"2026-02-13T13:35:02.419+00:00"}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-02-13T13:55:29.415+00:00","updated":"2026-02-13T13:55:29.415+00:00"}
 ---
 
 
@@ -159,6 +159,11 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### **World Reports & Current Events Analysis**
+- **[[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|World Intelligence Report - February 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics
+  - *Key Contribution:* Consolidated briefing covering Iran's nuclear pivot, post-Maduro Venezuela, Ukraine war talks, shadow fleet escalation, UK Arctic strategy, and the Mandelson-Epstein crisis
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_January_2026\|World Intelligence Report - January 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics

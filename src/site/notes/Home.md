@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-02-12T18:08:02.907+00:00","updated":"2026-02-13T13:32:10.437+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-02-13T13:55:22.479+00:00","updated":"2026-02-13T13:55:22.479+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -27,6 +27,7 @@ This archive documents novel frameworks in artificial intelligence, computationa
 ---
 ### World Monitor Reports
 
+- [[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|World_Intelligence_Report_February_2026]] → Iran's pivot from revolution to nuclear talks, Venezuela one month after Maduro, Ukraine talking war, shadow fleet escalation, UK Arctic pivot, and the Mandelson-Epstein political crisis.
 - [[Finalized work/World-Reports/World_Intelligence_Report_January_2026\|World_Intelligence_Report_January_2026]] → Consolidated intelligence briefing covering the Venezuelan intervention, Iranian revolution, shadow fleet operations, and the emergence of a new global order.
 
 ### USA 

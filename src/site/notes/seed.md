@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-02-12T18:10:33.127+00:00","updated":"2026-02-12T18:10:33.127+00:00"}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-02-13T13:55:33.390+00:00","updated":"2026-02-13T13:55:33.390+00:00"}
 ---
 
 
@@ -21,6 +21,7 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|World Intelligence Report - February 2026]]
 - [[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT: Oscillating Activation Functions]]
 - [[Finalized work/process tokenization of identity/Process Tokenization of Identity\|EPT: Process Tokenization of Identity]]
 - [[Finalized work/emergent_cognitive_persistence_monograph\|Emergent Cognitive Persistence Monograph]]
