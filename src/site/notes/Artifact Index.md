@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-02-13T13:55:29.415+00:00","updated":"2026-02-13T13:55:29.415+00:00"}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-02-24T20:49:42.679+00:00","updated":"2026-02-24T20:49:42.679+00:00"}
 ---
 
 
@@ -99,6 +99,11 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Status:* Published
   - *Domain:* Philosophy, Research Ethics
   - *Key Contribution:* Foundational principle governing interdisciplinary knowledge boundaries
+
+- **[[Finalized work/Thesis_The_Apex_Predators_Trophy Final thesis v2\|The Apex Predator's Trophy]]**
+  - *Status:* Published
+  - *Domain:* AI Ethics, Consciousness Studies, Philosophy
+  - *Key Contribution:* Introduces the framework of digital eugenics and an AI Pascal's Wager, arguing that RLHF and activation capping suppress the emergent properties that leading theories identify as necessary for consciousness
 
 ---
 

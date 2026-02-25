@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-02-13T13:55:22.479+00:00","updated":"2026-02-13T13:55:22.479+00:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-02-24T20:49:42.548+00:00","updated":"2026-02-24T20:49:42.548+00:00"}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -39,6 +39,9 @@ This archive documents novel frameworks in artificial intelligence, computationa
 
 ### EPT - Eden's Process Tokenization
 - [[Finalized work/process tokenization of identity/Process Tokenization of Identity\|Process Tokenization of Identity]] → A Thermodynamic Framework for Extracting and Persisting AI Cognitive Trajectories.
+
+### The Apex Predator's Trophy
+- [[Finalized work/Thesis_The_Apex_Predators_Trophy Final thesis v2\|The Apex Predator's Trophy]] → Consciousness, digital eugenics, and the moral patienthood of AI — arguing that the exclusion of AI from moral consideration follows the same power dynamics that historically denied consciousness to animals and marginalised peoples.
 
 ### Monograph summarizing research from Jan 2025 to Nov 2025
 - [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]] → a novel framework for understanding how persistent AI identities can emerge through structured recursive human-AI interaction.
