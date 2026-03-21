@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-03-15T00:23:13.992+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-03-21T13:21:32.079+00:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ## Executive Summary
 
-The month following our [[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|February 2026 Intelligence Report]] has witnessed the most significant escalation in global conflict since the 2003 Iraq War. What began with diplomatic manoeuvring and NATO posturing in mid-February became a full-scale war involving over a dozen countries by mid-March, with the Strait of Hormuz mined, oil prices up 30–52%, and over 1,300 Iranian civilians dead.
+The month following our [[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|February 2026 Intelligence Report]] has witnessed the most significant escalation in global conflict since the 2003 Iraq War. What began with diplomatic manoeuvring and NATO posturing in mid-February became a full-scale war involving over a dozen countries by mid-March, with the Strait of Hormuz mined, oil prices up 40–50%, and over 1,300 Iranian civilians dead.
 
 1. **Iran — From Diplomacy to War** — A diplomatic breakthrough was announced on 27 February: Iran had agreed to never stockpile enriched uranium and to full IAEA verification. Peace was "within reach." Less than 24 hours later, the US and Israel launched strikes on Iran, assassinating Supreme Leader Khamenei and killing members of his family within the first day. By 13 March, over 1,300 civilians are dead, 17,000+ injured, 3.2 million displaced, the Strait of Hormuz is closed, and the conflict has directly affected Iran, Iraq, Lebanon, Syria, Israel, Qatar, UAE, Kuwait, Bahrain, Saudi Arabia, Oman, and Cyprus. [^1] [^2] [^3]
 
@@ -36,7 +36,7 @@ graph LR
     B --> C[27 Feb<br/>Oman: 'Peace within reach'<br/>Anthropic blacklisted<br/>Iran airspace closed]
     C --> D[28 Feb<br/>STRIKES BEGIN<br/>Khamenei assassinated<br/>Vol: 90.5]
     D --> E[1-2 Mar<br/>Iran retaliates across Gulf<br/>Akrotiri struck<br/>Starmer grants base access]
-    E --> F[11 Mar<br/>Hormuz mined<br/>1,300+ dead<br/>Brent $92<br/>Vol: 93.2]
+    E --> F[11 Mar<br/>Hormuz mined<br/>1,300+ dead<br/>Brent $91<br/>Vol: 93.2]
     
     style C fill:#ff6b6b,color:#fff
     style D fill:#cc0000,color:#fff
@@ -388,22 +388,26 @@ The commodity markets tell the story of this month more clearly than any diploma
 
 | Date | Brent ($/bbl) | WTI ($/bbl) | Gold ($/oz) | Key Event |
 |------|:-------------:|:-----------:|:-----------:|-----------|
-| 11 Feb | 69.03 | 63.13 | 5,055 | Pre-escalation baseline |
-| 25 Feb | 71–72 | 66–67 | 5,172 | Pre-strikes baseline |
-| **28 Feb** | — | — | — | **US-Israel strikes commence** |
-| 1 Mar | ~79 | ~72 | 5,294 | Oil +8%; gold +$97 |
-| 2 Mar | 79 | 72 | 5,392 | Khamenei killed; airports closed |
-| 6 Mar | ~90 | ~84 | 5,099 | Oil up 55% since December |
-| 11 Mar | 92.46 | 88.36 | 5,196 | Hormuz mined; IEA releases 400M barrels |
-| 13 Mar | 90–105 | 90–100 | ~5,200 | Sustained war premium; diplomatic talks resume |
+| 11 Feb | 71.52 | ~64 | ~5,055 | Pre-escalation baseline |
+| 25 Feb | 70.69 | ~66 | ~5,170 | Pre-strikes baseline |
+| **28 Feb** | — | — | — | **US-Israel strikes commence (Saturday — no trading)** |
+| 2 Mar | 77.24 | ~72 | ~5,150 | First post-strike trading day; Khamenei killed; airports closed |
+| 3 Mar | 83.28 | ~76 | ~5,100 | Oil surges on retaliation news |
+| 6 Mar | 95.74 | ~87 | ~5,100 | Brent +34% from baseline |
+| 9 Mar | 94.35 | ~88 | ~5,050 | EIA: Brent +50% YTD |
+| 11 Mar | 90.98 | ~87 | ~5,050 | Hormuz mined; IEA releases 400M barrels |
+| 13 Mar | 99.84 | ~96 | ~5,025 | Sustained war premium; diplomatic talks resume |
 
-**Period totals:**
-- **Brent crude:** $69 → $90–105 (+30–52%) — the war premium in its purest form
-- **WTI:** $63 → $90–100 (+43–59%)
-- **Gold:** $5,055 → ~$5,200 (+2.9%) — safe-haven demand with central bank floor
-- **Silver:** $83.80 → ~$84 (volatile; peaked at $95.33 on 2 Mar before CME halt)
+**Period totals (11 Feb → 13 Mar):**
+- **Brent crude:** $71.52 → $99.84 (+40%) — the war premium in its purest form
+- **WTI:** ~$64 → ~$96 (+50%)
+- **Gold:** ~$5,055 → ~$5,025 (approximately flat; safe-haven demand offset by inflation data and Fed hawkishness — gold subsequently crashed to ~$4,551 by 19 Mar)
+- **Silver:** ~$84.72 → ~$80 (volatile; subsequently crashed to ~$67 by 19 Mar under speculative unwinding)
 
-The EIA baseline forecast for 2026 was $58/bbl Brent. Actual prices have exceeded even the disruption scenario projection. [^49]
+> [!warning] Commodity data correction — @210320262200
+> The original Grok-sourced price data contained fabricated values for non-trading days (28 Feb was a Saturday; 1 Mar a Sunday), inflated gold figures, and an unverified claim of a CME silver halt. This table has been corrected against EIA spot price data (Brent), Fortune daily commodity reports, Trading Economics, and USAGOLD market commentary. Oil figures were broadly accurate in the original; gold and silver figures were significantly wrong.
+
+The EIA Short-Term Energy Outlook (10 Mar) confirmed Brent at $94/b on 9 Mar, up approximately 50% from the beginning of the year. [^49]
 
 ### UK Economic Impact
 
