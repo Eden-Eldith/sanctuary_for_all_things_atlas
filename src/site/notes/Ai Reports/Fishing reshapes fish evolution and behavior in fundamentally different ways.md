@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-reports/fishing-reshapes-fish-evolution-and-behavior-in-fundamentally-different-ways/","title":"Fishing Reshapes Fish Evolution and Behavior in Fundamentally Different Ways","tags":["Research","AI-Report","Fish"],"created":"2026-02-12T18:08:17.051+00:00","updated":"2026-02-12T18:08:17.051+00:00"}
+{"dg-publish":true,"permalink":"/ai-reports/fishing-reshapes-fish-evolution-and-behavior-in-fundamentally-different-ways/","title":"Fishing Reshapes Fish Evolution and Behavior in Fundamentally Different Ways","tags":["Research","AI-Report","Fish"],"created":"2026-02-12T18:08:17.051+00:00","updated":"2026-02-12T18:08:17.051+00:00","dg-note-properties":{"title":"Fishing Reshapes Fish Evolution and Behavior in Fundamentally Different Ways","description":"A research synthesis examining how catch-and-kill and catch-and-release fishing exert distinct evolutionary pressures on fish populations, driving rapid behavioral and genetic changes including the emergence of timidity syndrome.","tags":["Research","AI-Report","Fish"]}}
 ---
 
 # Claude Deep Research

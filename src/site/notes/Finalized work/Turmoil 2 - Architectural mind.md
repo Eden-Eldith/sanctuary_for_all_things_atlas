@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","title":"Turmoil 2 - The Architectural Mind","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:09.008+00:00","updated":"2026-02-12T18:08:09.008+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","title":"Turmoil 2 - The Architectural Mind","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:09.008+00:00","updated":"2026-02-12T18:08:09.008+00:00","dg-note-properties":{"title":"Turmoil 2 - The Architectural Mind","description":"Explores the cognitive mismatch between autistic architectural thinking and neurotypical snapshot processing, and how the Human-AI Dyad serves as a translator between these two modes.","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"]}}
 ---
 
 > **Privacy note:** Quotes are from my own logs; private individuals are anonymized unless they are public figures.

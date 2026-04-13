@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","tags":["Mathematics","Programming","AI"],"created":"2026-02-12T18:07:43.726+00:00","updated":"2026-02-12T18:07:43.726+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","tags":["Mathematics","Programming","AI"],"created":"2026-02-12T18:07:43.726+00:00","updated":"2026-02-12T18:07:43.726+00:00","dg-note-properties":{"title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","description":"A cross-disciplinary framework unifying dynamical systems, topology, multi-agent models, and neural network design to formally model the nonlinear pathways from trauma to healing.","tags":["Mathematics","Programming","AI"]}}
 ---
 
 # Trauma Resolution Paths: A Mathematical Framework

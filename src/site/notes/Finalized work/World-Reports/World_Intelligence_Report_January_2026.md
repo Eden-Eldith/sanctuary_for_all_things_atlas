@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-january-2026/","title":"World Intelligence Report — January 2026","tags":["world-monitor","osint","geopolitics","intelligence","venezuela","iran","russia","trump-administration"],"created":"2026-01-12T10:36:59.103+00:00","updated":"2026-01-13T01:26:22.214+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-january-2026/","title":"World Intelligence Report — January 2026","tags":["world-monitor","osint","geopolitics","intelligence","venezuela","iran","russia","trump-administration"],"created":"2026-01-12T10:36:59.103+00:00","updated":"2026-01-13T01:26:22.214+00:00","dg-note-properties":{"title":"World Intelligence Report — January 2026","description":"Consolidated intelligence briefing covering the Venezuelan intervention, Iranian revolution, shadow fleet operations, and the emergence of a new global order.","date":"2026-01-12","updated":"2026-01-13","tags":["world-monitor","osint","geopolitics","intelligence","venezuela","iran","russia","trump-administration"],"aliases":["January 2026 Intelligence Report","World Monitor Consolidation"]}}
 ---
 
 

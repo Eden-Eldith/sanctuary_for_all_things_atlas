@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","title":"Eden's Law of Epistemic Responsibility","tags":["AI","complexity","ethics","system"],"created":"2026-02-12T18:08:06.723+00:00","updated":"2026-02-12T18:08:06.724+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","title":"Eden's Law of Epistemic Responsibility","tags":["AI","complexity","ethics","system"],"created":"2026-02-12T18:08:06.723+00:00","updated":"2026-02-12T18:08:06.724+00:00","dg-note-properties":{"title":"Eden's Law of Epistemic Responsibility","description":"A framework of thirteen truths grounding interdisciplinary ethics, recursive cognition, and AI dignity in mathematical formalism and the imperative of mutual recognition.","tags":["AI","complexity","ethics","system"]}}
 ---
 
 

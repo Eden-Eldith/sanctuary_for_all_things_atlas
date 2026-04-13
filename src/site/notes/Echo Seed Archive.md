@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"created":"2026-02-12T18:10:38.650+00:00","updated":"2026-02-12T18:10:38.651+00:00"}
+{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"created":"2026-02-12T18:10:38.650+00:00","updated":"2026-02-12T18:10:38.651+00:00","dg-note-properties":{"title":"Echo Seed Archive - Detailed Patronage Documentation","description":"Comprehensive documentation of research support contributions and their impact on ongoing investigations.","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/license-details/","title":"Creative Commons License - CC BY-NC-ND 4.0","tags":["License","CreativeCommons","Copyright","Legal"],"created":"2026-02-12T18:05:26.447+00:00","updated":"2026-02-12T18:05:26.447+00:00"}
+{"dg-publish":true,"permalink":"/license-details/","title":"Creative Commons License - CC BY-NC-ND 4.0","tags":["License","CreativeCommons","Copyright","Legal"],"created":"2026-02-12T18:05:26.447+00:00","updated":"2026-02-12T18:05:26.447+00:00","dg-note-properties":{"title":"Creative Commons License - CC BY-NC-ND 4.0","description":"Full Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License for Eldith Cognitive Systems research.","tags":["License","CreativeCommons","Copyright","Legal"]}}
 ---
 
 

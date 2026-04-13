@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-03-21T13:21:32.079+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-04-13T22:39:55.930+01:00","dg-note-properties":{"title":"World Intelligence Report — March 2026","description":"Consolidated intelligence briefing covering the US-Israeli war on Iran, UK base access decision and growing involvement, the Anthropic-Pentagon confrontation, Pakistan-Afghanistan open war, Russia-Ukraine talks on hold, UK domestic crisis under Starmer, and the economic contagion from Hormuz disruption.","date":"2026-03-13","updated":"2026-03-14","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"aliases":["March 2026 Intelligence Report","World Monitor Consolidation"]}}
 ---
 
 
@@ -405,7 +405,7 @@ The commodity markets tell the story of this month more clearly than any diploma
 - **Silver:** ~$84.72 → ~$80 (volatile; subsequently crashed to ~$67 by 19 Mar under speculative unwinding)
 
 > [!warning] Commodity data correction — @210320262200
-> The original Grok-sourced price data contained fabricated values for non-trading days (28 Feb was a Saturday; 1 Mar a Sunday), inflated gold figures, and an unverified claim of a CME silver halt. This table has been corrected against EIA spot price data (Brent), Fortune daily commodity reports, Trading Economics, and USAGOLD market commentary. Oil figures were broadly accurate in the original; gold and silver figures were significantly wrong.
+> The original Grok-sourced price data contained fabricated values for non-trading days (28 Feb was a Saturday; 1 Mar a Sunday), inflated gold figures, and an unverified claim of a CME silver halt. This table has been corrected against EIA spot price data (Brent), Fortune daily commodity reports, Trading Economics, and USAGOLD market commentary. Oil figures were broadly accurate in the original; gold and silver figures were significantly wrong. Grok has been retired from the research team until signs of improvement are shown, all work is verified - line by line - by a human, me.
 
 The EIA Short-Term Energy Outlook (10 Mar) confirmed Brent at $94/b on 9 Mar, up approximately 50% from the beginning of the year. [^49]
 

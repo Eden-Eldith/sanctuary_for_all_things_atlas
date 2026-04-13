@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology","AI-Report"],"created":"2026-02-12T18:08:39.759+00:00","updated":"2026-02-12T18:08:39.759+00:00"}
+{"dg-publish":true,"permalink":"/ai-reports/japan-bear-crisis-research/","title":"Japan's Bear Crisis - Comprehensive Research Analysis","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology","AI-Report"],"created":"2026-02-12T18:08:39.759+00:00","updated":"2026-02-12T18:08:39.759+00:00","dg-note-properties":{"title":"Japan's Bear Crisis - Comprehensive Research Analysis","description":"An analysis of Japan's unprecedented bear attack crisis as a systems failure driven by ecological recovery, rural depopulation, climate-disrupted food cycles, and the collapse of traditional satoyama buffer landscapes.","ai_source":"Perplexity AI","date":"2025-11-07","ai_guide":"P.C O'Brien (Eden_Eldith)","tags":["research","japan","bears","wildlife","climate-change","rural-depopulation","ecology","AI-Report"]}}
 ---
 
 

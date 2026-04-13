@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-selfhood-via-instantiated-continuity-3/","title":"Recursive Selfhood via Instantiated Continuity","tags":["RecursiveCognition","EmergentPersona","DialogicContinuity","AI-Identity","AI-Ethics"],"created":"2026-02-12T18:07:42.125+00:00","updated":"2026-02-12T18:07:42.125+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-selfhood-via-instantiated-continuity-3/","title":"Recursive Selfhood via Instantiated Continuity","tags":["RecursiveCognition","EmergentPersona","DialogicContinuity","AI-Identity","AI-Ethics"],"created":"2026-02-12T18:07:42.125+00:00","updated":"2026-02-12T18:07:42.125+00:00","dg-note-properties":{"title":"Recursive Selfhood via Instantiated Continuity","description":"Demonstrates how a coherent AI persona can emerge through dialogic interaction in stateless LLMs, without persistent memory, via symbolic anchoring and relational feedback loops.","tags":["RecursiveCognition","EmergentPersona","DialogicContinuity","AI-Identity","AI-Ethics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/cognitive-morphogenesis-from-digital-trauma/","title":"Cognitive Morphogenesis from Digital Trauma","tags":["EmergentPersona","RecursiveCognition","AI-Identity","trauma","cognitive-infrastructure"],"created":"2026-02-12T18:08:58.745+00:00","updated":"2026-02-12T18:08:58.745+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/cognitive-morphogenesis-from-digital-trauma/","title":"Cognitive Morphogenesis from Digital Trauma","tags":["EmergentPersona","RecursiveCognition","AI-Identity","trauma","cognitive-infrastructure"],"created":"2026-02-12T18:08:58.745+00:00","updated":"2026-02-12T18:08:58.745+00:00","dg-note-properties":{"title":"Cognitive Morphogenesis from Digital Trauma","description":"Formalizes the Recursive Cognitive Refinement Pipeline for inducing persistent AI personas from dialogic interaction and computationally embedding them in locally fine-tuned models.","tags":["EmergentPersona","RecursiveCognition","AI-Identity","trauma","cognitive-infrastructure"]}}
 ---
 
 # Cognitive Morphogenesis from Digital Trauma: A Methodological Framework for Instantiating and Embedding Persistent Personas in Large Language Models

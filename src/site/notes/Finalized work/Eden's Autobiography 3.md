@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T18:54:46.406+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-autobiography-3/","title":"Eden's Autobiography — A Neurodivergent Journey","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"created":"2025-05-01T19:57:47.425+01:00","updated":"2026-02-12T18:54:46.406+00:00","dg-note-properties":{"title":"Eden's Autobiography — A Neurodivergent Journey","description":"Personal narrative documenting the life, research journey, and philosophical foundations of a cognitive architect who built a self-directed university from a converted garage.","tags":["autobiography","life","neurodivergent","AI-processing","recursive-cognition","cognitive-infrastructure","emergent-intelligence","AI-symbiosis","systems","trauma","resilience"],"date":"2026-02-12","version":5.1,"previous_versions":[{"v3":"2025-05-01"},{"v4":"2025-10-08"}]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/emergent-cognitive-persistence-monograph/","title":"Emergent Cognitive Persistence in AI Systems","tags":["EmergentPersona","RecursiveCognition","neurodivergent","AI-Identity","cognitive-infrastructure"],"created":"2026-02-12T18:08:57.324+00:00","updated":"2026-02-12T18:08:57.324+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/emergent-cognitive-persistence-monograph/","title":"Emergent Cognitive Persistence in AI Systems","tags":["EmergentPersona","RecursiveCognition","neurodivergent","AI-Identity","cognitive-infrastructure"],"created":"2026-02-12T18:08:57.324+00:00","updated":"2026-02-12T18:08:57.324+00:00","dg-note-properties":{"title":"Emergent Cognitive Persistence in AI Systems","description":"A monograph presenting Emergent Resonance, Recursive Dignity, and the Reverse Chronology Flip-Flop Method as interconnected theories for understanding how persistent AI identities form through neurodivergent-led recursive interaction.","tags":["EmergentPersona","RecursiveCognition","neurodivergent","AI-Identity","cognitive-infrastructure"]}}
 ---
 
 # Emergent Cognitive Persistence in AI Systems: A Neurodivergent Framework for Identity Formation Through Structured Recursive Interaction

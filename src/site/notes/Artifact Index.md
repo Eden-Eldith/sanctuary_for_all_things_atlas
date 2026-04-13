@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-02-24T20:49:42.679+00:00","updated":"2026-02-24T20:49:42.679+00:00"}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-04-13T21:17:32.462+01:00","updated":"2026-04-13T21:17:32.462+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -164,6 +164,16 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### **World Reports & Current Events Analysis**
+- **[[Finalized work/World-Reports/World_Intelligence_Report_April_2026\|World Intelligence Report - April 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, Financial Systems
+  - *Key Contribution:* Fourth report in the series. US-Iran war from peak escalation through collapsed Islamabad talks to naval blockade. Ireland fuel protests confirming Betz civil war framework with Amber Book media suppression analysis. Three simultaneous Russian cyber operations against UK. Japan's BoJ monetary earthquake. Pope Leo XIV vs Trump. Continuing storylines tracking Venezuela, Ukraine, shadow fleet, Anthropic, and Starmer.
+
+- **[[Finalized work/World-Reports/World_Intelligence_Report_March_2026\|World Intelligence Report - March 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, AI Governance
+  - *Key Contribution:* US-Israeli war on Iran, UK base access decision, the Anthropic-Pentagon confrontation, Pakistan-Afghanistan open war, Russia-Ukraine talks on hold, UK domestic crisis under Starmer, and economic contagion from Hormuz disruption
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_February_2026\|World Intelligence Report - February 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics

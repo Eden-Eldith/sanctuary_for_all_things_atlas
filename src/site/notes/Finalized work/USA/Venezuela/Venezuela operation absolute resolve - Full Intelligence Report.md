@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:35:02.641+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve-full-intelligence-report/","title":"Operation Absolute Resolve — Full Intelligence Report","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:33:15.142+00:00","updated":"2026-01-05T20:35:02.641+00:00","dg-note-properties":{"title":"Operation Absolute Resolve — Full Intelligence Report","description":"Full documentation of the January 3, 2026 US military operation to capture Nicolás Maduro, including operation timeline, press conference transcripts, China diplomatic angle, legal architecture, and source analysis","date":"2026-01-03","updated":"2026-01-05","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"aliases":["Venezuela Invasion","Maduro Capture","Operation Absolute Resolve"]}}
 ---
 
 

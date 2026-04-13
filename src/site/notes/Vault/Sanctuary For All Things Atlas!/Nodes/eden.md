@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-02-12T18:08:41.484+00:00","updated":"2026-02-12T18:08:41.484+00:00"}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-02-12T18:08:41.484+00:00","updated":"2026-02-12T18:08:41.484+00:00","dg-note-properties":{"title":"Recursive Cognition","description":"A formal analysis of feedback loops and symbolic learning structures.","tags":["cognition","recursion","theory"]}}
 ---
 
 # Welcome to Eldith Cognitive Systems 🚀

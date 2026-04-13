@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-february-2026/","title":"World Intelligence Report — February 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","venezuela","russia","ukraine","uk-politics","arctic","shadow-fleet"],"created":"2026-02-13T11:11:05.371+00:00","updated":"2026-02-13T12:37:39.493+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-february-2026/","title":"World Intelligence Report — February 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","venezuela","russia","ukraine","uk-politics","arctic","shadow-fleet"],"created":"2026-02-13T11:11:05.371+00:00","updated":"2026-02-13T12:37:39.493+00:00","dg-note-properties":{"title":"World Intelligence Report — February 2026","description":"Consolidated intelligence briefing covering Iran's pivot from revolution to nuclear talks, Venezuela one month after Maduro, the Ukraine talking war, shadow fleet escalation, UK Arctic pivot, and the Mandelson-Epstein political crisis.","date":"2026-02-13","updated":"2026-02-13","tags":["world-monitor","osint","geopolitics","intelligence","iran","venezuela","russia","ukraine","uk-politics","arctic","shadow-fleet"],"aliases":["February 2026 Intelligence Report","World Monitor Consolidation"]}}
 ---
 
 

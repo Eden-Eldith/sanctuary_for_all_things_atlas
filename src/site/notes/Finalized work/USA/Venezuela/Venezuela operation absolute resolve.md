@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve/","title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:09:34.080+00:00","updated":"2026-01-05T08:18:29.235+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve/","title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:09:34.080+00:00","updated":"2026-01-05T08:18:29.235+00:00","dg-note-properties":{"title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","description":"Comprehensive documentation of the January 3, 2026 US military operation to capture Nicolás Maduro, including operation timeline, press conference transcripts, China diplomatic angle, legal architecture, and source analysis","date":"2026-01-03","updated":"2026-01-05","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"aliases":["Venezuela Invasion","Maduro Capture","Operation Absolute Resolve"]}}
 ---
 
 

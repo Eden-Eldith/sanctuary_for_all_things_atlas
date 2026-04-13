@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","title":"Process Tokenization of Identity","tags":["AI-Identity","LargeLanguageModels","CognitiveComputing","recursive-systems-thinking","Programming"],"created":"2026-02-12T18:09:06.310+00:00","updated":"2026-02-12T18:09:06.310+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/process-tokenization-of-identity/process-tokenization-of-identity/","title":"Process Tokenization of Identity","tags":["AI-Identity","LargeLanguageModels","CognitiveComputing","recursive-systems-thinking","Programming"],"created":"2026-02-12T18:09:06.310+00:00","updated":"2026-02-12T18:09:06.310+00:00","dg-note-properties":{"title":"Process Tokenization of Identity","description":"Introduces Eden's Process Tokenization (EPT) and FluxTokens as a proof-of-concept framework for logging and persisting the internal cognitive dynamics of transformer models across sessions.","tags":["AI-Identity","LargeLanguageModels","CognitiveComputing","recursive-systems-thinking","Programming"]}}
 ---
 
 # **Process-Tokenization of Identity: A Thermodynamic Framework for Persistent AI Cognition**

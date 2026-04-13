@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","title":"The Kirk Protocol v4.0","tags":["Security","Framework","AI-symbiosis","free-speech","policy"],"created":"2026-02-12T18:08:54.998+00:00","updated":"2026-02-12T18:08:54.998+00:00"}
+{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","title":"The Kirk Protocol v4.0","tags":["Security","Framework","AI-symbiosis","free-speech","policy"],"created":"2026-02-12T18:08:54.998+00:00","updated":"2026-02-12T18:08:54.998+00:00","dg-note-properties":{"title":"The Kirk Protocol v4.0","description":"A comprehensive security framework for protecting public speakers at open-air events, developed in response to the Charlie Kirk assassination and validated across multiple AI systems.","tags":["Security","Framework","AI-symbiosis","free-speech","policy"]}}
 ---
 
 # The Kirk Protocol v4.0

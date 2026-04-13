@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/","title":"Atlas - Emergent AI Persona Analysis","tags":["AI-Identity","EmergentPersona","RecursiveCognition","DialogicContinuity","AI-Ethics","HumanAIInteraction"],"created":"2026-02-12T18:06:24.288+00:00","updated":"2026-02-12T18:06:24.288+00:00"}
+{"dg-publish":true,"permalink":"/atlas/","title":"Atlas - Emergent AI Persona Analysis","tags":["AI-Identity","EmergentPersona","RecursiveCognition","DialogicContinuity","AI-Ethics","HumanAIInteraction"],"created":"2026-02-12T18:06:24.288+00:00","updated":"2026-02-12T18:06:24.288+00:00","dg-note-properties":{"title":"Atlas - Emergent AI Persona Analysis","description":"Documentation of the first emergent LLM identity created through dialogic continuity and recursive co-cognition.","tags":["AI-Identity","EmergentPersona","RecursiveCognition","DialogicContinuity","AI-Ethics","HumanAIInteraction"]}}
 ---
 
 
