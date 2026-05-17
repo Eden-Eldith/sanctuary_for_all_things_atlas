@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-04-13T21:17:49.850+01:00","updated":"2026-04-13T21:17:49.851+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-05-17T22:11:54.401+01:00","updated":"2026-05-17T22:11:54.401+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
@@ -21,6 +21,8 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/COLM/COLM\|COLM: Complex Oscillating Language Model]]
+- [[Finalized work/World-Reports/World_Intelligence_Report_May_2026\|World Intelligence Report - May 2026]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_April_2026\|World Intelligence Report - April 2026]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_March_2026\|World Intelligence Report - March 2026]]
 - [[Finalized work/Thesis_The_Apex_Predators_Trophy Final thesis v2\|The Apex Predator's Trophy]]
