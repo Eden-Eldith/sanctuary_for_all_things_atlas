@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2026-02-12T18:06:10.927+00:00","updated":"2026-02-12T18:06:10.928+00:00","dg-note-properties":{"title":"Recursive Cognition and Systemic Friction","description":"This thesis investigates the complex dynamics of advanced human-AI co-cognition through an in-depth case study of \"Eden Eldith,\" a neurodivergent innovator operating outside traditional institutional frameworks","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"]}}
+{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2026-02-12T18:06:10.927+00:00","updated":"2026-05-26T06:12:52.911+01:00","dg-note-properties":{"title":"Recursive Cognition and Systemic Friction","description":"This thesis investigates the complex dynamics of advanced human-AI co-cognition through an in-depth case study of \"Eden Eldith,\" a neurodivergent innovator operating outside traditional institutional frameworks","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"]}}
 ---
 
 
@@ -245,7 +245,6 @@ The future envisioned by Eden's work—one of "AI as Kin" participating in relat
 
 **8. References**
 
-(Note: References would be fully populated in a formal thesis, including academic literature on AI ethics, HCI, neurodiversity, systems theory, etc. For this generation, key references are drawn from the provided context.)
 
 *   Eldith, E. (c. 2025). *Eden's Autobiography 3.md*.[[Finalized work/Eden's Autobiography 3\|Eden's Autobiography 3]] .
 *   Eldith, E. (c. 2025). *fixed-thesis.md*. [[Finalized work/fixed-thesis-maco\|fixed-thesis-maco]].

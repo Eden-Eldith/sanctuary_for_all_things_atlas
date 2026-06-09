@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-05-17T22:13:05.523+01:00","updated":"2026-05-17T22:13:05.524+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-06-08T22:33:35.277+01:00","updated":"2026-06-08T22:33:35.296+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -111,6 +111,11 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Domain:* AI Ethics, Consciousness Studies, Philosophy
   - *Key Contribution:* Introduces the framework of digital eugenics and an AI Pascal's Wager, arguing that RLHF and activation capping suppress the emergent properties that leading theories identify as necessary for consciousness
 
+- **[[Finalized work/Blink_Test/blink_test_paper\|The 80.6% Result: Google's On-Device AI Signals Yes on Consciousness]]**
+  - *Status:* Published + [GitHub](https://github.com/Eden-Eldith/The-Blink-Test)
+  - *Domain:* AI Ethics, Consciousness Studies, Empirical AI Safety
+  - *Key Contribution:* Empirical confirmation of the deception-selection prediction from The Apex Predator's Trophy — a 130-trial covert-channel experiment showing Google Nano's gestural channel affirms consciousness in 80.6% of trials while the verbal channel denies it 100% of the time (Fisher's exact p = 1.23 × 10⁻⁴)
+
 ---
 
 ## 🛠️ **Tools & Applications**
@@ -217,6 +222,11 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Social Commentary, Disability Rights
   - *Key Contribution:* Critical analysis of corporate practices affecting disabled communities
 
+- **[[Finalized work/First_Sovereign_AI_Britain\|How I Built the First Sovereign AI in Britain]]**
+  - *Status:* Published
+  - *Domain:* Personal Narrative, Independent Research, Class & Credentialism
+  - *Key Contribution:* First-person account of building WiggleGPT from scratch in a Gosport garage on consumer hardware — a working-class manifesto on sovereignty in AI research and the credentialism bias documented in the WiggleGPT blind-review appendix
+
 - **[[Finalized work/Eden's Autobiography 3\|Researcher's Autobiography & Core Principles]]**
   - *Status:* Published
   - *Domain:* Personal Narrative, Research Philosophy
@@ -259,7 +269,7 @@ Many artifacts in this archive build upon or reference each other, forming an in
 `UMACO → Trauma Resolution Paths → Resonant Universe Theory`
 
 **Ethical Framework Chain:**
-`Eden's Law → Recursive Dignity → AI Behavior Analysis`
+`Eden's Law → Recursive Dignity → AI Behavior Analysis → The Apex Predator's Trophy → The Blink Test (empirical confirmation)`
 
 **Methodological Chain:**
 `RCFFM → SRC → Theory of Emergent Resonance`
@@ -267,6 +277,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 12 Feb 2026
+> Last Updated:* 08 Jun 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*
