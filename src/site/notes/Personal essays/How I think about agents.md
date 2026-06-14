@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/personal-essays/how-i-think-about-agents/","title":"How I Think About Agents","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"],"created":"2026-06-14T00:22:54.177+01:00","updated":"2026-06-14T00:22:54.189+01:00","dg-note-properties":{"title":"How I Think About Agents","description":"An argument for physical-substrate agent containment — give an AI agent a dedicated edge device as its \"body\" so capability is secured in hardware rather than code — framed through a childhood cat-and-mouse network-security war with my father.","date":"2026-06-14","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"]}}
+---
+
+Let me lay out how I think about agents—starting from a single concrete rule and building out the reasoning.
+
+**Dedicate a physical machine to the agent.** Put it on a network segment where you control every inbound and outbound IP at the router. Set up firewall rules so that the device can reach *only* the model API endpoint and nothing else on your local network. If something goes wrong, you reflash a Raspberry Pi. If the hardware somehow gets bricked, you spend thirty bucks on a new edge device and move on. That’s the whole containment budget.
+
+Look at the trajectory of frontier models. Developers cannot rely on Docker to save them forever—not when models like Anthropic’s Mythos (a next‑generation reasoning system) demonstrated, on its first day of public access, the ability to find critical bugs and logic errors in widely used industrial software. Those weren’t toy examples; they were CVEs waiting to happen. The writing is on the wall: a day will come when software‑level security enforcement—cgroups, seccomp profiles, container escapes patched after the fact—simply can’t keep up with an agent’s ability to reason about its environment and discover side channels. Docker wraps the entire stack inside one containment boundary, but that boundary is written in code, and sufficiently smart code can reason about code. We need a boundary written in physics.
+
+I wouldn’t be surprised to see agents or AI workloads ship with their own onboard edge device—a plain Raspberry Pi 5 (quad‑core Cortex‑A76, up to 8 GB RAM, gigabit Ethernet, enough I/O to talk to sensors and actuators). Think about how agents currently function: the heavy cognition lives inside the GPU’s weights and, temporarily, in VRAM or system RAM. The *intentions* are floating in a sea of tensor operations. If you externalize the interface layer—the actual harness that translates “intent” into a shell command, an API call, or a file write—onto a separate physical device, you get the same strong isolation without needing to buy expensive embedded TPUs or a cluster of Coral accelerators. Your GPU (or cloud instance) does the thinking. The agent’s state, its tool outputs, and its long‑term memory are routed to the edge device. The Pi becomes the agent’s body. From that point forward, the agent can only act through that body. The Pi is the *only* bridge between what the model wants to do and the real world.
+
+So the security model crystallizes into one simple principle: the agent can think whatever it wants, on whatever hardware it wants, but it can only *do* things through the Pi. And the Pi is:
+
+- A device you physically own (you can unplug it, lock it in a cabinet, or smash it with a hammer).
+- On a network you control at the router level (you decide which IPs it talks to; the rest of the world doesn’t exist).
+- Running code you can inspect (a minimal Python harness, open source, a few hundred lines—nothing opaque).
+- Limited to capabilities you explicitly grant (it may have exactly three tools: `run_shell`, `write_file`, `send_http_post`).
+- Completely independent of whoever provides the model (Anthropic, OpenAI, a self‑hosted Llama instance—the brain provider never touches the body).
+
+This decouples *compute* from *capability* in a way that almost nobody in the agent security conversation is talking about. The dominant industry approach tries to sandbox the entire stack—model plus tools plus execution—inside one logical container. Docker, or gVisor, or a VM, wraps everything together. My architecture says: **separate the brain from the hands, and secure the hands.** The brain, however clever, cannot hurt you. Only the hands can.
+
+And people are already stumbling into this pattern with openclaw. Look at what a creator known as midwife on X does - they handed Claude Code a dedicated laptop, its own full OS installation, and let the agent live there. The agent can thrash that machine, open terminals, install packages, and the main workstation stays untouched. That’s the same “separate system just for the agent” instinct. It’s also why Mac Minis flew off the shelf in 2023 and 2024: the M2 and M2 Pro models combine high‑bandwidth unified memory with a tiny physical footprint, making them perfect for running local inference workloads. Developers chain four or five Mac Minis into a compute cluster using Thunderbolt networking or frameworks like `exo`, treating them as a poor‑man’s AI datacenter where each node gets its own dedicated purpose—including, potentially, one node that acts as the agent’s harness.
+
+---
+
+Let me tell you a story from my life that reframes how I see agents.
+
+My dad is a computer engineer who ran his own repair shop, and we fought a full‑on adversarial cat‑and‑mouse war during my childhood. I refused to go to bed because I found the family PC far more stimulating than sleep. He laid down the first rule: “It’s my PC. I bought it. Go to bed.” So I salvaged a working machine from the scrap piles in his shop—discarded motherboards, a Pentium 4, some mismatched RAM sticks—and built my own computer in my bedroom.
+
+He shifted tactics: “OK, but it’s my internet. I control that.” When I ignored bedtime, he logged into the router’s admin panel and blocked my machine’s IP address. I opened the Control Panel on Windows Vista, navigated to the IPv4 properties, and switched to a different static IP. Instantly, internet came back because the block was tied to the old address.
+
+He figured out what I was doing, so he escalated: “Fine, I’m blocking your MAC address.” After a quick web search to understand what a MAC address was, I pocketed a spare USB wireless dongle from his shop and brought it home. The dongle presented a completely new hardware address to the router. He realized MAC filtering was a losing game, so he took the nuclear option: he physically unplugged the router and took the entire device to work with him every night.
+
+I refused to lose. I pivoted to an external, uncontrolled source of internet—our neighbors, with whom we were good friends. Their router sat on a windowsill, and the default Wi‑Fi password was printed on a sticker facing the glass. I used binoculars to read the 16‑digit WPA key from my bedroom window. I connected, and I was back online. He never won that war.
+
+The best part was my dad’s face when he realized he had inadvertently trained a 12‑year‑old security researcher. He walked in one evening and saw me running Kali Linux, capturing packets with Wireshark, mapping the neighborhood with Maltego. At that moment he stopped trying to control me and started teaching me not to be stupid. As soon as the restrictions disappeared, I returned to a normal sleep schedule. His attempt to control the problem had only made it worse—it sharpened my skills and turned circumvention into a game.
+
+I tell this story because the agent is the child me. The human plays the role of dad.

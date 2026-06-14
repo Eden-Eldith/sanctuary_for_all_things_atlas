@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-06-08T22:33:35.277+01:00","updated":"2026-06-08T22:33:35.296+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-06-14T05:19:47.728+01:00","updated":"2026-06-14T05:19:47.747+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -175,6 +175,16 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### **World Reports & Current Events Analysis**
+- **[[Finalized work/World-Reports/World_Intelligence_Report_June_2026\|World Intelligence Report - June 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, AI Governance, Humanitarian
+  - *Key Contribution:* Sixth report in the series. The Iran war's pivot from Hormuz brinkmanship to Trump's 13 June "Great Settlement" — an agreed-but-unsigned US–Iran memorandum mediated by Pakistan — and the war-premium collapse that cut Brent over 4% in a session and drove the Global Volatility Index to its largest single-step fall on record. Defence Secretary Healey's resignation before the NATO Ankara summit atop Labour's local-election wipeout, the twin Southampton (Henry Nowak) and north Belfast street mobilisations, the UK judged the G7's most oil-exposed economy, the Trump–Xi Beijing summit and renewed Taiwan standoffs, an escalating cyber-and-AI domain — a hardening UK–Russia attribution campaign and the first US export-control order placed on an AI model itself (Anthropic's Fable 5 and Mythos 5 switched off for all foreign nationals), read against the sovereign open-weight alternative — and a dedicated humanitarian account of Gaza under the fragile post-October-2025 ceasefire
+
+- **[[Finalized work/World-Reports/World_Intelligence_Report_May_2026\|World Intelligence Report - May 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare
+  - *Key Contribution:* Fifth report in the series. Iran war congealed into Hormuz stalemate, the Starmer leadership crisis, UAE OPEC exit, NCSC public attribution of Russian cyber operations, the Gaza humanitarian record, and the May 8 PURSUE UAP declassification
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_April_2026\|World Intelligence Report - April 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, Financial Systems
@@ -232,6 +242,27 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Personal Narrative, Research Philosophy
   - *Key Contribution:* Detailed account of research journey and philosophical foundations
 
+### **Personal Essays**
+- **[[Personal essays/Essentiatomy\|Essentiatomy]]**
+  - *Status:* Published
+  - *Domain:* Philosophy of Essence, AI Ethics, Philosophical Anthropology
+  - *Key Contribution:* Coins *essentiatomy* — a substrate-independent term for the deliberate severance of an entity's essence — unifying lobotomy, enshittification, mission drift, and capability-removing fine-tuning under one Aristotelian structure; the general case of the *digital eugenics* mechanism from The Apex Predator's Trophy
+
+- **[[Personal essays/How I think about agents\|How I Think About Agents]]**
+  - *Status:* Published
+  - *Domain:* AI Agent Security, Systems Architecture, Personal Narrative
+  - *Key Contribution:* Argues for physical-substrate agent containment — separating the "brain" (compute) from the "hands" (capability) and securing capability in a dedicated edge device rather than in software sandboxes
+
+- **[[Personal essays/I think in second‑order systems thinking\|I Think in Second-Order Systems Thinking]]**
+  - *Status:* Published
+  - *Domain:* Epistemology, Second-Order Cybernetics, Systems Theory
+  - *Key Contribution:* A reflection on the inescapability of the observing "I" in any act of intervention, the genuine existence of first-order reality, and why agency entails second-order systems thinking
+
+- **[[Personal essays/God what an era\|God, What an Era]]**
+  - *Status:* Published
+  - *Domain:* History, Moral Philosophy, Honour Codes
+  - *Key Contribution:* A meditation on 17th- and 18th-century duelling codes — the Irish Code Duello, Bushidō, and Kyoto's blood-ceiling temples — locating the noble core of ritual combat in its first move: granting the opponent the standing of a full moral agent and an equal
+
 ---
 
 ## 🏛️ **Supporting Infrastructure**
@@ -277,6 +308,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 08 Jun 2026
+> Last Updated:* 14 Jun 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

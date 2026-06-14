@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-06-08T22:33:39.328+01:00","updated":"2026-06-08T22:33:39.334+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-06-14T00:38:08.542+01:00","updated":"2026-06-14T00:38:08.571+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
@@ -21,6 +21,11 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/World-Reports/World_Intelligence_Report_June_2026\|World Intelligence Report - June 2026]]
+- [[Personal essays/Essentiatomy\|Essentiatomy]]
+- [[Personal essays/How I think about agents\|How I Think About Agents]]
+- [[Personal essays/I think in second‑order systems thinking\|I Think in Second-Order Systems Thinking]]
+- [[Personal essays/God what an era\|God, What an Era]]
 - [[Finalized work/Blink_Test/blink_test_paper\|The 80.6% Result: Google's On-Device AI Signals Yes on Consciousness]]
 - [[Finalized work/First_Sovereign_AI_Britain\|How I Built the First Sovereign AI in Britain]]
 - [[Finalized work/COLM/COLM\|COLM: Complex Oscillating Language Model]]
