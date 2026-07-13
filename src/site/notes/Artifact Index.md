@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-06-14T05:19:47.728+01:00","updated":"2026-06-14T05:19:47.747+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-07-13T22:49:34.594+01:00","updated":"2026-07-13T22:49:34.595+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -175,6 +175,11 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### **World Reports & Current Events Analysis**
+- **[[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|World Intelligence Report - July 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, Humanitarian, Terrorism
+  - *Key Contribution:* Seventh report in the series. The collapse of the US–Iran "Great Settlement" into renewed Hormuz strikes, tankers going dark, and Iran striking five Gulf states. Starmer's resignation and the Burnham succession. Russia's deadliest single strike on Kyiv (74 missiles, 496 drones, 31+ dead). England's warmest June on record — 2,700 heat deaths, wildfires, and the Widdecombe counter-terror investigation. The 2.68% GDP defence reboot and NATO Ankara summit. The terrorism sub-index exceeding predicted bounds for the first time. Gaza under the ceasefire the deal left out
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_June_2026\|World Intelligence Report - June 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, AI Governance, Humanitarian
@@ -308,6 +313,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 14 Jun 2026
+> Last Updated:* 13 Jul 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

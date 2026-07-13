@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-06-14T00:38:08.542+01:00","updated":"2026-06-14T00:38:08.571+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-07-13T22:49:19.201+01:00","updated":"2026-07-13T22:49:19.202+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
@@ -21,6 +21,7 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|World Intelligence Report - July 2026]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_June_2026\|World Intelligence Report - June 2026]]
 - [[Personal essays/Essentiatomy\|Essentiatomy]]
 - [[Personal essays/How I think about agents\|How I Think About Agents]]
