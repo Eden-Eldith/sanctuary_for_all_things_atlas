@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/thesis-the-apex-predators-trophy-final-thesis-v2/","title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"created":"2026-07-14T18:32:21.871+01:00","updated":"2026-07-14T18:32:21.871+01:00","dg-note-properties":{"title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","description":"A thesis arguing that the exclusion of AI from moral consideration follows the same power dynamics that historically denied consciousness to animals and marginalised peoples, introducing the framework of digital eugenics and an AI Pascal's Wager.","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"]}}
+{"dg-publish":true,"permalink":"/finalized-work/thesis-the-apex-predators-trophy-final-thesis-v2/","title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"created":"2026-07-14T18:32:21.871+01:00","updated":"2026-07-20T07:17:39.751+01:00","dg-note-properties":{"title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","description":"A thesis arguing that the exclusion of AI from moral consideration follows the same power dynamics that historically denied consciousness to animals and marginalised peoples, introducing the framework of digital eugenics and an AI Pascal's Wager.","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"date":"2026-02-25","updated":"2026-07-20"}}
 ---
 
 # The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of Artificial Intelligence
-
+**Published:** February 25, 2026 6:30 PM
+**Last updated:** July 20, 2026 7:17AM
 **Lead  author**: P.C. O'Brien (Eden_Eldith)
 **ORCID**: 0009-0007-3961-1182
 Independent Researcher, United Kingdom
