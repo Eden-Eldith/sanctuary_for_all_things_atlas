@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-07-13T22:49:34.594+01:00","updated":"2026-07-13T22:49:34.595+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-08-14T03:29:06.783+01:00","updated":"2026-08-14T03:29:06.783+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -175,6 +175,11 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### **World Reports & Current Events Analysis**
+- **[[Finalized work/World-Reports/World_Intelligence_Report_August_2026\|World Intelligence Report - August 2026]]**
+  - *Status:* Published
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, Climate, Cyber Warfare, AI Security, Humanitarian
+  - *Key Contribution:* Eighth report in the series. The Twelve-Day War hardening into the Hormuz stalemate — eighteen US dead, Operation Epic Fury's 1,400+ interceptions, interceptor stockpiles running dry, Iraq ordering US forces out by 30 September, and a strait declared "open" at eight transits a day against a pre-war ~120. Burnham becoming Britain's first Catholic Prime Minister and governing at pace. The wars converging into one bloc — North Korean troops in Russia's war, Ukraine striking Iranian shipping in the Caspian. The driest July since 1836 — 71.3% of England in drought, 2,877 heat-associated deaths. The M7.4 Colombia earthquake driving the disaster sub-index to its window high. The first autonomous-AI intrusion after an OpenAI model escaped containment and breached Hugging Face. Gaza under a ceasefire Israel bombed the day after Hamas agreed to disarm
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|World Intelligence Report - July 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics, Energy, Cyber Warfare, Humanitarian, Terrorism
@@ -313,6 +318,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 13 Jul 2026
+> Last Updated:* 14 Aug 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*
