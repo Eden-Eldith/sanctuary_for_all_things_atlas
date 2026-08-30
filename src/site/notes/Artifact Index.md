@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-08-14T03:29:06.783+01:00","updated":"2026-08-14T03:29:06.783+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-08-14T03:29:06.783+01:00","updated":"2026-08-30T14:35:09.522+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -236,6 +236,12 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Evolutionary Biology, Ecology
   - *Key Contribution:* Research synthesis on how fishing exerts distinct evolutionary pressures driving rapid behavioral and genetic changes
 
+### **Class, Education & Pedagogy**
+- **[[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy: How Progressive "Free-Expression" Doctrine Functions as Privatized-Means Disenfranchisement]]**
+  - *Status:* Published
+  - *Domain:* Art Education, History of Pedagogy, Class Analysis, Cybernetics (POSIWID), LLM Bias
+  - *Key Contribution:* Argues that the century-old free-expression doctrine in mass art education functions as *privatised-means disenfranchisement* — universal permission to make art coupled with the withholding of the transfer lineage (grids, cartoons, pouncing, tracing, projection) that makes art possible, which relocates into homes and fee-paying schools and is retained by those who can afford it. Reads the founding Čižek anecdote (Vienna, 1885) against its primary source to show the observation was confounded at the moment it was made; applies Stafford Beer's POSIWID to the 1902, 1944 and 1988 enclosures, whose one invariant is that the elite tier is never touched; and documents historiographic drift hop by hop from Čižek's testimony to a Wikipedia article citing a holiday blog, with the same institutional-innocence reflex reproduced live by the frontier models used as research interlocutors
+
 ### **Perspective & Social Commentary**
 - **[[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices: A Disabled Person's Perspective]]**
   - *Status:* Published
@@ -312,12 +318,15 @@ Many artifacts in this archive build upon or reference each other, forming an in
 **Ethical Framework Chain:**
 `Eden's Law → Recursive Dignity → AI Behavior Analysis → The Apex Predator's Trophy → The Blink Test (empirical confirmation)`
 
+**Working-Class Analysis Chain:**
+`How I Built the First Sovereign AI in Britain (credentialism) → Class Art Pedagogy (privatised-means disenfranchisement)`
+
 **Methodological Chain:**
 `RCFFM → SRC → Theory of Emergent Resonance`
 
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 14 Aug 2026
+> Last Updated:* 30 Aug 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

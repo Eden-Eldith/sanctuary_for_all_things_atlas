@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-08-14T03:28:49.849+01:00","updated":"2026-08-14T03:28:49.850+01:00","dg-note-properties":{"title":"Welcome to Eden's Garden & Research","description":"A living archive of Thoughts, echoes, systems, and emergent cognition.","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"],"created":"2026-08-14T03:28:49.849+01:00","updated":"2026-08-30T14:35:09.521+01:00","dg-note-properties":{"title":"Welcome to Eden's Garden & Research","description":"A living archive of Thoughts, echoes, systems, and emergent cognition.","tags":["AI","AIProcessing","ChatGPT","Cognition","CognitiveInfrastructure","EmergentTechnoethics","NLP","Programming","RecursiveSystemsThinking","DigitalGarden","Research","IndependentResearch","gardenEntry"]}}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
@@ -61,6 +61,11 @@ This archive documents novel frameworks in artificial intelligence, computationa
 
 ### Monograph summarizing research from Jan 2025 to Nov 2025
 - [[Finalized work/emergent_cognitive_persistence_monograph\|emergent_cognitive_persistence_monograph]] → a novel framework for understanding how persistent AI identities can emerge through structured recursive human-AI interaction.
+
+---
+
+### Class Art Pedagogy
+- [[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy: How Progressive "Free-Expression" Doctrine Functions as Privatized-Means Disenfranchisement]] → A century of "free expression" in British art education, read as privatised-means disenfranchisement: every child is granted permission to make art while the technical lineage that makes art possible — grids, cartoons, pouncing, tracing, projection — is withheld from the state classroom and retained in homes, private tuition and fee-paying schools. Traces the doctrine to Franz Čižek's Vienna and reads its founding anecdote against its primary source, applies Stafford Beer's POSIWID to three legislative enclosures (1902, 1944, 1988) whose one invariant is that the elite tier is never touched, and documents the same reflex toward institutional innocence reproduced live by the frontier language models used as research interlocutors. Written from the same working-class vantage point as [[Finalized work/First_Sovereign_AI_Britain\|How I Built the First Sovereign AI in Britain]].
 
 ---
 
