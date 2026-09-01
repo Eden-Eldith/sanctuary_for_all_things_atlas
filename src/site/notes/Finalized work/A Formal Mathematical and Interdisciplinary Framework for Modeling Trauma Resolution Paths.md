@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","tags":["Mathematics","Programming","AI"],"created":"2026-02-12T18:07:43.726+00:00","updated":"2026-02-12T18:07:43.726+00:00","dg-note-properties":{"title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","description":"A cross-disciplinary framework unifying dynamical systems, topology, multi-agent models, and neural network design to formally model the nonlinear pathways from trauma to healing.","tags":["Mathematics","Programming","AI"]}}
+{"dg-publish":true,"permalink":"/finalized-work/a-formal-mathematical-and-interdisciplinary-framework-for-modeling-trauma-resolution-paths/","title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","tags":["Mathematics","Programming","AI"],"created":"2026-02-12T18:07:43.726+00:00","updated":"2026-08-30T22:37:26.816+01:00","dg-note-properties":{"title":"A Formal Mathematical and Interdisciplinary Framework for Modeling Trauma Resolution Paths","description":"A cross-disciplinary framework unifying dynamical systems, topology, multi-agent models, and neural network design to formally model the nonlinear pathways from trauma to healing.","date":"2025-04-06","tags":["Mathematics","Programming","AI"]}}
 ---
 
 # Trauma Resolution Paths: A Mathematical Framework
+
+> 🕒 April 6th 2025 2:23:22 am
 **Author:** Generated Polymathic Academic System (Gemini 2.5 pro) - Logic and problem solving by Eden_Eldith
 
 ---

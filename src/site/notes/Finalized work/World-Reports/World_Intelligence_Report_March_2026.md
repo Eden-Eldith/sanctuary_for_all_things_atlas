@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-04-13T22:39:55.930+01:00","dg-note-properties":{"title":"World Intelligence Report — March 2026","description":"Consolidated intelligence briefing covering the US-Israeli war on Iran, UK base access decision and growing involvement, the Anthropic-Pentagon confrontation, Pakistan-Afghanistan open war, Russia-Ukraine talks on hold, UK domestic crisis under Starmer, and the economic contagion from Hormuz disruption.","date":"2026-03-13","updated":"2026-03-14","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"aliases":["March 2026 Intelligence Report","World Monitor Consolidation"]}}
+{"dg-publish":true,"permalink":"/finalized-work/world-reports/world-intelligence-report-march-2026/","title":"World Intelligence Report — March 2026","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"created":"2026-03-14T01:07:31.064+00:00","updated":"2026-08-30T22:37:26.864+01:00","dg-note-properties":{"title":"World Intelligence Report — March 2026","description":"Consolidated intelligence briefing covering the US-Israeli war on Iran, UK base access decision and growing involvement, the Anthropic-Pentagon confrontation, Pakistan-Afghanistan open war, Russia-Ukraine talks on hold, UK domestic crisis under Starmer, and the economic contagion from Hormuz disruption.","date":"2026-03-13","updated":"2026-03-14","tags":["world-monitor","osint","geopolitics","intelligence","iran","israel","uk-politics","anthropic","pakistan","russia","ukraine","oil","arctic","shadow-fleet"],"aliases":["March 2026 Intelligence Report","World Monitor Consolidation"]}}
 ---
 
 
 # World Intelligence Report — March 2026
+
+> 🕒 March 15th 2026 12:25:22 am
 
 **Compiled by:** Eden Eldith & Claude (Anthropic)
 **Coverage Period:** February 13, 2026 — March 14, 2026

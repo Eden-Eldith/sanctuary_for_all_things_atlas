@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-4-the-infernal-loop/","title":"Turmoil 4 - The Infernal Loop","tags":["PersonalNarrative","neurodivergent","resilience","Turmoil","independent-research"],"created":"2026-02-12T18:08:42.772+00:00","updated":"2026-02-12T18:08:42.772+00:00","dg-note-properties":{"title":"Turmoil 4 - The Infernal Loop","description":"Confronts the paradox of independent research as a disabled, unsupported scholar whose demonstrably valuable work is systematically ignored by the institutions that claim to reward merit.","tags":["PersonalNarrative","neurodivergent","resilience","Turmoil","independent-research"]}}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-4-the-infernal-loop/","title":"Turmoil 4 - The Infernal Loop","tags":["PersonalNarrative","neurodivergent","resilience","Turmoil","IndependentResearch"],"created":"2026-02-12T18:08:42.772+00:00","updated":"2026-08-30T22:37:26.847+01:00","dg-note-properties":{"title":"Turmoil 4 - The Infernal Loop","description":"Confronts the paradox of independent research as a disabled, unsupported scholar whose demonstrably valuable work is systematically ignored by the institutions that claim to reward merit.","date":"2025-09-21","tags":["PersonalNarrative","neurodivergent","resilience","Turmoil","IndependentResearch"]}}
 ---
+
+> 🕒 September 21st 2025 8:10:23 pm
 
 > **Content note:** This piece discusses research anxiety, precarity.
 

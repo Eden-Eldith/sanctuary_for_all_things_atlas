@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-08-14T03:29:08.336+01:00","updated":"2026-08-30T14:35:09.523+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-09-01T08:19:56.774+01:00","updated":"2026-09-01T08:19:56.774+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","date":"2025-04-17","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
 # 🌱 Patronage Log
+
+> 🕒 April 17th 2025 5:31:43 am
 
 **Supporting Independent Research in AI, Cognition & Mathematical Systems**
 
@@ -21,6 +23,16 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]]
+- [[Personal essays/Mesa Humanism\|Mesa Humanism]]
+- [[Personal essays/J.K. Rowling Skinwalker Controversy\|The J.K. Rowling Skinwalker Controversy]]
+- [[Personal essays/Information Energy and the Nature of c squared\|Information, Energy, and the Nature of c²]]
+- [[Personal essays/The Holodeck and the Clone\|The Holodeck and the Clone]]
+- [[Poems & Creative Writing/THE GOLDEN REPEATER\|The Golden Repeater]]
+- [[Poems & Creative Writing/Why are the British\|Why are the British]]
+- [[Poems & Creative Writing/Death is life and life is death\|Death is life, and life is death]]
+- [[Poems & Creative Writing/Remain divided  Remain conquered\|Remain divided - Remain conquered]]
+- [[Poems & Creative Writing/In one hand lies a bowl labelled Take\|In one hand lies a bowl labelled Take]]
 - [[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_August_2026\|World Intelligence Report - August 2026]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|World Intelligence Report - July 2026]]

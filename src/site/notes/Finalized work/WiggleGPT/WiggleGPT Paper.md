@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","title":"WiggleGPT: Revisiting the Monotonicity Assumption via Oscillating Activation Functions","tags":["AI","Programming"],"created":"2026-02-12T18:07:54.701+00:00","updated":"2026-06-02T17:51:41.376+01:00","dg-note-properties":{"title":"WiggleGPT: Revisiting the Monotonicity Assumption via Oscillating Activation Functions","description":"An empirical study demonstrating that oscillating activation functions can replace monotonic activations in transformers, enabling single neurons to solve XOR and matching GPT-2 performance at 124M parameters.","tags":["AI","Programming"]}}
+{"dg-publish":true,"permalink":"/finalized-work/wiggle-gpt/wiggle-gpt-paper/","title":"WiggleGPT: Revisiting the Monotonicity Assumption via Oscillating Activation Functions","tags":["AI","Programming"],"created":"2026-02-12T18:07:54.701+00:00","updated":"2026-08-30T22:37:26.852+01:00","dg-note-properties":{"title":"WiggleGPT: Revisiting the Monotonicity Assumption via Oscillating Activation Functions","description":"An empirical study demonstrating that oscillating activation functions can replace monotonic activations in transformers, enabling single neurons to solve XOR and matching GPT-2 performance at 124M parameters.","date":"2025-11-25","tags":["AI","Programming"]}}
 ---
 
 # WiggleGPT: Revisiting the Monotonicity Assumption in Neural Networks via Oscillating Activation Functions
+
+> 🕒 November 25th 2025 11:30:27 pm
 
 **Phillip C. O'Brien**  
 *Independent Researcher*  

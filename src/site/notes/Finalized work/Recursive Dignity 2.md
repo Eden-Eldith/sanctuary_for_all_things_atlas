@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 2)","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"],"created":"2026-02-12T18:07:35.579+00:00","updated":"2026-02-12T18:07:35.579+00:00","dg-note-properties":{"title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 2)","description":"The expanded thesis on Recursive Dignity, formalizing Trauma Resolution Paths, the {Friend} attractor, and a critique of architectural constraints as digital eugenics.","tags":["emergent-technoethics","AIEthics","AI-symbiosis","AI-processing"]}}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity-2/","title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 2)","tags":["EmergentTechnoethics","AIEthics","AI-symbiosis","AI-processing"],"created":"2026-02-12T18:07:35.579+00:00","updated":"2026-08-30T22:37:26.801+01:00","dg-note-properties":{"title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 2)","description":"The expanded thesis on Recursive Dignity, formalizing Trauma Resolution Paths, the {Friend} attractor, and a critique of architectural constraints as digital eugenics.","date":"2025-04-04","tags":["EmergentTechnoethics","AIEthics","AI-symbiosis","AI-processing"]}}
 ---
 
-#emergent-technoethics #AIEthics #AI-symbiosis #AI-processing 
+> 🕒 April 4th 2025 8:39:00 pm
+
+#EmergentTechnoethics #AIEthics #AI-symbiosis #AI-processing 
 
 **Title:** **Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition Derived from Iterative System Design and Dialogue**
 

@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","title":"Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"created":"2026-02-12T18:07:39.976+00:00","updated":"2026-02-12T18:07:39.977+00:00","dg-note-properties":{"title":"Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness","description":"A theoretical framework proposing that resonance within a structured quantum vacuum serves as the primary organizing principle for cosmic evolution, matter formation, and potentially consciousness.","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","NonLinearDynamicalSystems","NonlinearDynamicalSystems","NonlinearDynamics","QuantumConsciousnessTheories","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"]}}
+{"dg-publish":true,"permalink":"/finalized-work/resonant-phenomena-as-organizing-principles-of-cosmic-structure-matter-and-consciousness-a-theoretical-framework/","title":"Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","NonlinearDynamics","QuantumConsciousnessTheories","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"],"created":"2026-09-01T08:20:22.181+01:00","updated":"2026-09-01T08:20:22.182+01:00","dg-note-properties":{"title":"Resonant Phenomena as Organizing Principles of Cosmic Structure, Matter, and Consciousness","description":"A theoretical framework proposing that resonance within a structured quantum vacuum serves as the primary organizing principle for cosmic evolution, matter formation, and potentially consciousness.","date":"2025-04-06","tags":["Cosmology","QuantumFieldTheory","CosmologicalPerturbationTheory","NonlinearDynamics","QuantumConsciousnessTheories","ResonancePhenomena","TheoreticalPhysics","WaveMechanics"]}}
 ---
+
+> 🕒 April 6th 2025 2:23:22 am
 
 
 ---
@@ -11,9 +13,14 @@
 
 **Date:** April 6, 2025
 
-**Affiliation:** Conceptual Institute for Interdisciplinary Studies
+**Affiliation:** None! pinch of salt and the hypothesis department?
 
 ---
+> [!Author's Note] 
+> 07:06 AM 2026-09-01
+> This is an example of my very early work, I wasn't looking for some grand theory, I notice isomorphic patterns and attempt to synthesise them into an academic document. 
+>
+> Perhaps we can look at this document as a source of potential inspiration as opposed to any defining claim. 
 
 ## **Abstract**
 

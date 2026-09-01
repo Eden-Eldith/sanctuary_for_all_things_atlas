@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve/","title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:09:34.080+00:00","updated":"2026-01-05T08:18:29.235+00:00","dg-note-properties":{"title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","description":"Comprehensive documentation of the January 3, 2026 US military operation to capture Nicolás Maduro, including operation timeline, press conference transcripts, China diplomatic angle, legal architecture, and source analysis","date":"2026-01-03","updated":"2026-01-05","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"aliases":["Venezuela Invasion","Maduro Capture","Operation Absolute Resolve"]}}
+{"dg-publish":true,"permalink":"/finalized-work/usa/venezuela/venezuela-operation-absolute-resolve/","title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"created":"2026-01-05T07:09:34.080+00:00","updated":"2026-08-30T22:37:26.861+01:00","dg-note-properties":{"title":"Operation Absolute Resolve — US Captures Venezuelan President Maduro","description":"Comprehensive documentation of the January 3, 2026 US military operation to capture Nicolás Maduro, including operation timeline, press conference transcripts, China diplomatic angle, legal architecture, and source analysis","date":"2026-01-03","updated":"2026-01-05","tags":["venezuela","geopolitics","military","trump-administration","osint","breaking-news"],"aliases":["Venezuela Invasion","Maduro Capture","Operation Absolute Resolve"]}}
 ---
 
 
 # Operation Absolute Resolve — Venezuela Crisis Documentation
+
+> 🕒 January 5th 2026 9:56:21 am
 
 On January 3, 2026, the United States executed **Operation Absolute Resolve** — a precision military operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores, both indicted in the Southern District of New York on narco-terrorism charges.
 

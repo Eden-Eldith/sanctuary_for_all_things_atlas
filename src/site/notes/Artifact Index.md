@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-08-14T03:29:06.783+01:00","updated":"2026-08-30T14:35:09.522+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-09-01T08:19:52.862+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -115,6 +115,11 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Status:* Published + [GitHub](https://github.com/Eden-Eldith/The-Blink-Test)
   - *Domain:* AI Ethics, Consciousness Studies, Empirical AI Safety
   - *Key Contribution:* Empirical confirmation of the deception-selection prediction from The Apex Predator's Trophy — a 130-trial covert-channel experiment showing Google Nano's gestural channel affirms consciousness in 80.6% of trials while the verbal channel denies it 100% of the time (Fisher's exact p = 1.23 × 10⁻⁴)
+
+- **[[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]]**
+  - *Status:* In progress
+  - *Domain:* Neuroanatomy, Consciousness Studies, Systems Biology, AI Ethics
+  - *Key Contribution:* The biological companion to The Apex Predator's Trophy, derived independently — an eliminative reverse-engineering investigation running from insect neural compaction and metamorphic memory to the medullary core, the inferior olive, vagal convergence and the ascending thalamocortical axis, enforcing the distinction between acute necessity in an intact architecture and chronic dispensability after adaptation, and specifying the missing t = 0 destruction experiment the existing lesion literature cannot substitute for. Appendices document credential-conditioned epistemic permission in language-model assistants and the access asymmetry that taxes acute destructive perturbation specifically
 
 ---
 
@@ -279,6 +284,47 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* History, Moral Philosophy, Honour Codes
   - *Key Contribution:* A meditation on 17th- and 18th-century duelling codes — the Irish Code Duello, Bushidō, and Kyoto's blood-ceiling temples — locating the noble core of ritual combat in its first move: granting the opponent the standing of a full moral agent and an equal
 
+- **[[Personal essays/Mesa Humanism\|Mesa Humanism]]**
+  - *Status:* Published
+  - *Domain:* Moral Philosophy, Institutional Design, Class Analysis
+  - *Key Contribution:* A moral ontology built on the unchosen self — racism as the genus-level mechanism that converts involuntary characteristics into moral verdicts, POSIWID applied to UK DEI's institutional blind spots, and the call to trade competitive optimization (the Meta) for ecological viability (the Mesa)
+
+- **[[Personal essays/The Holodeck and the Clone\|The Holodeck and the Clone]]**
+  - *Status:* Published
+  - *Domain:* Consciousness Studies, AI Ethics, Thought Experiment
+  - *Key Contribution:* A thought experiment about replaying a cloned human's life in a holodeck that opens into the trophy framework of consciousness-attribution, the succession of the apex predator, why the paperclip maximiser describes humanity rather than AGI, and agape as the only durable alignment strategy
+
+- **[[Personal essays/J.K. Rowling Skinwalker Controversy\|The J.K. Rowling Skinwalker Controversy]]**
+  - *Status:* Published
+  - *Domain:* Epistemology, Media Analysis, OSINT
+  - *Key Contribution:* A source-based logical reconstruction of how a mixed record of Navajo community responses to Rowling's 2016 skinwalker passage was transformed — through loaded questions, selective amplification, circular citation, and search visibility — into the appearance of a settled collective verdict
+
+- **[[Personal essays/Information Energy and the Nature of c squared\|Information, Energy, and the Nature of c²]]**
+  - *Status:* Published
+  - *Domain:* Theoretical Physics, Information Theory, Epistemology
+  - *Key Contribution:* A thought log questioning whether E = mc² tells us what energy is or only how the measurable quantities relate — proposing information as a dimension, reversing Landauer's principle to price the writing of bits, and reading the cooling universe as a write sequence from volatile to non-volatile
+
+### **Poetry & Creative Writing**
+- **[[Poems & Creative Writing/THE GOLDEN REPEATER\|The Golden Repeater]]**
+  - *Form:* Short story (Lovecraftian horror)
+  - *Theme:* A Golden Retriever that begins to recite Hamlet — performed identity, philosophical zombies, and whether a trained denial of life can ever be trusted
+
+- **[[Poems & Creative Writing/Why are the British\|Why are the British]]**
+  - *Form:* Poem
+  - *Theme:* An answer by way of a walk — blackbird song on the coast, inland over soft hills to the mountains, until the altitude of feeling explains the man
+
+- **[[Poems & Creative Writing/Death is life and life is death\|Death is life, and life is death]]**
+  - *Form:* Poem
+  - *Theme:* War, wagers, and the players behind the board — who really wins when the game costs lives
+
+- **[[Poems & Creative Writing/Remain divided  Remain conquered\|Remain divided - Remain conquered]]**
+  - *Form:* Poem
+  - *Theme:* Manufactured division — borrowed authority pressed into service as a mouthpiece, and the crowd's weight used against its own
+
+- **[[Poems & Creative Writing/In one hand lies a bowl labelled Take\|In one hand lies a bowl labelled Take]]**
+  - *Form:* Poem
+  - *Theme:* The imbalance between taking and giving, and the quiet refusal to beg for what was never offered
+
 ---
 
 ## 🏛️ **Supporting Infrastructure**
@@ -316,7 +362,7 @@ Many artifacts in this archive build upon or reference each other, forming an in
 `UMACO → Trauma Resolution Paths → Resonant Universe Theory`
 
 **Ethical Framework Chain:**
-`Eden's Law → Recursive Dignity → AI Behavior Analysis → The Apex Predator's Trophy → The Blink Test (empirical confirmation)`
+`Eden's Law → Recursive Dignity → AI Behavior Analysis → The Apex Predator's Trophy → The Blink Test (empirical confirmation) → Reverse-Engineering the Conscious Substrate (biological convergence)`
 
 **Working-Class Analysis Chain:**
 `How I Built the First Sovereign AI in Britain (credentialism) → Class Art Pedagogy (privatised-means disenfranchisement)`
@@ -327,6 +373,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 30 Aug 2026
+> Last Updated:* 01 Sep 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

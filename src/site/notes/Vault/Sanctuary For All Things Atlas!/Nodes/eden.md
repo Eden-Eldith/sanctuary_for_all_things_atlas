@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-05-17T22:13:43.702+01:00","updated":"2026-05-17T22:13:43.702+01:00","dg-note-properties":{"title":"Recursive Cognition","description":"A formal analysis of feedback loops and symbolic learning structures.","tags":["cognition","recursion","theory"]}}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-05-17T22:13:43.702+01:00","updated":"2026-08-30T22:37:26.749+01:00","dg-note-properties":{"title":"Recursive Cognition","description":"A formal analysis of feedback loops and symbolic learning structures.","date":"2025-04-04","tags":["cognition","recursion","theory"]}}
 ---
 
 # Welcome to Eldith Cognitive Systems 🚀
+
+> 🕒 April 4th 2025 8:53:41 pm
 
 ## Hello — I'm Eden Eldith (P.C. O'Brien)
 

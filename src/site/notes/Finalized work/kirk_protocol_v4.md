@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","title":"The Kirk Protocol v4.0","tags":["Security","Framework","AI-symbiosis","free-speech","policy"],"created":"2026-02-12T18:08:54.998+00:00","updated":"2026-02-12T18:08:54.998+00:00","dg-note-properties":{"title":"The Kirk Protocol v4.0","description":"A comprehensive security framework for protecting public speakers at open-air events, developed in response to the Charlie Kirk assassination and validated across multiple AI systems.","tags":["Security","Framework","AI-symbiosis","free-speech","policy"]}}
+{"dg-publish":true,"permalink":"/finalized-work/kirk-protocol-v4/","title":"The Kirk Protocol v4.0","tags":["Security","Framework","AI-symbiosis","free-speech","policy"],"created":"2026-02-12T18:08:54.998+00:00","updated":"2026-08-30T22:37:26.847+01:00","dg-note-properties":{"title":"The Kirk Protocol v4.0","description":"A comprehensive security framework for protecting public speakers at open-air events, developed in response to the Charlie Kirk assassination and validated across multiple AI systems.","date":"2025-09-21","tags":["Security","Framework","AI-symbiosis","free-speech","policy"]}}
 ---
 
 # The Kirk Protocol v4.0
+
+> 🕒 September 21st 2025 8:10:23 pm
 ## Security Framework for Open-Air Political/Public Speaking Events
 
 ---

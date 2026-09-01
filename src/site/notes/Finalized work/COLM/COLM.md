@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/colm/colm/","title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","tags":["AI","Programming"],"created":"2026-05-17T22:09:04.380+01:00","updated":"2026-05-17T22:09:04.381+01:00","dg-note-properties":{"title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","description":"A 498k-parameter complex-valued autoregressive language model with zero linear layers in its processing blocks, generating coherent philosophical prose at half the size of TinyStories' smallest coherent model. Direct successor to WiggleGPT, promoting the oscillating activation from ℝ to ℂ.","tags":["AI","Programming"]}}
+{"dg-publish":true,"permalink":"/finalized-work/colm/colm/","title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","tags":["AI","Programming"],"created":"2026-05-17T22:09:04.380+01:00","updated":"2026-08-30T22:37:26.906+01:00","dg-note-properties":{"title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","description":"A 498k-parameter complex-valued autoregressive language model with zero linear layers in its processing blocks, generating coherent philosophical prose at half the size of TinyStories' smallest coherent model. Direct successor to WiggleGPT, promoting the oscillating activation from ℝ to ℂ.","date":"2026-05-17","tags":["AI","Programming"]}}
 ---
 
 # Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models
+
+> 🕒 May 17th 2026 10:22:06 pm
 > **DOI:** [10.5281/zenodo.20118034](https://doi.org/10.5281/zenodo.20118034)
 > **Code:** [GitHub](https://github.com/Eden-Eldith/COLM) |
 > **Model:** [HuggingFace](https://huggingface.co/edeneldith/COLM) |

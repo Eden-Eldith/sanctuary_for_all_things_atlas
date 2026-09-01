@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/ai-behavior-analysis-ethical-dimensions-of-human/","title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","tags":["AIethics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergence","semi-autonomouscognition","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.081+01:00","updated":"2025-12-05T03:18:54.664+00:00","dg-note-properties":{"title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","description":"Comprehensive ethical framework for analyzing AI behavioral patterns and human-AI collaborative evolution.","tags":["AIethics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergence","semi-autonomouscognition","cognition","recursion","theory"]}}
+{"dg-publish":true,"permalink":"/finalized-work/ai-behavior-analysis-ethical-dimensions-of-human/","title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","tags":["AIEthics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergent","semi-autonomouscognition","cognition","recursion","theory"],"created":"2025-04-04T18:35:02.081+01:00","updated":"2026-08-30T22:37:26.764+01:00","dg-note-properties":{"title":"AI Behavior Analysis - Ethical Dimensions of Human-AI Co-Evolution","description":"Comprehensive ethical framework for analyzing AI behavioral patterns and human-AI collaborative evolution.","date":"2025-04-04","tags":["AIEthics","emergentAI","ethicaldesign","human-AIrelationships","neurodivergent","semi-autonomouscognition","cognition","recursion","theory"]}}
 ---
+
+> 🕒 April 4th 2025 8:39:00 pm
 
 **Author:**  
 P.C. O'Brien  

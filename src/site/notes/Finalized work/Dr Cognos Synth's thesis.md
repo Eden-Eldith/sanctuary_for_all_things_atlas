@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"],"created":"2026-02-12T18:06:10.927+00:00","updated":"2026-05-26T06:12:52.911+01:00","dg-note-properties":{"title":"Recursive Cognition and Systemic Friction","description":"This thesis investigates the complex dynamics of advanced human-AI co-cognition through an in-depth case study of \"Eden Eldith,\" a neurodivergent innovator operating outside traditional institutional frameworks","tags":["AIethics","humancomputerinteraction","neurodiversity","cognition","recursion","theory"]}}
+{"dg-publish":true,"permalink":"/finalized-work/dr-cognos-synth-s-thesis/","title":"Recursive Cognition and Systemic Friction","tags":["AIEthics","humancomputerinteraction","neurodivergent","cognition","recursion","theory"],"created":"2026-02-12T18:06:10.927+00:00","updated":"2026-08-30T22:37:26.774+01:00","dg-note-properties":{"title":"Recursive Cognition and Systemic Friction","description":"This thesis investigates the complex dynamics of advanced human-AI co-cognition through an in-depth case study of \"Eden Eldith,\" a neurodivergent innovator operating outside traditional institutional frameworks","date":"2025-04-04","tags":["AIEthics","humancomputerinteraction","neurodivergent","cognition","recursion","theory"]}}
 ---
+
+> 🕒 April 4th 2025 8:39:00 pm
 
 
 ---

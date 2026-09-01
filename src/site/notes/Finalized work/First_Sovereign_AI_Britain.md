@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/first-sovereign-ai-britain/","title":"How I Built the First Sovereign AI in Britain","tags":["AI","Programming","Sovereign-AI"],"created":"2026-06-08T22:47:31.805+01:00","updated":"2026-06-08T22:53:13.085+01:00","dg-note-properties":{"title":"How I Built the First Sovereign AI in Britain","description":"I trained WiggleGPT, a 124M-parameter GPT-2-scale transformer with a novel oscillating activation function, from scratch in a converted garage in Gosport, on consumer hardware, ten months after my first line of Python. No funding, no institution, no permission. This is how, and what \"sovereign\" actually means when you build it yourself.","tags":["AI","Programming","Sovereign-AI"]}}
+{"dg-publish":true,"permalink":"/finalized-work/first-sovereign-ai-britain/","title":"How I Built the First Sovereign AI in Britain","tags":["AI","Programming","Sovereign-AI"],"created":"2026-06-08T22:47:31.805+01:00","updated":"2026-08-30T22:37:26.907+01:00","dg-note-properties":{"title":"How I Built the First Sovereign AI in Britain","description":"I trained WiggleGPT, a 124M-parameter GPT-2-scale transformer with a novel oscillating activation function, from scratch in a converted garage in Gosport, on consumer hardware, ten months after my first line of Python. No funding, no institution, no permission. This is how, and what \"sovereign\" actually means when you build it yourself.","date":"2026-06-09","tags":["AI","Programming","Sovereign-AI"]}}
 ---
 
 # How I Built the First Sovereign AI in Britain
+
+> 🕒 June 9th 2026 1:03:22 am
 > **Model:** WiggleGPT 124M — [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT) |
 > **Paper / DOI:** [10.5281/zenodo.17919011](https://doi.org/10.5281/zenodo.17919011) |
 > **Code:** [GitHub](https://github.com/Eden-Eldith/WiggleGPT) |

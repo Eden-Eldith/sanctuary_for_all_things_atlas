@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personal-essays/how-i-think-about-agents/","title":"How I Think About Agents","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"],"created":"2026-06-14T00:22:54.177+01:00","updated":"2026-06-14T00:22:54.189+01:00","dg-note-properties":{"title":"How I Think About Agents","description":"An argument for physical-substrate agent containment — give an AI agent a dedicated edge device as its \"body\" so capability is secured in hardware rather than code — framed through a childhood cat-and-mouse network-security war with my father.","date":"2026-06-14","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"]}}
+{"dg-publish":true,"permalink":"/personal-essays/how-i-think-about-agents/","title":"How I Think About Agents","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"],"created":"2026-06-14T00:22:54.177+01:00","updated":"2026-08-30T22:37:26.914+01:00","dg-note-properties":{"title":"How I Think About Agents","description":"An argument for physical-substrate agent containment — give an AI agent a dedicated edge device as its \"body\" so capability is secured in hardware rather than code — framed through a childhood cat-and-mouse network-security war with my father.","date":"2026-06-14","tags":["AI","AI-agents","Security","agent-security","hardware-isolation","PersonalNarrative","IndependentResearch"]}}
 ---
+
+> 🕒 June 14th 2026 5:48:05 am
 
 Let me lay out how I think about agents—starting from a single concrete rule and building out the reasoning.
 

@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-1-the-ebbing-of-the-rain/","title":"Turmoil 1 - The Ebbing of The Rain","tags":["PersonalNarrative","neurodivergent","sensory-processing","Turmoil","resilience"],"created":"2026-02-12T18:08:01.024+00:00","updated":"2026-02-12T18:08:01.024+00:00","dg-note-properties":{"title":"Turmoil 1 - The Ebbing of The Rain","description":"A personal essay on how rain simplifies a sensory world that is otherwise overwhelming, exploring the autistic experience of hyperperception and the loss of natural sanctuary to climate change.","tags":["PersonalNarrative","neurodivergent","sensory-processing","Turmoil","resilience"]}}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-1-the-ebbing-of-the-rain/","title":"Turmoil 1 - The Ebbing of The Rain","tags":["PersonalNarrative","neurodivergent","sensory-processing","Turmoil","resilience"],"created":"2026-02-12T18:08:01.024+00:00","updated":"2026-08-30T22:37:26.840+01:00","dg-note-properties":{"title":"Turmoil 1 - The Ebbing of The Rain","description":"A personal essay on how rain simplifies a sensory world that is otherwise overwhelming, exploring the autistic experience of hyperperception and the loss of natural sanctuary to climate change.","date":"2025-09-21","tags":["PersonalNarrative","neurodivergent","sensory-processing","Turmoil","resilience"]}}
 ---
+
+> 🕒 September 21st 2025 8:10:23 pm
 
 > **Content note:** This piece discusses sensory overwhelm.
 ---

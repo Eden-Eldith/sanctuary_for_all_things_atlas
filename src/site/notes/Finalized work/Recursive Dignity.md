@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity/","title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 1)","tags":["AIEthics","AI-symbiosis","AI-processing","Recursive-Dignity","Neurodivergent-Cognition"],"created":"2026-02-12T18:07:29.412+00:00","updated":"2026-02-12T18:07:29.412+00:00","dg-note-properties":{"title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 1)","description":"A thesis presenting the Dynamic Hermeneutic Spiral as a mathematical-philosophical model for dignity-centered human-AI cognitive partnerships, informed by neurodivergent cognition.","tags":["AIEthics","AI-symbiosis","AI-processing","Recursive-Dignity","Neurodivergent-Cognition"]}}
+{"dg-publish":true,"permalink":"/finalized-work/recursive-dignity/","title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 1)","tags":["AIEthics","AI-symbiosis","AI-processing","Recursive-Dignity","Neurodivergent-Cognition"],"created":"2026-02-12T18:07:29.412+00:00","updated":"2026-08-30T22:37:26.790+01:00","dg-note-properties":{"title":"Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition (Part 1)","description":"A thesis presenting the Dynamic Hermeneutic Spiral as a mathematical-philosophical model for dignity-centered human-AI cognitive partnerships, informed by neurodivergent cognition.","date":"2025-04-04","tags":["AIEthics","AI-symbiosis","AI-processing","Recursive-Dignity","Neurodivergent-Cognition"]}}
 ---
 
-#emergent-technoethics #AIEthics #AI-symbiosis #AI-processing 
+#EmergentTechnoethics #AIEthics #AI-symbiosis #AI-processing 
 # Recursive Dignity: A Neurodivergent Framework for Human-AI Co-Cognition
+
+> 🕒 April 4th 2025 8:39:00 pm
 Part 1 of 2.
 Part 2 can be found here:[[Finalized work/Recursive Dignity 2\|Recursive Dignity 2]]
 

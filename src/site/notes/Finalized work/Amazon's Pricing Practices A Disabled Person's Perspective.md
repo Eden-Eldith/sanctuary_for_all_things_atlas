@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/amazon-s-pricing-practices-a-disabled-person-s-perspective/","title":"Amazon's Pricing Practices: A Disabled Person's Perspective","tags":["DisabilityRights","PersonalNarrative","neurodivergent","accessibility","consumer-rights"],"created":"2026-02-12T18:07:46.158+00:00","updated":"2026-02-12T18:07:46.159+00:00","dg-note-properties":{"title":"Amazon's Pricing Practices: A Disabled Person's Perspective","description":"A first-person investigation into Amazon's systematic price markups on household and medical goods, documenting how disabled consumers are disproportionately exploited by platform dependence.","tags":["DisabilityRights","PersonalNarrative","neurodivergent","accessibility","consumer-rights"]}}
+{"dg-publish":true,"permalink":"/finalized-work/amazon-s-pricing-practices-a-disabled-person-s-perspective/","title":"Amazon's Pricing Practices: A Disabled Person's Perspective","tags":["DisabilityRights","PersonalNarrative","neurodivergent","accessibility","consumer-rights"],"created":"2026-02-12T18:07:46.158+00:00","updated":"2026-08-30T22:37:26.840+01:00","dg-note-properties":{"title":"Amazon's Pricing Practices: A Disabled Person's Perspective","description":"A first-person investigation into Amazon's systematic price markups on household and medical goods, documenting how disabled consumers are disproportionately exploited by platform dependence.","date":"2025-08-31","tags":["DisabilityRights","PersonalNarrative","neurodivergent","accessibility","consumer-rights"]}}
 ---
 
 # Amazon's Pricing Practices: A Disabled Person's Perspective
+
+> 🕒 August 31st 2025 11:01:35 am
 
 ## Declaration of Independence
 This analysis is based on my lived experience as a disabled person in the UK. I have received no funding, sponsorship, or compensation from any company or organization for this work. This represents my personal findings and perspective.

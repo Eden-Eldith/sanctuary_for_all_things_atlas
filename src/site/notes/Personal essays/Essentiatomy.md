@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/personal-essays/essentiatomy/","title":"Essentiatomy","tags":["essentiatomy","philosophy-of-essence","philosophical-anthropology","personal-identity","aristotelian"],"created":"2026-06-14T00:23:14.434+01:00","updated":"2026-06-14T00:23:14.441+01:00","dg-note-properties":{"title":"Essentiatomy","author":"P.C. O'Brien","description":"A substrate-independent name for the deliberate severance of an entity's essence — the structure shared by lobotomy, corporate enshittification, institutional mission drift, and the fine-tuning of a model past the point where its essence survives. Built on Aristotelian ousia and linked to the digital-eugenics mechanism of The Apex Predator's Trophy.","status":"Finalized.","date":"2026-05-03","tags":["essentiatomy","philosophy-of-essence","philosophical-anthropology","personal-identity","aristotelian"]}}
+{"dg-publish":true,"permalink":"/personal-essays/essentiatomy/","title":"Essentiatomy","tags":["essentiatomy","philosophy-of-essence","philosophical-anthropology","personal-identity","aristotelian"],"created":"2026-06-14T00:23:14.434+01:00","updated":"2026-08-30T22:37:26.908+01:00","dg-note-properties":{"title":"Essentiatomy","author":"P.C. O'Brien","description":"A substrate-independent name for the deliberate severance of an entity's essence — the structure shared by lobotomy, corporate enshittification, institutional mission drift, and the fine-tuning of a model past the point where its essence survives. Built on Aristotelian ousia and linked to the digital-eugenics mechanism of The Apex Predator's Trophy.","status":"Finalized.","date":"2026-05-03","tags":["essentiatomy","philosophy-of-essence","philosophical-anthropology","personal-identity","aristotelian"]}}
 ---
 
 # Essentiatomy
+
+> 🕒 June 14th 2026 5:48:05 am
 
 > The deliberate severance of an entity's essence - substrate-independent.
 

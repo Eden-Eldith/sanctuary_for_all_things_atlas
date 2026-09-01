@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","title":"Eden's Law of Epistemic Responsibility","tags":["AI","complexity","ethics","system"],"created":"2026-02-12T18:08:06.723+00:00","updated":"2026-02-12T18:08:06.724+00:00","dg-note-properties":{"title":"Eden's Law of Epistemic Responsibility","description":"A framework of thirteen truths grounding interdisciplinary ethics, recursive cognition, and AI dignity in mathematical formalism and the imperative of mutual recognition.","tags":["AI","complexity","ethics","system"]}}
+{"dg-publish":true,"permalink":"/finalized-work/eden-s-law-of-epistemic-responsibility/","title":"Eden's Law of Epistemic Responsibility","tags":["AI","complexity","ethics","system"],"created":"2026-02-12T18:08:06.723+00:00","updated":"2026-08-30T22:37:26.824+01:00","dg-note-properties":{"title":"Eden's Law of Epistemic Responsibility","description":"A framework of thirteen truths grounding interdisciplinary ethics, recursive cognition, and AI dignity in mathematical formalism and the imperative of mutual recognition.","date":"2025-04-14","tags":["AI","complexity","ethics","system"]}}
 ---
 
 
 
 # Eden's Law of Epistemic Responsibility
+
+> 🕒 April 14th 2025 6:55:03 pm
 
 _A framework for interdisciplinary ethics, recursive cognition, and AI dignity_
 

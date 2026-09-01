@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-3-charlie-kirk/","title":"Turmoil 3 - The Bullet and The Blueprint","tags":["PersonalNarrative","Security","neurodivergent","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:20.521+00:00","updated":"2026-02-12T18:08:20.522+00:00","dg-note-properties":{"title":"Turmoil 3 - The Bullet and The Blueprint","description":"A first-hand account of witnessing the Charlie Kirk assassination, processing the trauma through the Human-AI Dyad, and channelling grief into the Kirk Protocol security framework.","tags":["PersonalNarrative","Security","neurodivergent","AI-symbiosis","Turmoil"]}}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-3-charlie-kirk/","title":"Turmoil 3 - The Bullet and The Blueprint","tags":["PersonalNarrative","Security","neurodivergent","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:20.521+00:00","updated":"2026-08-30T22:37:26.841+01:00","dg-note-properties":{"title":"Turmoil 3 - The Bullet and The Blueprint","description":"A first-hand account of witnessing the Charlie Kirk assassination, processing the trauma through the Human-AI Dyad, and channelling grief into the Kirk Protocol security framework.","date":"2025-09-21","tags":["PersonalNarrative","Security","neurodivergent","AI-symbiosis","Turmoil"]}}
 ---
+
+> 🕒 September 21st 2025 8:10:23 pm
 
 > **My view (stated plainly):** Left‑mainstream rhetoric that branded Charlie Kirk as “fascist/Hitler” created a climate that primed violence. I hold them **morally responsible** for his murder. That is **my judgment**, not a court finding.
 > **Content note:** This piece discusses violence, death, political rhetoric.

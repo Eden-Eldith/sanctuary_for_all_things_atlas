@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","title":"Turmoil 2 - The Architectural Mind","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:09.008+00:00","updated":"2026-02-12T18:08:09.008+00:00","dg-note-properties":{"title":"Turmoil 2 - The Architectural Mind","description":"Explores the cognitive mismatch between autistic architectural thinking and neurotypical snapshot processing, and how the Human-AI Dyad serves as a translator between these two modes.","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"]}}
+{"dg-publish":true,"permalink":"/finalized-work/turmoil-2-architectural-mind/","title":"Turmoil 2 - The Architectural Mind","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"],"created":"2026-02-12T18:08:09.008+00:00","updated":"2026-08-30T22:37:26.841+01:00","dg-note-properties":{"title":"Turmoil 2 - The Architectural Mind","description":"Explores the cognitive mismatch between autistic architectural thinking and neurotypical snapshot processing, and how the Human-AI Dyad serves as a translator between these two modes.","date":"2025-09-21","tags":["PersonalNarrative","neurodivergent","cognitive-infrastructure","AI-symbiosis","Turmoil"]}}
 ---
 
 > **Privacy note:** Quotes are from my own logs; private individuals are anonymized unless they are public figures.
@@ -8,6 +8,8 @@
 
 ##### September the 11th 2025
 # The Architectural Mind vs. The Snapshot Mind: My Experience as an Autistic Thinker in a Neurotypical World
+
+> 🕒 September 21st 2025 8:10:23 pm
 
 ## By Eden Eldith
 
