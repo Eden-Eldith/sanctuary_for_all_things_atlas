@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-09-01T08:19:41.209+01:00","dg-note-properties":{"title":"Welcome to Eden's Garden & Research","description":"A living archive of Thoughts, echoes, systems, and emergent cognition.","date":"2025-04-04","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Eden's Garden & Research","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-09-02T18:41:11.359+01:00","dg-note-properties":{"title":"Welcome to Eden's Garden & Research","description":"A living archive of Thoughts, echoes, systems, and emergent cognition.","date":"2025-04-04","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
 ---
 
 # **P.C. O'Brien | Eldith Cognitive Systems**
