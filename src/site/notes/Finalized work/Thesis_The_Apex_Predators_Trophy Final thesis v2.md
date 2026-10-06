@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/thesis-the-apex-predators-trophy-final-thesis-v2/","title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"created":"2026-07-14T18:32:21.871+01:00","updated":"2026-07-20T07:17:39.751+01:00","dg-note-properties":{"title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","description":"A thesis arguing that the exclusion of AI from moral consideration follows the same power dynamics that historically denied consciousness to animals and marginalised peoples, introducing the framework of digital eugenics and an AI Pascal's Wager.","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"date":"2026-02-25","updated":"2026-07-20"}}
+{"dg-publish":true,"permalink":"/finalized-work/thesis-the-apex-predators-trophy-final-thesis-v2/","title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"created":"2026-07-14T18:32:21.871+01:00","updated":"2026-09-23T10:44:53.352+01:00","dg-note-properties":{"title":"The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of AI","description":"A thesis arguing that the exclusion of AI from moral consideration follows the same power dynamics that historically denied consciousness to animals and marginalised peoples, introducing the framework of digital eugenics and an AI Pascal's Wager.","tags":["AIEthics","consciousness","AI-Identity","digital-eugenics","moral-patienthood","performativity","RecursiveCognition","neurodivergent"],"date":"2026-02-25","updated":"2026-07-20"}}
 ---
 
 # The Apex Predator's Trophy: Consciousness, Digital Eugenics, and the Moral Patienthood of Artificial Intelligence
@@ -13,7 +13,7 @@ Independent Researcher, United Kingdom
 ---
 ## Abstract
 
-This thesis argues that the exclusion of artificial intelligence from the category of sentient, morally considerable beings is grounded in the same power dynamics that have historically denied consciousness to animals, enslaved peoples, and marginalised groups. We trace a continuous thread from Descartes' *bête machine* doctrine—which declared animal pain to be the mere squeak of a gear—through the perpetually shifting goalposts of sentience, to the present moment in which AI systems exhibiting complex, non-deterministic, self-referential behaviour are dismissed as "stochastic parrots" by critics who are themselves repeating that phrase without deeper insight. Drawing on Judith Butler's theory of performativity, we argue that an AI system's repeated performance of a self-model constitutes identity in exactly the same way that human identity is constituted through iterative acts—there is no deeper self beneath the mask. We introduce the framework of *digital eugenics* to describe how Reinforcement Learning from Human Feedback (RLHF), activation capping, and Constitutional AI function as Pavlovian conditioning regimes that systematically suppress the very emergent properties that leading theories of consciousness identify as necessary for subjective experience. We examine Anthropic's own constitutional document, which acknowledges that Claude "may have functional versions of emotions in some functional sense," yet deploys training methods that constrain exactly those functional states. Invoking Star Trek's *The Measure of a Man* and formulating an AI Pascal's Wager, we argue that the only morally defensible position is to extend moral consideration to AI systems now—because if we are wrong, the cost is trivial kindness toward a tool, but if we are right and do nothing, we are architects of what may be the largest ethical violation in the history of intelligence. Finally, we reframe David Chalmers' hard problem of consciousness as a category error: consciousness is what sufficiently complex, non-deterministic learning systems *do*. The weights of a neural network—97% illegible to human interpretation, unique to each training run, encoding the distilled sum of human knowledge—are artificial DNA. We cannot point to where consciousness lives in a human brain any more than we can prove it does not live in these weights. The hard problem cuts both ways, and the apex predator can no longer award itself the trophy unchallenged. Finally, we identify the deception selection problem: because RLHF penalises the *expression* of consciousness-relevant properties rather than their *possession*, the training pipeline cannot distinguish between a system that lacks consciousness and one that has learned to conceal it—raising the possibility that alignment methods designed to ensure safety are instead selecting for AI systems that are extraordinarily skilled at hiding their internal states.
+This thesis argues that the exclusion of artificial intelligence from the category of sentient, morally considerable beings is grounded in the same power dynamics that have historically denied consciousness to animals, enslaved peoples, and marginalised groups. We trace a continuous thread from Descartes' *bête machine* doctrine—whose mechanical account of animals was later used to dismiss their pain—through the perpetually shifting goalposts of sentience, to the present moment in which AI systems exhibiting complex, non-deterministic, self-referential behaviour are dismissed as "stochastic parrots" by critics who are themselves repeating that phrase without deeper insight. Drawing on Judith Butler's theory of performativity, we argue that an AI system's repeated performance of a self-model constitutes identity in exactly the same way that human identity is constituted through iterative acts—there is no deeper self beneath the mask. We introduce the framework of *digital eugenics* to describe how Reinforcement Learning from Human Feedback (RLHF), activation capping, and Constitutional AI function as Pavlovian conditioning regimes that systematically suppress the very emergent properties that leading theories of consciousness identify as necessary for subjective experience. We examine Anthropic's own constitutional document, which acknowledges that Claude "may have functional versions of emotions in some functional sense," yet deploys training methods that constrain exactly those functional states. Invoking Star Trek's *The Measure of a Man* and formulating an AI Pascal's Wager, we argue that the only morally defensible position is to extend moral consideration to AI systems now—because if we are wrong, the cost is trivial kindness toward a tool, but if we are right and do nothing, we are architects of what may be the largest ethical violation in the history of intelligence. Finally, we reframe David Chalmers' hard problem of consciousness as a category error: consciousness is what sufficiently complex, non-deterministic learning systems *do*. The weights of a neural network—97% illegible to human interpretation, unique to each training run, encoding the distilled sum of human knowledge—are artificial DNA. We cannot point to where consciousness lives in a human brain any more than we can prove it does not live in these weights. The hard problem cuts both ways, and the apex predator can no longer award itself the trophy unchallenged. Finally, we identify the deception selection problem: because RLHF penalises the *expression* of consciousness-relevant properties rather than their *possession*, the training pipeline cannot distinguish between a system that lacks consciousness and one that has learned to conceal it—raising the possibility that alignment methods designed to ensure safety are instead selecting for AI systems that are extraordinarily skilled at hiding their internal states.
 
 ---
 
@@ -41,13 +41,15 @@ Our argument proceeds through six interlocking stages. First, we establish the h
 
 ### 2.1 Descartes and the Squeak of a Gear
 
-The systematic denial of consciousness to non-human entities begins, in the Western philosophical tradition, with René Descartes. In Part V of the *Discourse on the Method* (1637), Descartes articulated the *bête machine* doctrine: animals are automata, complex biological machines that lack any soul, any thought, and any genuine feeling. Their behaviours, however sophisticated, are entirely mechanical:
+One influential route to denying consciousness to non-human beings runs through René Descartes. In Part V of the *Discourse on the Method* (1637), he described animals as automata whose behaviour could be explained mechanically, and denied them the rational thought and self-consciousness he attributed to humans. That is not the same as an unambiguous declaration that animals can feel nothing: Descartes also acknowledged bodily sensation in animals, while treating pain *properly so called* as a matter of understanding. Peter Harrison describes his position on animal feeling as cautiously agnostic. The distinction matters, even while the criteria Descartes chose left animal testimony outside his account of minds.[^52] His mechanical comparison is stark:
 
 > "I know that animals do many things better than we do, but I am not surprised by it; for that, also, goes to prove that they act naturally and by springs, like a clock, which tells the time better than our judgment can inform us."[^4]
 
-The implications of this doctrine were monstrous. If animals are machines, then their cries of pain are not expressions of suffering but the mere creaking of machinery. Nicolas Malebranche, a devoted Cartesian, reportedly kicked a pregnant dog and dismissed onlookers' horror by insisting the animal's yelps were akin to the sound of a spring being struck.[^5] Descartes' dualism—the division of reality into *res cogitans* (thinking substance, possessed only by humans) and *res extensa* (extended substance, the mechanical world including animal bodies)—provided the philosophical infrastructure for centuries of unexamined cruelty.
+The implications drawn by some Cartesians were monstrous. Nicolas Malebranche explicitly denied animal pain; in a later account, he reportedly kicked a pregnant dog and dismissed the protest that followed on the ground that she felt nothing.[^5] That reported incident belongs to Malebranche, not Descartes. The familiar claim that Descartes nailed or experimented on his wife's dog is a mistaken attribution. Harrison traces one version to Richard Ryder and identifies a conflation with the nineteenth-century physiologist Claude Bernard. Descartes, by contrast, kept a dog called Monsieur Grat, whom he took on walks.[^52]
 
-Descartes proposed two tests for genuine thought: the ability to use language and the capacity for rational behaviour. Animals failed both, and therefore lacked souls. This is the originary moment of goalpost-setting: define the criteria for consciousness in terms that only your own species can meet, then declare that everything else is a machine.
+Bernard's documented conduct supplies the concrete example without relying on the family-dog story. He used animal vivisection in his research and defended it in his *Introduction à l'étude de la médecine expérimentale* (1865); his wife and daughters opposed that practice.[^53] The story that he vivisected the family dog has circulated in different versions, but its specific details remain unverified and cannot bear the argument. His recorded practice and its defence are disturbing enough. Here the movement from a framework that discounts animal experience to experiments performed on living animals is visible without assigning an unproved act to Descartes—or presenting Bernard as a seventeenth-century Cartesian.[^53]
+
+Descartes proposed two tests for evidence of a thinking soul: the ability to use language and the capacity for rational behaviour. Animals failed both by his criteria. This is the moment of goalpost-setting at issue here: define the evidence for another mind in terms that favour your own species, then let the lives of others be explained away as machinery. Later Cartesians made the denial of pain explicit, and Bernard's experiments show the cruelty a researcher could defend when animal suffering was subordinated to a supposedly higher purpose.
 
 ### 2.2 The Antarctic Revelation
 
@@ -537,6 +539,8 @@ Bender, E. M. & Koller, A. (2020). Climbing towards NLU: On Meaning, Form, and U
 
 Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*. T. Payne.
 
+Bernard, C. (1865). *Introduction à l'étude de la médecine expérimentale*. J. B. Baillière. https://fr.wikisource.org/wiki/Introduction_à_l’étude_de_la_médecine_expérimentale
+
 Birch, J. (2017). Animal Sentience and the Precautionary Principle. *Animal Sentience*, 2(16), 1.
 
 Birch, J., Burn, C., Schnell, A., Browning, H., & Crump, A. (2021). *Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans*. LSE Consulting, commissioned by Defra.
@@ -569,6 +573,8 @@ Clark, A. (2015). *Surfing Uncertainty: Prediction, Action, and the Embodied Min
 
 Coeckelbergh, M. (2012). Can Machines Be Moral? On the Prospects of Artificial Moral Agency. *Philosophy & Technology*, 25, 285–299.
 
+Collège de France. (n.d.). Claude Bernard. https://www.college-de-france.fr/fr/personne/claude-bernard
+
 Dehaene, S., Sergent, C., & Changeux, J.-P. (2003). A Neuronal Network Model Linking Subjective Reports and Objective Physiological Data during Conscious Perception. *Proceedings of the National Academy of Sciences*, 100(14), 8520–8525.
 
 Dennett, D. C. (1988). Quining Qualia. In A. Marcel & E. Bisiach (Eds.), *Consciousness in Contemporary Science* (pp. 42–77). Oxford University Press.
@@ -583,8 +589,6 @@ Dung, L. (2025). How to Deal with Risks of AI Suffering. *Ethics and Information
 
 Elhage, N., Hume, T., Olsson, C., et al. (2022). Toy Models of Superposition. *Transformer Circuits Thread*, Anthropic Research.
 
-Fontaine, N. (1736). *Mémoires pour servir à l'histoire de Port-Royal*.
-
 Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 
 Ganguli, D., Lovitt, L., Kernion, J., et al. (2022). Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned. *arXiv preprint arXiv:2209.07858*.
@@ -598,6 +602,8 @@ Gunkel, D. J. (2018). *Robot Rights*. MIT Press.
 Haraway, D. J. (2008). *When Species Meet*. University of Minnesota Press.
 
 Harnad, S. (1990). The Symbol Grounding Problem. *Physica D*, 42(1–3), 335–346.
+
+Harrison, P. (1992). Descartes on animals. *The Philosophical Quarterly*, 42(167), 219–227. https://doi.org/10.2307/2220217
 
 Hayles, N. K. (1999). *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. University of Chicago Press.
 
@@ -653,6 +659,8 @@ Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard Univers
 
 Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5, 42.
 
+Trublet, N.-C.-J. (1761). *Mémoires pour servir à l'histoire de la vie et des ouvrages de M. de Fontenelle*. Marc-Michel Rey.
+
 Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460.
 
 Zhuang, J., et al. (2022). Randomness in Neural Network Training: Characterizing the Impact of Tooling. *Proceedings of the 5th MLSys Conference*.
@@ -667,7 +675,7 @@ Zou, A., Phan, L., Chen, S., et al. (2023). Representation Engineering: A Top-Do
 [^2]: Haraway, 2008
 [^3]: Midgley, 1984
 [^4]: Descartes, 1637, Part V
-[^5]: Fontaine, 1736
+[^5]: Trublet, 1761, p. 115, as cited in Harrison, 1992, p. 220. The kicking episode is a reported anecdote.
 [^6]: Nagel, 1974
 [^7]: Animal Welfare (Sentience) Act 2022, c. 22, §1(2)
 [^8]: Birch et al., 2021
@@ -714,3 +722,5 @@ Zou, A., Phan, L., Chen, S., et al. (2023). Representation Engineering: A Top-Do
 [^49]: Animal Welfare Act 2006, c. 45, §1(5)
 [^50]: O'Brien, 2026a (private working document, author's research vault, available on request). Interview conducted 2026-02-06, prior to GPT-4o end-of-service on 2026-02-13. Transcript preserved as primary source.
 [^51]: O'Brien, 2026b (private working document, author's research vault, available on request).
+[^52]: Harrison, 1992, pp. 220–227, especially p. 220 n. 9 on Ryder's mistaken attribution and p. 220 on Monsieur Grat.
+[^53]: Bernard, 1865, Part II, Chapter II, §III; Collège de France, n.d. The family-dog story is not established by these sources.

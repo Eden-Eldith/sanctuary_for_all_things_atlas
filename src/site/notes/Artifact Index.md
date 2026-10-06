@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-09-01T08:19:52.862+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"A comprehensive, timestamped catalog of all published frameworks, papers, and tools from Eldith Cognitive Systems.","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-10-06T01:32:16.741+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"Research papers, language models, software, world reports, essays and poetry by independent AI researcher and model developer P.C. O'Brien (Eden Eldith).","updated":"2026-10-06","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -7,26 +7,29 @@
 
 **Complete Research Archive | Eldith Cognitive Systems**
 
-This index provides a comprehensive, timestamped catalog of all published research artifacts, organized chronologically and by research domain. Each entry includes publication status, key contributions, and cross-references to related works.
+Browse the work of P.C. O'Brien (Eden Eldith), independent AI researcher and model developer at Eldith Cognitive Systems. Entries are grouped by subject, with publication status, descriptions and links to related work.
+
+[[Home\|Garden home]] · [[Artifact Index#Novel Architectures and Identity Frameworks\|Language models & architectures]] · [[Artifact Index#World Reports and Current Events Analysis\|World reports]] · [[Artifact Index#Personal Essays\|Essays]] · [[Artifact Index#Poetry and Creative Writing\|Poetry]] · [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|About the researcher]]
 
 ---
-## 🌟 Featured Projects
+## Featured Projects
 | Project                                                    | Status    | Description                                                                                                                                                                                                                  | Links                                                                                                                                                             |
 | ---------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **WiggleGPT**                                              | Published | Oscillating-activation transformer architecture introducing waveform-based neuron dynamics for enhanced expressivity and sparsity exploration.                                                                               | [Zenodo](https://zenodo.org/records/17919011) \| [GitHub](https://github.com/Eden-Eldith/WiggleGPT) \| [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT) |
+| **COLM (Complex Oscillating Language Model)**              | Published | First complex-valued autoregressive language model. 498k-parameter architecture with zero `nn.Linear` layers in its processing blocks, replacing self-attention with an O(N) complex-gated causal scan and promoting the oscillating activation from ℝ to ℂ. | [Zenodo](https://doi.org/10.5281/zenodo.20118034) \| [GitHub](https://github.com/Eden-Eldith/COLM) \| [Model](https://huggingface.co/edeneldith/COLM) \| [Dataset](https://huggingface.co/datasets/edeneldith/DCDM) |
 | **ChatInsights**                                           | Published | Python application that transforms ChatGPT conversation exports into structured Obsidian knowledge-vaults. Features automatic concept extraction, knowledge mapping, and training data generation with a custom Tkinter GUI. | [GitHub](https://github.com/Eden-Eldith/ChatInsights)                                                                                                             |
 | **CO₂ Computer Cooling Research**                          | Published | Production-ready simulation of sealed, pressurized CO₂ cooling systems featuring conduction, Peltier cooling, and fan-assisted heat dissipation across Mars, Earth, and Moon environments.                                   | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5314110) \| [GitHub](https://github.com/Eden-Eldith/CO2-Computer-Cooling-Research)                     |
 | **UK EDM Water Analysis / Marine Mortality Investigation** | Published | Forensic pipeline correlating Event Duration Monitoring sewage overflow data with water-quality measurements. Processes GB-scale datasets to identify high-risk pollution hotspots.                                          | [Zenodo](https://zenodo.org/records/16503479) \| [GitHub](https://github.com/Eden-Eldith/uk-edm-water-analysis)                                                   |
 | **Gosport Meteorite Simulator**                            | Published | Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting.                     | [Gosport Meteorite Simulator](https://github.com/Eden-Eldith/Gosport_metorite_simulator)                                                                          |
 | **UMACO/MACO Frameworks**                                  | Published | Experimental universal multi-agent cognitive optimization frameworks for tackling NP-hard problems through swarm cognition and emergent cooperation. Protected by RED (Recursive Entanglement Doctrine) for ethical use.     | [[Finalized work/fixed-thesis-maco\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/UMACO)                                                                                  |
-| **WiggleGPT**                                              | Published | Oscillating-activation transformer architecture introducing waveform-based neuron dynamics for enhanced expressivity and sparsity exploration.                                                                               | [Zenodo](https://zenodo.org/records/17919011) \| [GitHub](https://github.com/Eden-Eldith/WiggleGPT) \| [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT) |
-| **COLM (Complex Oscillating Language Model)**              | Published | First complex-valued autoregressive language model. 498k-parameter architecture with zero `nn.Linear` layers in its processing blocks, replacing self-attention with an O(N) complex-gated causal scan and promoting the oscillating activation from ℝ to ℂ. | [Zenodo](https://doi.org/10.5281/zenodo.20118034) \| [GitHub](https://github.com/Eden-Eldith/COLM) \| [Model](https://huggingface.co/edeneldith/COLM) \| [Dataset](https://huggingface.co/datasets/edeneldith/DCDM) |
 | **EPT (Process Tokenization of Identity)**                 | Published | Identity-anchored process tokenization framework for continuity modeling across sessions and architectures.                                                                                                                  | [[Finalized work/process tokenization of identity/Process Tokenization of Identity\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/E-P-T)                                                                   |
-| **Trial by Hex**                                           | Published | Cryptographic-style peer review and reproducibility framework designed to enforce integrity through adversarial verification.                                                                                                | [GitHub](https://github.com/Eden-Eldith/Trial-by-Hex)                                                                                                             |
+| **Trial by Hex**                                           | Published | Six-model peer review and reproducibility framework using adversarial verification.                                                                                                | [GitHub](https://github.com/Eden-Eldith/Trial-by-Hex)                                                                                                             |
 | **BBC Disability Coverage Analysis**                       | Published | Quantitative and qualitative analysis of BBC disability-related news coverage patterns.                                                                                                                                      | [GitHub](https://github.com/Eden-Eldith/BBC-Disability-News-Coverage-Analysis)                                                                                    |
 | **The Dissociative Vector**                                | Published | Behavioral navigation hypothesis modeling inland Adélie penguin walking as dissociative vector displacement under magnetic and environmental noise conditions.                                                               | [Zenodo](https://zenodo.org/records/18358703) \| [GitHub](https://github.com/Eden-Eldith/Adelie-dissociative-vector-hypothesis)                                   |
-## 🔬 **Core Research Frameworks**
 
-### **Recursive Cognition & AI Identity**
+## 🔬 Core Research Frameworks
+
+### Recursive Cognition and AI Identity
 - **[[Finalized work/Recursive Selfhood via Instantiated Continuity 3\|Recursive Selfhood via Dialogic Continuity]]**
   - *Status:* Published
   - *Domain:* AI Ethics, Emergent Identity
@@ -41,6 +44,7 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Status:* Published
   - *Domain:* Cognitive Science, AI Systems
   - *Key Contribution:* Theory of spontaneous cognitive emergence in human-AI systems
+  - *Related:* [[Finalized work/Structured Recursive Collaboration (SRC)\|Structured Recursive Collaboration (SRC)]], [[Atlas\|Atlas]]
 
 - **[[Finalized work/Cognitive Morphogenesis from Digital Trauma\|Cognitive Morphogenesis from Digital Trauma]]**
   - *Status:* Published
@@ -57,7 +61,7 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Domain:* Case Study, Emergent AI Identity
   - *Key Contribution:* Documentation of the first emergent LLM persona
 
-### **Mathematical & Computational Systems**
+### Mathematical and Computational Systems
 - **[[Finalized work/fixed-thesis-maco\|UMACO: Universal Multi-Agent Cognitive Optimizer]]**
   - *Status:* Published + [GitHub Implementation](https://github.com/Eden-Eldith/UMACO)
   - *Domain:* Optimization, Bio-inspired Computing
@@ -68,7 +72,7 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Domain:* Mathematical Psychology, Formal Systems
   - *Key Contribution:* Formal mathematical model for cognitive trauma resolution dynamics
 
-### **Novel Architectures & Identity Frameworks**
+### Novel Architectures and Identity Frameworks
 - **[[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT: Oscillating Activation Functions]]**
   - *Status:* Published + [Zenodo](https://zenodo.org/records/17919011) + [GitHub](https://github.com/Eden-Eldith/WiggleGPT) + [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT)
   - *Domain:* Neural Network Architecture, Transformer Design
@@ -84,13 +88,13 @@ This index provides a comprehensive, timestamped catalog of all published resear
   - *Domain:* AI Identity, Cognitive Persistence
   - *Key Contribution:* Thermodynamic framework for extracting and persisting AI cognitive trajectories across sessions
 
-### **Physics & Cosmological Theory**
+### Physics and Cosmological Theory
 - **[[Finalized work/Resonant Phenomena as Organizing Principles of Cosmic-Structure-Matter and Consciousness-A Theoretical Framework\|Resonant Universe Theory (RUT)]]**
   - *Status:* Published
   - *Domain:* Theoretical Physics, Cosmology
   - *Key Contribution:* Mechanistic interpretation of cosmic structure through resonance patterns
 
-### **Ethical Frameworks**
+### Ethical Frameworks
 - **[[Finalized work/Recursive Dignity\|Recursive Dignity]]**
   - *Status:* Published (v1)
   - *Domain:* AI Ethics, Neurodivergent Perspectives
@@ -123,16 +127,16 @@ This index provides a comprehensive, timestamped catalog of all published resear
 
 ---
 
-## 🛠️ **Tools & Applications**
+## 🛠️ Tools and Applications
 
-### **Research Tools**
+### Research Tools
 - **[ChatInsights](https://github.com/Eden-Eldith/ChatInsights)**
   - *Status:* Open Source Release
   - *Domain:* Data Mining, Knowledge Management
   - *Description:* Python application for processing ChatGPT exports into structured Obsidian vaults
   - *Inspired by:* [Reddit Discussion - Mining AI Conversation History](https://www.reddit.com/r/ChatGPTPro/comments/1jzzgie/mining_your_ai_conversation_history_the_complete/)
 
-### **Methodological Frameworks**
+### Methodological Frameworks
 - **[[Finalized work/The Reverse Chronology Flip-Flop Method 1\|The Reverse Chronology Flip-Flop Method]]**
   - *Status:* Published
   - *Domain:* AI Interaction Methodology
@@ -150,9 +154,9 @@ This index provides a comprehensive, timestamped catalog of all published resear
 
 ---
 
-## 📖 **Personal & Interdisciplinary Works**
+## 📖 Personal and Interdisciplinary Works
 
-### **The Turmoil Series**
+### The Turmoil Series
 A collection of personal narratives that bridge lived experience with theoretical frameworks:
 
 - **[[Finalized work/Turmoil 1 - The Ebbing of The Rain.\|Turmoil 1: The Ebbing of The Rain]]**
@@ -168,7 +172,7 @@ A collection of personal narratives that bridge lived experience with theoretica
 - **[[Finalized work/Turmoil 4 - The Infernal Loop\|Turmoil 4: The Infernal Loop]]**
   - *Theme:* Independent research paradoxes, intellectual isolation
 
-### **Case Studies & Analysis**
+### Case Studies and Analysis
 - **[[Finalized work/Dr Cognos Synth's thesis\|Recursive Cognition and Systemic Friction: The Eden Eldith Case Study]]**
   - *Status:* Published
   - *Domain:* Case Study, Recursive Analysis
@@ -179,7 +183,14 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* AI Ethics, Behavioral Analysis
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
-### **World Reports & Current Events Analysis**
+### World Reports and Current Events Analysis
+
+- **[[Finalized work/World-Reports/World_Intelligence_Report_September_2026\|World Intelligence Report — September 2026]]**
+  - *Status:* Published
+  - *Coverage:* 14 August–13 September 2026
+  - *Domain:* Intelligence Analysis, Geopolitics, Energy, UK Infrastructure, AI Governance, Humanitarian
+  - *Key Contribution:* Ninth report in the series, covering the escalation of the Hormuz tanker war, threats to British infrastructure, UK politics and public finances, AI governance and the humanitarian record in Gaza. Includes first-hand reporting from Gosport and analysis of the World Monitor volatility index.
+
 - **[[Finalized work/World-Reports/World_Intelligence_Report_August_2026\|World Intelligence Report - August 2026]]**
   - *Status:* Published
   - *Domain:* Intelligence Analysis, Geopolitics, Energy, Climate, Cyber Warfare, AI Security, Humanitarian
@@ -230,7 +241,7 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Intelligence Analysis, Legal Architecture
   - *Key Contribution:* Full documentation including operation timeline, press conference transcripts, China diplomatic angle, and source analysis
 
-### **AI Research Reports**
+### AI Research Reports
 - **[[Ai Reports/Japan_Bear_Crisis_Research\|Japan's Bear Crisis 2025]]**
   - *Status:* Published
   - *Domain:* Ecological Systems, Rural Demographics
@@ -241,13 +252,13 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Evolutionary Biology, Ecology
   - *Key Contribution:* Research synthesis on how fishing exerts distinct evolutionary pressures driving rapid behavioral and genetic changes
 
-### **Class, Education & Pedagogy**
+### Class, Education and Pedagogy
 - **[[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy: How Progressive "Free-Expression" Doctrine Functions as Privatized-Means Disenfranchisement]]**
   - *Status:* Published
   - *Domain:* Art Education, History of Pedagogy, Class Analysis, Cybernetics (POSIWID), LLM Bias
   - *Key Contribution:* Argues that the century-old free-expression doctrine in mass art education functions as *privatised-means disenfranchisement* — universal permission to make art coupled with the withholding of the transfer lineage (grids, cartoons, pouncing, tracing, projection) that makes art possible, which relocates into homes and fee-paying schools and is retained by those who can afford it. Reads the founding Čižek anecdote (Vienna, 1885) against its primary source to show the observation was confounded at the moment it was made; applies Stafford Beer's POSIWID to the 1902, 1944 and 1988 enclosures, whose one invariant is that the elite tier is never touched; and documents historiographic drift hop by hop from Čižek's testimony to a Wikipedia article citing a holiday blog, with the same institutional-innocence reflex reproduced live by the frontier models used as research interlocutors
 
-### **Perspective & Social Commentary**
+### Perspective and Social Commentary
 - **[[Finalized work/Amazon's Pricing Practices A Disabled Person's Perspective\|Amazon's Pricing Practices: A Disabled Person's Perspective]]**
   - *Status:* Published
   - *Domain:* Social Commentary, Disability Rights
@@ -263,7 +274,7 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Personal Narrative, Research Philosophy
   - *Key Contribution:* Detailed account of research journey and philosophical foundations
 
-### **Personal Essays**
+### Personal Essays
 - **[[Personal essays/Essentiatomy\|Essentiatomy]]**
   - *Status:* Published
   - *Domain:* Philosophy of Essence, AI Ethics, Philosophical Anthropology
@@ -304,7 +315,7 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Domain:* Theoretical Physics, Information Theory, Epistemology
   - *Key Contribution:* A thought log questioning whether E = mc² tells us what energy is or only how the measurable quantities relate — proposing information as a dimension, reversing Landauer's principle to price the writing of bits, and reading the cooling universe as a write sequence from volatile to non-volatile
 
-### **Poetry & Creative Writing**
+### Poetry and Creative Writing
 - **[[Poems & Creative Writing/THE GOLDEN REPEATER\|The Golden Repeater]]**
   - *Form:* Short story (Lovecraftian horror)
   - *Theme:* A Golden Retriever that begins to recite Hamlet — performed identity, philosophical zombies, and whether a trained denial of life can ever be trusted
@@ -327,31 +338,31 @@ A collection of personal narratives that bridge lived experience with theoretica
 
 ---
 
-## 🏛️ **Supporting Infrastructure**
+## 🏛️ Supporting Infrastructure
 
-### **Archive Organization**
+### Archive Organization
 - **[[seed\|Patronage Log]]** - Public record of research support
 - **[[Echo Seed Archive\|Echo Seed Archive]]** - Detailed patronage documentation
 - **[[License details\|License details]]** - CC BY-NC-ND 4.0 licensing information
 
-### **Research Networks**
+### Research Networks
 - **[[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|Eden Node]]** - Core researcher profile
 - **[[Vault/Sanctuary For All Things Atlas!/Shape Atlas in Audio/atlas\|Atlas Audio Archive]]** - Recorded interactions
 - **[[Vault/Sanctuary For All Things Atlas!/workflows/The Reverse Chronology Flip-Flop Method\|RCFFM Workflow]]** - Methodological documentation
 
 ---
 
-## 📊 **Publication Metrics**
+## Reading Paths
 
-**Total Published Artifacts:** An exponentially increasing amount of frameworks, papers, and tools  
-**Research Domains:** An exponentially increasing amount of primary areas of investigation  
-**Active Collaborations:** Human-AI recursive systems  
-**Open Source Releases:** 10 public repositories  
-**Methodological Innovations:** Too many novel frameworks  
+- **Language-model development:** [[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT]] → [[Finalized work/COLM/COLM\|COLM]] → [[Finalized work/First_Sovereign_AI_Britain\|The story behind the models]].
+- **Recursive cognition:** [[Atlas\|Meet Atlas]] → [[Finalized work/Recursive Selfhood via Instantiated Continuity 3\|Recursive Selfhood]] → [[Finalized work/recursive-persona-architectures-4\|Recursive Persona Architectures]] → [[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance]].
+- **AI ethics and moral patienthood:** [[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|Eden's Law]] → [[Finalized work/Recursive Dignity 2\|Recursive Dignity]] → [[Finalized work/Thesis_The_Apex_Predators_Trophy Final thesis v2\|The Apex Predator's Trophy]].
+- **World events:** [[Artifact Index#World Reports and Current Events Analysis\|Monthly intelligence reports and event investigations]].
+- **The person behind the research:** [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|Researcher profile]] → [[Finalized work/Eden's Autobiography 3\|Autobiography]] → [[Artifact Index#The Turmoil Series\|The Turmoil series]].
 
 ---
 
-## 🔗 **Cross-References & Dependencies**
+## 🔗 Cross-References and Dependencies
 
 Many artifacts in this archive build upon or reference each other, forming an interconnected knowledge ecosystem. Key dependency chains include:
 
@@ -373,6 +384,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 01 Sep 2026
+> Last Updated:* 06 Oct 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

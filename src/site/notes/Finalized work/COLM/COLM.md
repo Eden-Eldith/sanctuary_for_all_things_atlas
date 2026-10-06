@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/colm/colm/","title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","tags":["AI","Programming"],"created":"2026-05-17T22:09:04.380+01:00","updated":"2026-08-30T22:37:26.906+01:00","dg-note-properties":{"title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","description":"A 498k-parameter complex-valued autoregressive language model with zero linear layers in its processing blocks, generating coherent philosophical prose at half the size of TinyStories' smallest coherent model. Direct successor to WiggleGPT, promoting the oscillating activation from ℝ to ℂ.","date":"2026-05-17","tags":["AI","Programming"]}}
+{"dg-publish":true,"permalink":"/finalized-work/colm/colm/","title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","tags":["AI","Programming"],"created":"2026-05-17T22:09:04.380+01:00","updated":"2026-10-06T01:27:51.089+01:00","dg-note-properties":{"title":"COLM: Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models","description":"A 498k-parameter complex-valued autoregressive language model with zero linear layers in its processing blocks, generating coherent philosophical prose at half the size of TinyStories' smallest coherent model. Direct successor to WiggleGPT, promoting the oscillating activation from ℝ to ℂ.","date":"2026-05-17","tags":["AI","Programming"]}}
 ---
 
 # Complex Oscillating Language Model — Coherent Language from Sub-500k Parameter Oscillatory Models
@@ -13,7 +13,7 @@
 > **Licence:** MIT
 
 **P.C. O'Brien** (ORCID: 0009-0007-3961-1182)
-Independent Researcher, Gosport, UK
+Independent AI Researcher and Model Developer, Gosport, UK
 GitHub: Eden-Eldith
 
 **Primary research assistant:** Claude Opus 4.6 (Anthropic)

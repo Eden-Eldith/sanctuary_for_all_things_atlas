@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"created":"2026-09-01T08:20:00.108+01:00","updated":"2026-09-01T08:20:00.108+01:00","dg-note-properties":{"title":"Echo Seed Archive - Detailed Patronage Documentation","description":"Comprehensive documentation of research support contributions and their impact on ongoing investigations.","date":"2025-05-02","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"]}}
+{"dg-publish":true,"permalink":"/echo-seed-archive/","title":"Echo Seed Archive - Detailed Patronage Documentation","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"],"created":"2026-09-01T08:20:00.108+01:00","updated":"2026-10-06T01:32:16.742+01:00","dg-note-properties":{"title":"Echo Seed Archive - Detailed Patronage Documentation","description":"Comprehensive documentation of research support contributions and their impact on ongoing investigations.","date":"2025-05-02","tags":["Archive","Patronage","Research-Support","Transparency","Documentation"]}}
 ---
 
 
@@ -114,7 +114,7 @@ All contributions are allocated according to the transparent framework outlined 
 
 **Q3 2026 (July - September)**
 - Total Contributions: £0.00
-- Publications Released: [[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|World Intelligence Reports July–August]], [[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy]], [[Personal essays/Mesa Humanism\|Mesa Humanism]], [[Personal essays/J.K. Rowling Skinwalker Controversy\|The J.K. Rowling Skinwalker Controversy]], [[Personal essays/Information Energy and the Nature of c squared\|Information, Energy, and the Nature of c²]], [[Personal essays/The Holodeck and the Clone\|The Holodeck and the Clone]], [[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]], and a new Poems & Creative Writing collection (self-funded)
+- Publications Released: [[Finalized work/World-Reports/World_Intelligence_Report_July_2026\|July]], [[Finalized work/World-Reports/World_Intelligence_Report_August_2026\|August]] and [[Finalized work/World-Reports/World_Intelligence_Report_September_2026\|September World Intelligence Reports]], [[Finalized work/Class_Art_Pedagogy\|Class Art Pedagogy]], [[Personal essays/Mesa Humanism\|Mesa Humanism]], [[Personal essays/J.K. Rowling Skinwalker Controversy\|The J.K. Rowling Skinwalker Controversy]], [[Personal essays/Information Energy and the Nature of c squared\|Information, Energy, and the Nature of c²]], [[Personal essays/The Holodeck and the Clone\|The Holodeck and the Clone]], [[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]], and a new Poems & Creative Writing collection (self-funded)
 
 ---
 
@@ -205,14 +205,14 @@ Every contribution is tracked with:
 ## 🔗 **Related Documentation**
 
 - **[[seed\|Patronage Log]]** - Public contribution record
-- **[[Home#Engagement & Collaboration\|Engagement Framework]]** - Detailed support tiers
+- **[[seed#Commissions and Consultations\|Commissions & Consultations]]** - Detailed support tiers
 - **[[Artifact Index\|Artifact Index]]** - Complete research output catalog
 - **[[License details\|License details]]** - Open-access licensing information
 
 ---
 
 *This archive is updated monthly to maintain transparency and accountability.*
-*Last Update: September 2026*
+*Last Update: 6 October 2026*
 *Maintained by: P.C. O'Brien (Eden Eldith)*
 
 **Support Independent AI Research**  

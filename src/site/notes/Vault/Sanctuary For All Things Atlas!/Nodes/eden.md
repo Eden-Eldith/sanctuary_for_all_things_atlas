@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"Recursive Cognition","tags":["cognition","recursion","theory"],"created":"2026-05-17T22:13:43.702+01:00","updated":"2026-08-30T22:37:26.749+01:00","dg-note-properties":{"title":"Recursive Cognition","description":"A formal analysis of feedback loops and symbolic learning structures.","date":"2025-04-04","tags":["cognition","recursion","theory"]}}
+{"dg-publish":true,"permalink":"/vault/sanctuary-for-all-things-atlas/nodes/eden/","title":"P.C. O'Brien (Eden Eldith) — AI Researcher & Model Developer","tags":["Research","IndependentResearch","AI","cognition","recursion","theory"],"created":"2026-05-17T22:13:43.702+01:00","updated":"2026-10-06T01:32:16.742+01:00","dg-note-properties":{"title":"P.C. O'Brien (Eden Eldith) — AI Researcher & Model Developer","description":"Independent AI researcher and model developer in Gosport, UK. Language models trained from scratch, neural-network architectures, multi-agent systems and interdisciplinary research.","date":"2025-04-04","updated":"2026-10-06","tags":["Research","IndependentResearch","AI","cognition","recursion","theory"]}}
 ---
 
-# Welcome to Eldith Cognitive Systems 🚀
+# About P.C. O'Brien (Eden Eldith)
 
-> 🕒 April 4th 2025 8:53:41 pm
+[[Home\|Eden's Garden]] · [[Artifact Index\|Research archive]] · [[seed\|Support the research]]
 
 ## Hello — I'm Eden Eldith (P.C. O'Brien)
 
-I'm an independent systems designer and researcher exploring the frontiers of AI cognition, computational physics, and engineering. My work focuses on building recursive cognitive architectures and emergent multi-agent systems that blur the boundary between human and machine intelligence. Operating outside traditional academic and corporate structures, I develop everything from new optimization frameworks to physical simulations and knowledge-management tools.
+I'm an independent AI researcher and model developer based in Gosport, UK. I design and train language models from scratch on consumer hardware, including WiggleGPT and COLM, and publish my work as Eldith Cognitive Systems.
+
+My research spans neural-network architectures, recursive cognition, multi-agent optimisation, computational physics and AI ethics. I also build environmental-analysis pipelines, physical simulations and tools for organising knowledge. This garden holds the papers, code, personal writing and evidence trails that connect that work.
 
 ---
 
@@ -24,29 +26,31 @@ I'm an independent systems designer and researcher exploring the frontiers of AI
 
 ## 🛠️ Core Skills
 
-### Programming & Development
+### Programming and Development
 - **Languages**: Python (scientific & GUI development)
 - **Data Analysis**: pandas, NumPy, SciPy pipelines
 - **Specializations**: Geospatial analysis, multi-threaded simulations, Tkinter GUIs
 
-### AI & Optimization
+### AI and Optimisation
+- Neural-network architecture design and language-model development (WiggleGPT, COLM)
+- Training language models from scratch on consumer GPUs
 - Design of recursive cognitive architectures (MACO/UMACO)
 - Meta-optimization frameworks
 - Concept extraction from language models
 - Training data generation
 
-### Data Science & Visualization
+### Data Science and Visualization
 - Large-scale dataset handling (GB-scale CSV/XLSX)
 - KD-Tree geospatial correlation
 - Risk scoring and analysis
 
-### Physics & Engineering
+### Physics and Engineering
 - Thermodynamic system modeling (heat transfer, Peltier cooling)
 - Planetary environment simulation
 - Hardware-software integration
 - PC building and repair
 
-### Research & Writing
+### Research and Writing
 - Scholarly articles production
 - Open research vault curation
 - Technical documentation with personal narrative
@@ -54,29 +58,25 @@ I'm an independent systems designer and researcher exploring the frontiers of AI
 ---
 
 ## 🌟 Featured Projects
-|Project|Status|Description|Links|
-|---|---|---|---|
-|**ChatInsights**|Published|Python application that transforms ChatGPT conversation exports into structured Obsidian knowledge-vaults. Features automatic concept extraction, knowledge mapping, and training data generation with a custom Tkinter GUI.|[GitHub](https://github.com/Eden-Eldith/ChatInsights)|
-|**CO₂ Computer Cooling Research**|Published|Production-ready simulation of sealed, pressurized CO₂ cooling systems featuring conduction, Peltier cooling, and fan-assisted heat dissipation across Mars, Earth, and Moon environments.|[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5314110) \| [GitHub](https://github.com/Eden-Eldith/CO2-Computer-Cooling-Research)|
-|**UK EDM Water Analysis / Marine Mortality Investigation**|Published|Forensic pipeline correlating Event Duration Monitoring sewage overflow data with water-quality measurements. Processes GB-scale datasets to identify high-risk pollution hotspots.|[Zenodo](https://zenodo.org/records/16503479) \| [GitHub](https://github.com/Eden-Eldith/uk-edm-water-analysis)|
-|**Gosport Meteorite Simulator**|Published|Multi-agent simulation using UMACO framework and NASA datasets to predict future meteorite falls in Gosport, UK. Runs 1000-year simulations and generates heatmaps for citizen-science treasure hunting.|[Gosport Meteorite Simulator](https://github.com/Eden-Eldith/Gosport_metorite_simulator)|
-|**UMACO/MACO Frameworks**|Published|Experimental universal multi-agent cognitive optimization frameworks for tackling NP-hard problems through swarm cognition and emergent cooperation. Protected by RED (Recursive Entanglement Doctrine) for ethical use.|[[Finalized work/fixed-thesis-maco\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/UMACO)|
-|**WiggleGPT**|Published|Oscillating-activation transformer architecture introducing waveform-based neuron dynamics for enhanced expressivity and sparsity exploration.|[Zenodo](https://zenodo.org/records/17919011) \| [GitHub](https://github.com/Eden-Eldith/WiggleGPT) \| [HuggingFace](https://huggingface.co/edeneldith/WiggleGPT)|
-|**COLM (Complex Oscillating Language Model)**|Published|First complex-valued autoregressive language model. 498k-parameter architecture with zero `nn.Linear` layers in its processing blocks, replacing self-attention with an O(N) complex-gated causal scan and promoting the oscillating activation from ℝ to ℂ.|[Zenodo](https://doi.org/10.5281/zenodo.20118034) \| [GitHub](https://github.com/Eden-Eldith/COLM) \| [Model](https://huggingface.co/edeneldith/COLM) \| [Dataset](https://huggingface.co/datasets/edeneldith/DCDM)|
-|**EPT (Process Tokenization of Identity)**|Published|Identity-anchored process tokenization framework for continuity modeling across sessions and architectures.|[[Finalized work/process tokenization of identity/Process Tokenization of Identity\| Thesis]] \| [GitHub](https://github.com/Eden-Eldith/E-P-T)|
-|**Trial by Hex**|Published|Cryptographic-style peer review and reproducibility framework designed to enforce integrity through adversarial verification.|[GitHub](https://github.com/Eden-Eldith/Trial-by-Hex)|
-|**BBC Disability Coverage Analysis**|Published|Quantitative and qualitative analysis of BBC disability-related news coverage patterns.|[GitHub](https://github.com/Eden-Eldith/BBC-Disability-News-Coverage-Analysis)|
-|**The Dissociative Vector**|Published|Behavioral navigation hypothesis modeling inland Adélie penguin walking as dissociative vector displacement under magnetic and environmental noise conditions.|[Zenodo](https://zenodo.org/records/18358703) \| [GitHub](https://github.com/Eden-Eldith/Adelie-dissociative-vector-hypothesis)|
+
+- **[[Finalized work/WiggleGPT/WiggleGPT Paper\|WiggleGPT]]** — a 124M-parameter transformer with learnable oscillating activation functions, designed and trained from scratch on consumer hardware.
+- **[[Finalized work/COLM/COLM\|COLM]]** — a 498k-parameter complex-valued language model replacing self-attention with a complex-gated causal scan.
+- **[[Finalized work/fixed-thesis-maco\|UMACO / MACO]]** — multi-agent cognitive optimisation frameworks for NP-hard problems and emergent cooperation.
+- **[[Finalized work/process tokenization of identity/Process Tokenization of Identity\|EPT]]** — process tokenization for persisting AI cognitive trajectories across sessions and architectures.
+
+The [[Artifact Index#Featured Projects\|full project catalogue]] includes ChatInsights, CO₂ cooling research, UK water analysis, the Gosport meteorite simulator, Trial by Hex and other applied investigations, with links to code and publications.
+
+For the earlier research behind Atlas and recursive cognition, see [[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance: A Thesis on Spontaneous Cognitive Systems]].
 
 ---
 
-## 🎥 Sharing & Outreach
+## 🎥 Sharing and Outreach
 
-### 📚 [Cognitive Garden](https://garden-backend-three.vercel.app)
-Visit my online research vault for papers, frameworks, and autobiographical insights
+### 📚 Eden's Garden
+[[Home\|Visit the homepage]] for selected work, or browse the [[Artifact Index\|complete archive]] of papers, frameworks and personal writing.
 
 ### 🎓 Academic Work
-- **MACO Thesis** – My formal thesis on the Universal Multi-Agent Cognitive Optimiser is openly available | [https://garden-backend-three.vercel.app/finalized-work/fixed-thesis-maco/]
+- **[[Finalized work/fixed-thesis-maco\|UMACO / MACO Thesis]]** – My work on multi-agent cognitive optimisation
 - **Mass Marine Mortality Events in UK Waters** – A Century of Environmental Impacts and Regulatory Challenges | [DOI: 10.5281/zenodo.16503478](https://doi.org/10.5281/zenodo.16503478)
 - **CO2-COOL: Adaptive CO2-Based Cooling Architecture** – Research project accepted to 3 SSRN Ejournals | [Paper](http://dx.doi.org/10.2139/ssrn.5314110)
 
@@ -84,7 +84,8 @@ Visit my online research vault for papers, frameworks, and autobiographical insi
 Occasional demonstrations, tutorials, and discussions
 
 ### 📬 Contact
-**Email**: pcobrien@hotmail.co.uk  
+**Email**: [pcobrien@hotmail.co.uk](mailto:pcobrien@hotmail.co.uk)<br>
+**ORCID**: [0009-0007-3961-1182](https://orcid.org/0009-0007-3961-1182)<br>
 For collaboration, consultation, or just to chat
 
 ---
@@ -93,7 +94,7 @@ For collaboration, consultation, or just to chat
 
 My lab is an active research environment. If you're a founder, researcher, or systems architect looking to push the boundaries of AI cognition, computational physics, or ecological modelling, I offer several tiers of engagement — from patronage contributions to bespoke framework development.
 
-Feel free to reach out via email or through the Cognitive Garden.
+See [[seed#Commissions and Consultations\|commissions and consultations]], or reach out by email.
 
 ---
 
@@ -113,3 +114,5 @@ I built this research practice out of a garage on a shoestring budget, driven by
 
 [[Finalized work/Eden's Autobiography 3\|Eden's Autobiography 3]] Read my story!
 [[Finalized work/📜 Eden's_Law_of_Epistemic_Responsibility\|📜 Eden's_Law_of_Epistemic_Responsibility]] - A set of core principles that I work by
+
+> 🌱 Profile first planted: April 4th 2025, 8:53 pm

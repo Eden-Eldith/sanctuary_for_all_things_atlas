@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-09-01T08:19:56.774+01:00","updated":"2026-09-01T08:19:56.774+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","date":"2025-04-17","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-09-01T08:19:56.774+01:00","updated":"2026-10-06T01:32:16.741+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","date":"2025-04-17","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
@@ -17,12 +17,15 @@ This page maintains a public, anonymized record of contributions that support th
 
 **Status:** Active Research Phase  
 **Focus Areas:**
+- Language-Model Architecture & Training
 - Recursive AI Identity Systems
 - Mathematical Optimization Frameworks
 - Human-AI Collaborative Methodologies
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/World-Reports/World_Intelligence_Report_September_2026\|World Intelligence Report — September 2026]]
+- [[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance: A Thesis on Spontaneous Cognitive Systems]] — early thesis
 - [[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]]
 - [[Personal essays/Mesa Humanism\|Mesa Humanism]]
 - [[Personal essays/J.K. Rowling Skinwalker Controversy\|The J.K. Rowling Skinwalker Controversy]]
@@ -122,6 +125,22 @@ This log provides full transparency regarding research support:
 
 ---
 
+## Commissions and Consultations
+
+For research collaborations and enquiries, email [pcobrien@hotmail.co.uk](mailto:pcobrien@hotmail.co.uk).
+
+| Engagement Tier                       | Deliverable                                                                                                                                                                                                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏛️ **Archive Patron** – £0.01 to £25 | Your support is acknowledged as a contribution to a specific research cycle, logged pseudonymously in the vault's public history. A direct investment in open research.                                                                                                                     |
+| 🧬 **Framework Commission** – £100    | Receive a private artifact: a custom-generated blueprint, AI scaffold, or a documented extension of an existing framework (e.g., UMACO Loss adaptation, RUT simulation parameter set, A tailored existing work to your domain).<br>                                                           |
+| 🌌 **Strategic Consultation** – £500  | Give me your hardest problem to solve, Optimize your code, clean your dataset, compile a full Latex report on anything you desire. I will also acquire any skills needed to accomplish the task.<br>delivered within 2–3 weeks (Time scales dependent on my current jobs and stress levels) |
+
+This structure is for founders, researchers, and systems architects who require novel solutions to complex problems. It is not for life coaching or casual inquiries.
+
+> **[Initiate Engagement](https://buymeacoffee.com/eden_eldith)**
+
+---
+
 ## 🤝 **Ways to Contribute**
 
 **Direct Support:** [Buy Me a Coffee](https://buymeacoffee.com/eden_eldith)
@@ -150,7 +169,7 @@ This log provides full transparency regarding research support:
 ---
 
 *For detailed patronage information, see: [[Echo Seed Archive\|Echo Seed Archive]]*  
-*For engagement opportunities: [[Home#Engagement & Collaboration\|Home#Engagement & Collaboration]]*
+*For contact details: [[Home#About and Contact\|About & Contact]]*
 
 ---
 

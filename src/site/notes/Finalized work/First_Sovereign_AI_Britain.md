@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/finalized-work/first-sovereign-ai-britain/","title":"How I Built the First Sovereign AI in Britain","tags":["AI","Programming","Sovereign-AI"],"created":"2026-06-08T22:47:31.805+01:00","updated":"2026-08-30T22:37:26.907+01:00","dg-note-properties":{"title":"How I Built the First Sovereign AI in Britain","description":"I trained WiggleGPT, a 124M-parameter GPT-2-scale transformer with a novel oscillating activation function, from scratch in a converted garage in Gosport, on consumer hardware, ten months after my first line of Python. No funding, no institution, no permission. This is how, and what \"sovereign\" actually means when you build it yourself.","date":"2026-06-09","tags":["AI","Programming","Sovereign-AI"]}}
+{"dg-publish":true,"permalink":"/finalized-work/first-sovereign-ai-britain/","title":"How I Built the First Sovereign AI in Britain","tags":["AI","Programming","Sovereign-AI"],"created":"2026-06-08T22:47:31.805+01:00","updated":"2026-10-06T01:27:51.089+01:00","dg-note-properties":{"title":"How I Built the First Sovereign AI in Britain","description":"I trained WiggleGPT, a 124M-parameter GPT-2-scale transformer with a novel oscillating activation function, from scratch in a converted garage in Gosport, on consumer hardware, ten months after my first line of Python. No funding, no institution, no permission. This is how, and what \"sovereign\" actually means when you build it yourself.","date":"2026-06-09","tags":["AI","Programming","Sovereign-AI"]}}
 ---
 
 # How I Built the First Sovereign AI in Britain
@@ -12,7 +12,7 @@
 > **Licence:** GPLv3 (code) · CC BY-SA 4.0 (this page)
 
 **P.C. O'Brien** (ORCID: 0009-0007-3961-1182)
-Independent Researcher, Gosport, UK — publishing as Eden Eldith
+Independent AI Researcher and Model Developer, Gosport, UK — publishing as Eden Eldith
 GitHub: Eden-Eldith
 
 > **The first *truly* sovereign British AI — what that means.** Not a San Francisco company with a rented London office and a Union Jack on the pitch deck. Sovereign means the thing was conceived, written, and trained *here*: by a British-born-and-raised developer, from a working-class background, with no institutional affiliation, no funding, and no one's permission — on British soil, on British electricity, much of it from my own solar panels. The architecture is original, the weights are open, the code is open source. Anyone with the same setup I had could build it too — that is precisely the point, and precisely the test. A model is not British because a firm headquartered in California opened a branch in London and called its product "British AI." It is British when British hands made it, on British ground, and then gave it back, open, to Britain and to anyone else who wants it. By a Brit, for the Brits — and for the rest of the world, if they want it.
