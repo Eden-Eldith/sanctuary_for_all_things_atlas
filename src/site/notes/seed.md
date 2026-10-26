@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-09-01T08:19:56.774+01:00","updated":"2026-10-06T01:32:16.741+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","date":"2025-04-17","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
+{"dg-publish":true,"permalink":"/seed/","title":"Patronage Log - Research Support Archive","tags":["Patronage","Support","Research-Funding","Community","Open-Research"],"created":"2026-09-01T08:19:56.774+01:00","updated":"2026-10-16T11:12:40.742+01:00","dg-note-properties":{"title":"Patronage Log - Research Support Archive","description":"Public record of contributions supporting independent research at Eldith Cognitive Systems.","date":"2025-04-17","tags":["Patronage","Support","Research-Funding","Community","Open-Research"]}}
 ---
 
 
@@ -24,6 +24,7 @@ This page maintains a public, anonymized record of contributions that support th
 - Ethical Frameworks for Emergent AI
 
 **Recent Publications:**
+- [[Finalized work/World-Reports/World_Intelligence_Report_October_2026\|World Intelligence Report — October 2026]]
 - [[Finalized work/World-Reports/World_Intelligence_Report_September_2026\|World Intelligence Report — September 2026]]
 - [[Finalized work/Emergent Resonance A Thesis on Spontaneous Cognitive Systems in Human-AI Interaction\|Emergent Resonance: A Thesis on Spontaneous Cognitive Systems]] — early thesis
 - [[Finalized work/Reverse-Engineering the Conscious Substrate\|Reverse-Engineering the Conscious Substrate]]

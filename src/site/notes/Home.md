@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Eden's Garden | P.C. O'Brien","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-10-06T01:32:16.739+01:00","dg-note-properties":{"title":"Eden's Garden | P.C. O'Brien","description":"Independent AI researcher and model developer designing and training language models from scratch on consumer hardware. Research, code, essays and world reports from Eldith Cognitive Systems.","date":"2025-04-04","updated":"2026-10-06","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/home/","title":"Eden's Garden | P.C. O'Brien","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-10-16T11:12:40.337+01:00","dg-note-properties":{"title":"Eden's Garden | P.C. O'Brien","description":"Independent AI researcher and model developer designing and training language models from scratch on consumer hardware. Research, code, essays and world reports from Eldith Cognitive Systems.","date":"2025-04-04","updated":"2026-10-16","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
 ---
 
 # Eden's Garden
@@ -64,7 +64,7 @@ The [[Artifact Index\|complete research archive]] includes papers, code, environ
 
 ## World Reports
 
-[[Finalized work/World-Reports/World_Intelligence_Report_September_2026\|World Intelligence Report — September 2026]] covers 14 August–13 September: the Hormuz tanker war, threats to British infrastructure, UK politics, AI governance and the humanitarian record in Gaza.
+[[Finalized work/World-Reports/World_Intelligence_Report_October_2026\|World Intelligence Report — October 2026]] covers 13 September–13 October: residents' accounts, local consent and policing in Gosport; Fairford and air defence; Gulf energy logistics; Gaza's humanitarian conditions; and AI governance and access. Includes a separate World Monitor volatility update from 15 October.
 
 The series brings together primary sources, statistical analysis and documented observations. The author has no political affiliation.
 
