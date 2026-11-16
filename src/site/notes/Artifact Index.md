@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-10-16T11:12:40.532+01:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"Research papers, language models, software, world reports, essays and poetry by independent AI researcher and model developer P.C. O'Brien (Eden Eldith).","updated":"2026-10-16","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-11-14T09:29:43.939+00:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"Research papers, language models, software, world reports, essays and poetry by independent AI researcher and model developer P.C. O'Brien (Eden Eldith).","updated":"2026-11-14","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -184,6 +184,12 @@ A collection of personal narratives that bridge lived experience with theoretica
   - *Key Contribution:* Ethical framework for analyzing AI behavioral patterns
 
 ### World Reports and Current Events Analysis
+
+- **[[Finalized work/World-Reports/World_Intelligence_Report_November_2026\|World Intelligence Report — November 2026]]**
+  - *Status:* Complete — awaiting publication
+  - *Coverage:* 13 October–13 November 2026
+  - *Domain:* Intelligence Analysis, Geopolitics, Humanitarian Access, Civil Preparedness, Cost of Living, Cyber Security, AI Sovereignty
+  - *Key Contribution:* Eleventh report in the series, following the continuity of essential services through Hormuz and Ukraine, Gaza's winter emergency and the Nasser Hospital strike, European mobilisation, British household costs and preparedness, and digital dependence reaching food, medical storage and public services. Includes World Monitor volatility analysis and a dated watch list of decisions and operational outcomes.
 
 - **[[Finalized work/World-Reports/World_Intelligence_Report_October_2026\|World Intelligence Report — October 2026]]**
   - *Status:* Complete — awaiting publication
@@ -390,6 +396,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 16 Oct 2026
+> Last Updated:* 14 Nov 2026
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*
