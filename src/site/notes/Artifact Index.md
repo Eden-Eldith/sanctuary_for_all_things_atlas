@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-11-14T09:29:43.939+00:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"Research papers, language models, software, world reports, essays and poetry by independent AI researcher and model developer P.C. O'Brien (Eden Eldith).","updated":"2026-11-14","tags":["Archive","Research","Index","Documentation","Framework"]}}
+{"dg-publish":true,"permalink":"/artifact-index/","title":"Artifact Index - Complete Research Archive","tags":["Archive","Research","Index","Documentation","Framework"],"created":"2026-09-01T08:19:52.861+01:00","updated":"2026-11-20T00:59:15.930+00:00","dg-note-properties":{"title":"Artifact Index - Complete Research Archive","description":"Research papers, language models, software, world reports, essays and poetry by independent AI researcher and model developer P.C. O'Brien (Eden Eldith).","updated":"2026-11-20","tags":["Archive","Research","Index","Documentation","Framework"]}}
 ---
 
 
@@ -130,6 +130,8 @@ Browse the work of P.C. O'Brien (Eden Eldith), independent AI researcher and mod
 ## 🛠️ Tools and Applications
 
 ### Research Tools
+- **[[Index-Internet\|Index-Internet]]** — Research crawler that records public pages, their outgoing links and when they were collected so I can retrace how I found a source. The guide covers crawl rules and removal requests for site owners.
+
 - **[ChatInsights](https://github.com/Eden-Eldith/ChatInsights)**
   - *Status:* Open Source Release
   - *Domain:* Data Mining, Knowledge Management
@@ -396,6 +398,6 @@ Many artifacts in this archive build upon or reference each other, forming an in
 ---
 
 > *First Created: 02 ‎May ‎2025, ‏‎21:59:33 
-> Last Updated:* 14 Nov 2026
+> Last Updated:* @201120260059
 > *Archive Maintained by: P.C. O'Brien (Eden Eldith)*
 > *Repository: [github.com/eden-eldith](https://github.com/eden-eldith)*

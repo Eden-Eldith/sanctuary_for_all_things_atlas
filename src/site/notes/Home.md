@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Eden's Garden | P.C. O'Brien","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-11-14T09:29:43.755+00:00","dg-note-properties":{"title":"Eden's Garden | P.C. O'Brien","description":"Independent AI researcher and model developer designing and training language models from scratch on consumer hardware. Research, code, essays and world reports from Eldith Cognitive Systems.","date":"2025-04-04","updated":"2026-11-14","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/home/","title":"Eden's Garden | P.C. O'Brien","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"],"created":"2026-09-01T08:19:41.208+01:00","updated":"2026-11-20T00:59:15.759+00:00","dg-note-properties":{"title":"Eden's Garden | P.C. O'Brien","description":"Independent AI researcher and model developer designing and training language models from scratch on consumer hardware. Research, code, essays and world reports from Eldith Cognitive Systems.","date":"2025-04-04","updated":"2026-11-20","tags":["DigitalGarden","Research","IndependentResearch","RecursiveCognition","cognition","AI","gardenEntry"]}}
 ---
 
 # Eden's Garden
@@ -10,7 +10,15 @@ P.C. O'Brien (Eden Eldith) is an independent AI researcher and model developer w
 
 This garden brings together the working systems, research papers, world reports and personal writing behind that work, from a garage in Gosport, UK.
 
-[[Home#Models and Code\|Models & Code]] · [[Artifact Index\|Research Archive]] · [[Home#World Reports\|World Reports]] · [[Home#Essays and Poetry\|Essays & Poetry]] · [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|About]]
+[[Home#Models and Code\|Models & Code]] · [[Artifact Index\|Research Archive]] · [[Index-Internet\|Research crawler]] · [[Home#World Reports\|World Reports]] · [[Home#Essays and Poetry\|Essays & Poetry]] · [[Vault/Sanctuary For All Things Atlas!/Nodes/eden\|About]]
+
+---
+
+## Crawler
+
+Index-Internet lets me keep a searchable copy of public pages, the links they contained and the time I collected them.
+
+If you’ve seen Index-Internet in your server logs, the [[Index-Internet\|crawler guide]] explains how to limit visits or ask me to remove a page from the index.
 
 ---
 
